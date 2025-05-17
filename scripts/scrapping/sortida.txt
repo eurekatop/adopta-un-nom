@@ -1,0 +1,7456 @@
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 dobles
+
+{{vegeu|doblés}}
+
+== {{-ca-}} ==
+{{ca-pron|ó}}
+
+=== Nom ===
+{{ca-nom|mp}}
+
+# {{forma-p|ca|doble}}
+# {{marca|ca|esports de raqueta|petanca|botxes}} Encontre consistent en un partit o una partida disputat entre dos equips de dos jugadors.
+# {{marca|ca|basquetbol}} Violació consistent a fer botar la pilota simultàniament amb totes dues mans o a continuar un driblatge després d'haver-se aturat amb la pilota agafada.
+# {{marca|ca|voleibol|handbol}} Falta consistent a tocar la pilota voluntàriament dues vegades consecutives sense cap contacte entremig amb un altre jugador ni tampoc, en el cas de l'handbol, amb el terra, la porteria o l'àrbitre.
+
+==== Notes ====
+En botxes i petanca, cada jugador disposa de tres boles.
+
+{{-sin-}}
+* [[partit de dobles]] (''esports de raqueta'')
+* [[doble cop]] (''voleibol'')
+* [[doble toc]] (''voleibol'')
+
+{{-trad-}}
+{{t-inici|Partit entre dos equips de dos jugadors}}
+* {{en}}: {{trad|en|doubles}}, {{trad|en|doubles match}}
+* {{es}}: {{trad|es|dobles}}, {{trad|es|partido de dobles}}
+* {{fr}}: {{trad|fr|double}}, {{trad|fr|doublettes}}, {{trad|fr|partie de double}}
+{{t-final}}
+
+{{t-inici|Falta en basquetbol}}
+* {{en}}: {{trad|en|discontinue}}, {{trad|en|double dribble}}, {{trad|en|doubles}}
+* {{es}}: {{trad|es|dobles}}
+* {{fr}}: {{trad|fr|double dribble}}
+{{t-final}}
+
+{{t-inici|Falta en voleibol}}
+* {{en}}: {{trad|en|double}}, {{trad|en|double contact}}, {{trad|en|double hit}}
+* {{es}}: {{trad|es|doble golpe}}, {{trad|es|doble toque}}, {{trad|es|dobles}}
+* {{fr}}: {{trad|fr|double}}, {{trad|fr|double touche}}
+{{t-final}}
+
+=== Adjectiu ===
+{{ca-adj|ip}}
+
+# {{forma-p|ca|doble}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|doblar|2|pres|ind}}
+# {{marca-nocat|ca|occidental|balear}} {{ca-forma-conj|doblar|2|pres|subj}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+
+=== Vegeu també ===
+* {{Amical-Termcat|esport}}
+
+== {{-es-}} ==
+{{es-pron}}
+
+=== Nom ===
+{{es-nom|mp}}
+
+# {{forma-p|es|doble}}
+# {{marca|es|esports de pilota}} {{e|ca|dobles}}
+
+=== Vegeu també ===
+* {{termcat|dicc=114|lang=es|consulta=1 octubre 2014}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 doma
+
+== {{-la-}} ==
+{{la-pron|doma}}
+{{-etimologia-}} Del grec antic {{m|grc|δῶμα}}, cognat de {{m|la|domus}}.
+
+=== Nom ===
+{{la-nom|doma|domatis|n}}
+
+# [[sostre]] d'una casa
+
+==== Declinació ====
+{{la-nom-decl|doma|domatis|n}}
+Del grec antic {{m|grc|δῶμα}}, cognat de {{m|la|domus}}.
+
+=
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 dominen
+
+== {{-ca-}} ==
+{{ca-pron|or=/duˈmi.nən/|occ=/doˈmi.nen/}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|dominar|6|pres|ind}}
+# {{ca-forma-conj|dominar|6|pres|subj}}
+#: [Que ells/elles/vostès] [[dominin]] o dominen.
+# {{ca-forma-conj|dominar|6|imp}}
+#: [[dominin|Dominin]] o dominen [ells/elles/vostès].
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|monedin}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 doto
+
+== {{-ca-}} ==
+{{ca-pron|ò|bal=-}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|dotar|1|pres|ind}}
+
+{{-var-}}
+* [[dote]], [[doti]], [[dot]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 dotes
+
+{{vegeu|dotés}}
+
+== {{-ca-}} ==
+{{ca-pron|ò}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|dotar|2|pres|ind}}
+# {{marca-nocat|ca|occidental|balear}} {{ca-forma-conj|dotar|2|pres|subj}}
+
+{{-var-}}
+* [2] [[dotis]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+
+== {{-es-}} ==
+{{es-pron}}
+
+=== Nom ===
+{{es-nom-forma|fp}}
+
+# {{forma-p|es|dote}}
+
+== {{-la-}} ==
+{{la-pron|dōtēs}}
+
+=== Nom ===
+{{la-nom-forma|dōtēs}}
+
+# {{forma-decl|la|dōs|nom|p}}
+# {{forma-decl|la|dōs|voc|p}}
+# {{forma-decl|la|dōs|ac|p}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 dotaren
+
+== {{-ca-}} ==
+{{ca-pron}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{marca-nocat|ca|literari}} {{ca-forma-conj|dotar|6|pass}}
+# {{marca-nocat|ca|valencià}} {{ca-forma-conj|dotar|6|imperf|subj}}
+
+{{-var-}}
+* [2] [[dotessin]], [[dotessen]], [[dotassin]], [[dotassen]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 drenen
+
+== {{-ca-}} ==
+{{ca-pron|é}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|drenar|6|pres|ind}}
+# {{marca-nocat|ca|occidental|balear}} {{ca-forma-conj|drenar|6|pres|subj}}
+# {{marca-nocat|ca|occidental|balear}} {{ca-forma-conj|drenar|6|imp}}
+
+{{-var-}}
+* [2] [[drenin]]
+* [3] [[drenin]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 facturar
+
+== {{-ca-}} ==
+{{ca-pron|tipus=inf}}
+{{homòfons|ca|facturà}}
+{{-etimologia-}} De {{m|ca|factura}}, {{etim-s|ca|XX}}.
+
+=== Verb ===
+{{ca-verb|t}}
+
+# [[fabricar]]
+# Fer constar en una [[factura]] el producte venut a un preu determinat.
+# Enregistrar en un centre de transports l’equipatge o mercaderies a trametre a una destinació.
+
+==== Conjugació ====
+{{ca-conj|alt=no}}
+
+{{-trad-}}
+{{t-inici|Fer constar en una factura}}
+* {{en}}: {{trad|en|invoice}}
+* {{es}}: {{trad|es|facturar}}
+* {{fr}}: {{trad|fr|facturer}}
+* {{it}}: {{trad|it|fatturare}}
+{{t-final}}
+
+{{t-inici|Enregistrar en un centre de transports}}
+* {{en}}: {{trad|en|register}}
+* {{es}}: {{trad|es|facturar}}
+* {{fr}}: {{trad|fr|enregistrer}}
+* {{it}}: {{trad|it|spedire}}
+{{t-final}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|fractura}}
+
+=== Vegeu també ===
+* {{ca-dicc|diec|gdlc|optimot}}
+De {{m|ca|factura}}, {{etim-s|ca|XX}}.
+
+=
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 filmar
+
+== {{-ca-}} ==
+{{ca-pron|tipus=inf}}
+{{homòfons|ca|filmà}}
+{{etim-comp|ca|film|+ar}}, {{etim-s|ca|XX}}.
+
+=== Verb ===
+{{ca-verb|t}}
+
+# Enregistrar imatges en moviment amb [[filmadora]] o aparell equivalent.
+
+==== Conjugació ====
+{{ca-conj|alt=no}}
+
+{{-sin-}}
+* [[rodar]]
+
+{{-trad-}}
+{{t-inici}}
+* {{en}}: {{trad|en|film}}
+* {{es}}: {{trad|es|filmar}}
+* {{eo}}: {{trad|eo|filmi}}
+* {{fr}}: {{trad|fr|filmer}}
+* {{it}}: {{trad|it|filmare}}
+{{t-final}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|marfil}}
+
+=== Vegeu també ===
+* {{ca-dicc|diec|gdlc|optimot|dnv}}
+
+{{catllengua|ca|cinema|televisió}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 forjar
+
+== {{-ca-}} ==
+{{ca-pron|tipus=inf
+|f-centr=LL-Q7026 (cat)-Marvives-forjar.wav
+}}
+{{etimologia|ca}}
+
+=== Verb ===
+{{ca-verb|t}}
+
+# {{sense accepcions}}
+
+==== Conjugació ====
+{{ca.v.conj.para83|for}}
+
+{{-sin-}}
+* [[arbitrar]], [[descobrir]], [[empescar-se]], [[enginyar]], [[excogitar]], [[fabricar]], [[fer]], [[formular]], [[ginyar]], [[idear]], [[inventar]], [[maquinar]], [[produir]], [[trobar]]
+* [[congelar]], [[gelar]], [[glaçar]]
+* [[formar]]
+* [[gelar]], [[glaçar]]
+
+{{-trad-}}
+{{t-inici}}
+{{t-final}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+
+=== Vegeu també ===
+* {{ca-dicc|diec|gdlc|optimot}}
+* {{tesaure}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 fulminar
+
+== {{-ca-}} ==
+{{ca-pron|tipus=inf}}
+{{homòfons|ca|fulminà}}
+{{etimologia|ca}}
+
+=== Verb ===
+{{ca-verb|t-i}}
+
+# {{marca|ca|transitiu}} Un llamp o més, descarregar sobre una cosa o un lloc.
+# {{marca|ca|intransitiu}} Descarregar llamps o atacar amb llamps (un déu, una tempesta, ...)
+# {{marca|ca|transitiu}} Un material explosiu, [[esclatar]].
+# {{marca|ca|transitiu}} Condemnar, en especial quan es fa en nom de Déu.
+
+==== Conjugació ====
+{{ca.v.conj.para1.inar|fulmin|fulm}}
+
+{{-trad-}}
+{{t-inici}}
+{{t-final}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+
+=== Vegeu també ===
+* {{ca-dicc|diec|gdlc|optimot}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 eleva
+
+{{vegeu|elevà|elevă}}
+
+== {{-ca-}} ==
+{{ca-pron|é}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|elevar|3|pres|ind}}
+# {{ca-forma-conj|elevar|2|imp}}
+
+== {{-ro-}} ==
+{{-etimologia-}} Amb article sufixat {{m|ro|-a}}.
+
+=== Nom ===
+{{entrada|ro|nom-forma}}
+
+# {{ro-forma-decl|elevă|na|d|s}}
+Amb article sufixat {{m|ro|-a}}.
+
+=
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 eliminares
+
+== {{-ca-}} ==
+{{ca-pron|or=/ə.ɫi.miˈna.ɾəs/|occ=/e.ɫi.miˈna.ɾes/}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|eliminar|2|pass}}
+#: [Tu] eliminares o vas/vares eliminar.
+# {{ca-forma-conj|eliminar|2|imperf|subj}}
+#: Forma valenciana: [tu] [[eliminessis]], [[eliminesses]], [[eliminasses]], [[eliminassis]] o eliminares.
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 hiena
+
+== {{-ca-}} ==
+{{ca-pron|é
+|f-centr=LL-Q7026 (cat)-Unjoanqualsevol-hiena.wav
+}}
+{{-etimologia-}} {{Del-lang|la|ca|hyaena}}, {{del-lang|grc|ca|ὕαινα|lit=porca}}, {{etim-s|ca|XV}}.
+
+=== Nom ===
+{{ca-nom|f}}
+
+# Mamífer carnívor de la família dels hiènids, de coll llarg i gruixut, característic pel seu crit similar al [[riure]].
+
+{{-trad-}}
+{{t-inici}}
+* {{af}}: {{trad|af|hiëna}}
+* {{sq}}: {{trad|sq|hienë|f}}
+* {{de}}: {{trad|de|Hyäne|f}}
+* {{en}}: {{trad|en|hyena}}
+* {{ar}}: {{trad|ar|ضَبُع‎|m}}
+* {{hy}}: {{trad|hy|բորենի}}
+* {{ast}}: {{trad|ast|hiena}}
+* {{eu}}: {{trad|eu|hiena}}
+* {{be}}: {{trad|be|гіе́на|f}}
+* {{bn}}: {{trad|bn|হায়েনা}}
+* {{bg}}: {{trad|bg|хие́на|f}}
+* {{es}}: {{trad|es|hiena|f}}
+* {{ko}}: {{trad|ko|하이에나}}
+* {{da}}: {{trad|da|hyæne}}
+* {{sk}}: {{trad|sk|hyena|f}}
+* {{sl}}: {{trad|sl|hijena|f}}
+* {{eo}}: {{trad|eo|hieno}}
+* {{et}}: {{trad|et|hüään}}
+* {{fi}}: {{trad|fi|hyeena}}
+* {{fr}}: {{trad|fr|hyène|f}}
+* {{fur}}: {{trad|fur|jene|f}}
+* {{gl}}: {{trad|gl|hiena|f}}
+* {{cy}}: {{trad|cy|udfil|m}}
+* {{ka}}: {{trad|ka|აფთარი}}
+* {{el}}: {{trad|el|ύαινα|f}}
+* {{he}}: {{trad|he|צָבוֹעַ‎|m}}
+* {{hi}}: {{trad|hi|लकड़बग्घा|m}}
+* {{hu}}: {{trad|hu|hiéna}}
+* {{id}}: {{trad|id|dubuk}}
+* {{ga}}: {{trad|ga|hiéana|m}}
+* {{is}}: {{trad|is|híena|f}}
+* {{it}}: {{trad|it|iena|f}}
+* {{ja}}: {{trad|ja|ハイエナ}}, {{trad|ja|鬣犬}}
+* {{kk}}: {{trad|kk|қорқау}}
+* {{ky}}: {{trad|ky|гиена}}
+* {{lv}}: {{trad|lv|hiena|f}}
+* {{lt}}: {{trad|lt|hiena|f}}
+* {{la}}: {{trad|la|hyaena|f}}
+* {{mk}}: {{trad|mk|хие́на|f}}
+* {{nl}}: {{trad|nl|hyena|f}}
+* {{no}}: {{trad|no|hyene|m}}
+* {{fa}}: {{trad|fa|کفتار‎}}
+* {{pl}}: {{trad|pl|hiena|f}}
+* {{pt}}: {{trad|pt|hiena|f}}
+* {{ro}}: {{trad|ro|hienă|f}}
+* {{ru}}: {{trad|ru|гие́на|f}}
+* {{sh}}: {{trad|sh|хијена}}, {{trad|sh|hijena|f}}
+* {{sw}}: {{trad|sw|fisi}}
+* {{sv}}: {{trad|sv|hyena|c}}
+* {{tg}}: {{trad|tg|кафтор}}
+* {{tl}}: {{trad|tl|yena}}
+* {{th}}: {{trad|th|หมาใน}}
+* {{tt}}: {{trad|tt|сыртлан}}
+* {{tr}}: {{trad|tr|sırtlan}}
+* {{cs}}: {{trad|cs|hyena|f}}
+* {{uk}}: {{trad|uk|гіє́на|f}}
+* {{ur}}: {{trad|ur|لکر بگھا‎|m}}
+* {{uz}}: {{trad|uz|sirtlon}}
+* {{wa}}: {{trad|wa|iyinne|f}}
+* {{vi}}: {{trad|vi|linh cẩu}}
+* {{vo}}: {{trad|vo|hüen}}
+* {{wo}}: {{trad|wo|bukki bi}}
+* {{zh}}: {{trad|zh|鬣狗}}
+{{t-final}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+
+=== Vegeu també ===
+* {{Viquipèdia}}
+* {{ca-dicc|diec|gdlc|dnv|dcvb}}
+
+{{catllengua|ca|mamífers}}
+
+== {{-es-}} ==
+{{es-pron}}
+{{etim-lang|la|es|hyaena}}, {{del-lang|grc|es|ὕαινα}}.
+
+=== Nom ===
+{{es-nom|f}}
+
+# [[#ca|hiena]]
+
+{{-der-}}
+* {{e|es|hiénido}}
+
+=== Miscel·lània ===
+* {{es-sil}}
+
+=== Vegeu també ===
+* {{Viquipèdia|lang=es}}
+* {{DRAE}}
+
+{{catllengua|es|mamífers}}
+{{Del-lang|la|ca|hyaena}}, {{del-lang|grc|ca|ὕαινα|lit=porca}}, {{etim-s|ca|XV}}.
+
+=
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 glosar
+
+== {{-ca-}} ==
+{{ca-pron|tipus=inf}}
+{{homòfons|ca|glosà}}
+{{parònims|ca|glossar}}
+{{-etimologia-}} De {{m|ca|glosa}}.
+
+=== Verb ===
+{{ca-verb|i}}
+
+# Fer [[glosa]], [[corranda]], crear una cançó improvisada.
+
+==== Conjugació ====
+{{ca-conj|alg=no|alt=no|rizo=ò}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+
+=== Vegeu també ===
+* {{ca-dicc|diec|gdlc|optimot}}
+De {{m|ca|glosa}}.
+
+=
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 emigres
+
+{{vegeu|emigrés}}
+
+== {{-ca-}} ==
+{{ca-pron}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|emigrar|2|pres|ind}}
+# {{marca-nocat|ca|occidental|balear}} {{ca-forma-conj|emigrar|2|pres|subj}}
+
+{{-var-}}
+* [2] [[emigris]], [[emigros]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 emigrares
+
+== {{-ca-}} ==
+{{ca-pron}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{marca-nocat|ca|literari}} {{ca-forma-conj|emigrar|2|pass}}
+# {{marca-nocat|ca|valencià}} {{ca-forma-conj|emigrar|2|imperf|subj}}
+
+{{-var-}}
+* [2] [[emigreguesses]], [[emigressis]], [[emigresses]], [[emigrassis]], [[emigrasses]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 feres
+
+== {{-ca-}} ==
+{{ca-pron|é}}
+
+=== Adjectiu ===
+{{ca-adj-forma|fp}}
+
+# {{forma-p|ca|fera}}
+
+=== Nom ===
+{{ca-nom-forma|fp}}
+
+# {{forma-p|ca|fera}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{marca-nocat|ca|literari}} {{ca-forma-conj|fer|2|pass}}
+# {{marca-nocat|ca|valencià}} {{ca-forma-conj|fer|2|imperf|subj}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|fer-se}}
+
+== {{-roa-oca-}} ==
+
+=== Verb ===
+{{entrada|roa-oca|verb-forma}}
+
+# {{forma-conj|roa-oca|fer|2|pass}}
+# {{forma-conj|roa-oca|fer|2|imperf|subj}}
+
+{{-var-}}
+* [1] {{e|roa-oca|fahist}}, {{e|roa-oca|fist}}, {{e|roa-oca|faeres}}, {{e|roa-oca|fes}}
+* [2] {{e|roa-oca|fasesses}}, {{e|roa-oca|facesses}}, {{e|roa-oca|faesses}}, {{e|roa-oca|fesses}}, {{e|roa-oca|faeres}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 hibernar
+
+== {{-ca-}} ==
+{{ca-pron|tipus=inf}}
+{{homòfons|ca|hibernà|hivernà|hivernar}}
+{{-etimologia-}} {{Del-lang|la|ca|hibernare|trad=hivernar}}, doblet culte de {{doblet|ca|hivernar}}.
+
+=== Verb ===
+{{ca-verb|i}}
+
+# Passar l'[[hivern]] amb les funcions vitals alentides, en [[hibernació]].
+# {{marca|ca|informàtica}} Passar, un ordinador, a un estat d'estalvi d'energia amb el que desa el contingut de la memòria per després recuperar-lo.
+
+==== Conjugació ====
+{{ca-conj|rizo=è}}
+
+==== Notes ====
+Els homòfons {{m|ca|hivernar}} i ''hibernar'' s'intercanvien sovint erròniament per la relació conceptual: ''hivernar'' és l'hiperònim i ''hibernar'' és l'hipònim.
+
+{{-trad-}}
+{{t-inici}}
+* {{en}}: {{trad|en|hibernate}}
+* {{es}}: {{trad|es|hibernar}}
+* {{fr}}: {{trad|fr|hiberner}}
+* {{it}}: {{trad|it|ibernare}}
+{{t-final}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+
+=== Vegeu també ===
+* {{ca-dicc|diec|gdlc|optimot}}
+
+== {{-es-}} ==
+{{es-pron}}
+{{homòfons|es|ivernar}}
+
+=== Verb ===
+{{es-verb|i|present=hibierno|present2=hiberno}}
+
+# {{e|ca|hibernar}}
+
+=== Miscel·lània ===
+* {{es-sil}}
+{{Del-lang|la|ca|hibernare|trad=hivernar}}, doblet culte de {{doblet|ca|hivernar}}.
+
+=
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 sols
+
+{{vegeu|sòls|Sols}}
+
+== {{-ca-}} ==
+{{ca-pron|ò}}
+{{-etimologia-}} {{del-lang|roa-oca|ca}} De {{comp|roa-oca|sol|pos1=adjectiu|-s|pos2=adverbial}}, {{etim-s|ca|XIV}}.
+{{homòfons|ca|sòls}}
+
+=== Adverbi ===
+{{entrada|ca|adv}}
+
+# [[solament]]
+
+=== Adjectiu ===
+{{ca-adj-forma|mp}}
+
+# {{forma-p|ca|sol}}
+
+=== Nom ===
+{{ca-nom-forma|mp}}
+
+# {{forma-p|ca|sol}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|soler|2|pres|ind}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+
+== {{-en-}} ==
+
+=== Nom ===
+{{entrada|en|nom-forma}}
+
+# {{forma-p|en|sol}}
+
+== {{-fr-}} ==
+{{-pronafi-}} {{pron|fr|/sɔl/}}
+
+=== Nom ===
+{{fr-nom-forma|mp}}
+
+# {{forma-p|fr|sol}}
+{{del-lang|roa-oca|ca}} De {{comp|roa-oca|sol|pos1=adjectiu|-s|pos2=adverbial}}, {{etim-s|ca|XIV}}.
+{{homòfons|ca|sòls}}
+
+=
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 igualar
+
+== {{-ca-}} ==
+{{ca-pron|tipus=inf}}
+{{homòfons|ca|igualà}}
+{{-etimologia-}} De l'adjectiu {{m|ca|igual}}.
+
+=== Verb ===
+{{ca-verb|t-p}}
+
+# Fer que diverses coses es tornin [[igual]]s, posar al mateix [[nivell]].
+# [[aplanar|Aplanar]], posar a nivell, [[compensar]], [[equilibrar]].
+# Ser igual una persona o cosa a una altra.
+# {{marca|ca|pronominal}} [[esdevenir|Esdevenir]] igual a un altre.
+
+==== Conjugació ====
+{{ca-conj}}
+
+{{-sin-}}
+* [[cobrir]], [[compensar]], [[recuperar]]
+
+{{-ant-}}
+* [[desigualar]]
+
+{{-trad-}}
+{{t-inici|Fer iguals}}
+* {{en}}: make {{trad|en|equal}}, {{trad|en|equalize}}
+* {{es}}: {{trad|es|igualar}}
+* {{fr}}: {{trad|fr|égaler}}
+* {{it}}: {{trad|it|uguagliare}}
+* {{la}}: {{trad|la|aequare}}
+* {{oc}}: {{trad|oc|egalar}}
+* {{pt}}: {{trad|pt|igualar}}
+{{t-final}}
+
+{{t-inici|Aplanar, posar a nivell}}
+* {{en}}: {{trad|en|level}}
+* {{es}}: {{trad|es|igualar}}
+* {{fr}}: {{trad|fr|égaliser}}, {{trad|fr|applanir}}
+* {{it}}: {{trad|it|agguagliare}}, {{trad|it|spianare}}
+* {{la}}: {{trad|la|aequare}}
+* {{oc}}: {{trad|oc|asegalar}}, {{trad|oc|egalejar}}
+{{t-final}}
+
+{{t-inici|Ser igual}}
+* {{en}}: make {{trad|en|equal}}, {{trad|en|equalize}}
+* {{es}}: {{trad|es|igualar}}
+* {{fr}}: {{trad|fr|égaliser}}
+* {{pt}}: {{trad|pt|igualar}}
+{{t-final}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|Aguilar|argilau}}
+
+=== Vegeu també ===
+* {{ca-dicc|diec|gdlc|optimot}}
+* {{R:DLCCCL 1840}}
+* {{tesaure}}
+
+== {{-es-}} ==
+{{es-pron}}
+
+=== Verb ===
+{{es-verb}}
+
+# {{e|ca|igualar}}
+
+=== Miscel·lània ===
+* {{es-sil}}
+De l'adjectiu {{m|ca|igual}}.
+
+=
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 incendiar
+
+== {{-ca-}} ==
+{{ca-pron|tipus=inf}}
+{{homòfons|ca|incendià}}
+{{-etimologia-}} Del llatí {{m|la|incendiare}}.
+
+=== Verb ===
+{{ca-verb|t-p}}
+
+# [[calar|Calar]] [[foc]].
+
+==== Conjugació ====
+{{ca-conj}}
+
+{{-rel-}}
+* [[incendi]]
+* [[incendiari]]
+
+{{-sin-}}
+* [[brasejar]], [[carbonitzar]], [[cremar]], [[encendre]], [[flamejar]].
+
+{{-trad-}}
+{{t-inici}}
+* {{en}}: {{trad|en|set on fire}}
+* {{es}}: {{trad|es|incendiar}}
+* {{fr}}: {{trad|fr|incendier}}
+* {{it}}: {{trad|it|incendiare}}
+* {{la}}: {{trad|la|incendere}}
+* {{pt}}: {{trad|pt|incendiar}}
+{{t-final}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|incardine|indicaren|candirien}}
+
+=== Vegeu també ===
+* {{R:CCLFI 1839}}
+* {{ca-dicc|diec|gdlc|optimot}}
+* {{tesaure}}
+
+== {{-es-}} ==
+{{es-pron}}
+{{-etimologia-}} De {{m|es|incendio}}
+
+=== Verb ===
+{{es-verb|t|present=incendio}}
+
+# {{e|ca|incendiar}}
+
+=== Miscel·lània ===
+* {{es-sil}}
+Del llatí {{m|la|incendiare}}.
+
+=
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 incriminar
+
+== {{-ca-}} ==
+{{ca-pron|tipus=inf}}
+{{homòfons|ca|incriminà}}
+{{etimologia|ca}}
+
+=== Verb ===
+{{ca-verb|t}}
+
+# [[acusar|Acusar]] d'un [[crim]].
+# Acusar com a [[culpable]].
+
+==== Conjugació ====
+{{ca-conj}}
+
+{{-sin-}}
+* [[inculpar]]
+
+{{-trad-}}
+{{t-inici}}
+* {{en}}: {{trad|en|incriminate}}
+* {{es}}: {{trad|es|incriminar}}
+* {{fr}}: {{trad|fr|incriminer}}
+* {{it}}: {{trad|it|incriminare}}
+{{t-final}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+
+=== Vegeu també ===
+* {{ca-dicc|diec|gdlc|optimot}}
+
+== {{-es-}} ==
+{{es-pron}}
+
+=== Verb ===
+{{es-verb|t}}
+
+# {{e|ca|incriminar}}
+
+=== Miscel·lània ===
+* {{es-sil}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 inflar
+
+== {{-ca-}} ==
+{{ca-pron|tipus=inf}}
+{{homòfons|ca|inflà}}
+{{-etimologia-}} {{Del-lang|la|ca|inflāre|lit=bufar a dins}}, {{etim-s|ca|XIV}}.
+
+=== Verb ===
+{{ca-verb|t-p}}
+
+# [[omplir|Omplir]] de [[vent]] alguna cosa.
+# {{marca|ca|per metonímia}} [[ensuperbir|Ensuperbir]], [[exagerar]].
+# {{marca|ca|pronominal}} [[elevar|Elevar-se]] alguna part del cos per [[ferida]] o [[cop]], o per haver-hi acudit algun tumor.
+
+==== Conjugació ====
+{{ca-conj|alg=no}}
+
+{{-var-}}
+* [[unflar]]
+
+{{-sin-}}
+* [[altivar-se]], [[enfaristolar-se]], [[enorgullir-se]], [[ensuperbir-se]], [[envanir-se]], [[presumir]], [[ufanar-se]]
+* [[augmentar]], [[bufar-se]], [[dilatar]], [[engrandir]], [[estufar-se]]
+* [[exagerar]]
+
+{{-der-}}
+* [[botinflar-se]]
+* [[desinflar]]
+* [[inflador]]
+* [[infladura]]
+* [[inflament]]
+* [[reinflar]]
+* Relacionats: [[inflable]], [[inflació]]
+
+{{-trad-}}
+{{t-inici|inflar [1]}}
+* {{en}}: {{trad|en|inflate}}
+* {{es}}: {{trad|es|hinchar}}, {{trad|es|inflar}}
+* {{fr}}: {{trad|fr|gonfler}}, {{trad|fr|enfler}}
+* {{it}}: {{trad|it|gonfiare}}
+* {{la}}: {{trad|la|inflare}}, {{trad|la|tumefacere}}
+{{t-final}}
+
+{{t-inici|inflar [2]}}
+* {{en}}: {{trad|en|exaggerate}}
+* {{es}}: {{trad|es|hinchar}}, {{trad|es|inflar}}
+* {{fr}}: {{trad|fr|enfler}}, {{trad|fr|enorgueillir}}
+* {{it}}: {{trad|it|gonfiare}}, {{trad|it|insuperbire}}
+* {{la}}: {{trad|la|inflare}}
+{{t-final}}
+
+{{t-inici|inflar-se}}
+* {{en}}: {{trad|en|swell}}
+* {{es}}: {{trad|es|hincharse}}
+* {{fr}}: s'{{trad|fr|enfler}}
+* {{it}}: {{trad|it|gonfiarsi}}
+* {{la}}: {{trad|la|turgere}}, {{trad|la|tumere}}
+{{t-final}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+
+=== Vegeu també ===
+* {{ca-dicc|diec|gdlc|optimot}}
+* {{R:CCLFI 1839}}
+* {{tesaure}}
+
+== {{-es-}} ==
+{{es-pron}}
+{{-etimologia-|la|es}} Del llatí {{m|la|inflāre}}.
+
+=== Verb ===
+{{es-verb|t-p}}
+
+# {{e|ca|inflar}} {{q|amb aire o gas}}
+# {{e|ca|inflar}} {{q|exagerar}}
+
+{{-sin-}}
+* {{e|es|hinchar}} {{q|en general, amb qualsevol cosa}}
+* {{e|es|hinchar}} {{q|exagerar}}
+
+=== Miscel·lània ===
+* {{es-sil}}
+{{Del-lang|la|ca|inflāre|lit=bufar a dins}}, {{etim-s|ca|XIV}}.
+
+=
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 instaurar
+
+== {{-ca-}} ==
+{{ca-pron|tipus=inf}}
+{{homòfons|ca|instaurà}}
+{{-etimologia-}} Del llatí {{m|la|instaurare}}.
+
+=== Verb ===
+{{ca-verb|t}}
+
+# [[renovar|Renovar]], [[establir]] de nou o [[restaurar]].
+
+==== Conjugació ====
+{{ca-conj|alg=no|alt=no}}
+
+{{-der-}}
+* [[instaurable]]
+* Relacionats: [[instauració]], [[instaurador]], [[instauratiu]].
+
+{{-trad-}}
+{{t-inici}}
+* {{en}}: {{trad|en|establish}}
+* {{es}}: {{trad|es|instaurar}}
+* {{fr}}: {{trad|fr|instaurer}}, {{trad|fr|rétablir}}
+* {{it}}: {{trad|it|stabilire}}, {{trad|it|rinnovare}}
+* {{la}}: {{trad|la|instaurare}}
+{{t-final}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|arruïnats}}
+
+=== Vegeu també ===
+* {{R:CCLFI 1839}}
+* {{ca-dicc|diec|gdlc|optimot}}
+
+== {{-es-}} ==
+{{es-pron}}
+
+=== Verb ===
+{{es-verb|t|present=instauro}}
+
+# {{e|ca|instaurar}}
+
+=== Miscel·lània ===
+* {{es-sil}}
+Del llatí {{m|la|instaurare}}.
+
+=
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 intimidar
+
+== {{-ca-}} ==
+{{ca-pron|tipus=inf}}
+{{homòfons|ca|intimidà}}
+{{-etimologia-}} {{Del-lang|la|ca|intimĭdāre}}, {{etim-s|ca|XIX}}.
+
+=== Verb ===
+{{ca-verb|t}}
+
+# [[amenaçar|Amenaçar]], fer [[por]].
+# Fer que un altre es retregui i que no s'expressi o faci alguna cosa.
+
+==== Conjugació ====
+{{ca-conj}}
+
+{{-der-}}
+* [[intimidació]]
+* [[intimidador]]
+* [[intimidatori]]
+
+{{-trad-}}
+{{t-inici}}
+* {{en}}: {{trad|en|intimidate}}
+* {{es}}: {{trad|es|intimidar}}
+* {{fr}}: {{trad|fr|intimider}}
+* {{gl}}: {{trad|gl|intimidar}}
+* {{it}}: {{trad|it|intimidire}}
+* {{csc}}: {{trad|csc|AMENAÇAR}}
+* {{oc}}: {{trad|oc|intimidar}}
+* {{pt}}: {{trad|pt|intimidar}}
+{{t-final}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|dimitiran}}
+
+=== Vegeu també ===
+* {{ca-dicc|diec|dnv|gdlc|dcvb|optimot}}
+
+== {{-es-}} ==
+{{es-pron}}
+{{-etimologia-|la|es}} Del llatí {{m|la|intimĭdāre}}.
+
+=== Verb ===
+{{es-verb|t-p}}
+
+# {{e|ca|intimidar}}
+# {{marca|es|pronominal}} [[acovardir-se]]
+
+=== Miscel·lània ===
+* {{es-sil}}
+
+== {{-oc-}} ==
+{{pronafi|oc|/in.ti.miˈða/}}
+
+=== Verb ===
+{{entrada|oc|verb}}
+
+# {{e|ca|intimidar}}
+
+== {{-pt-}} ==
+
+=== Verb ===
+{{entrada|pt|verb}}
+
+# {{e|ca|intimidar}}
+# [[atemorir]]
+{{Del-lang|la|ca|intimĭdāre}}, {{etim-s|ca|XIX}}.
+
+=
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 enfarden
+
+== {{-ca-}} ==
+{{ca-pron}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|enfardar|6|pres|ind}}
+# {{marca-nocat|ca|occidental|balear}} {{ca-forma-conj|enfardar|6|pres|subj}}
+# {{marca-nocat|ca|occidental|balear}} {{ca-forma-conj|enfardar|6|imp}}
+
+{{-var-}}
+* [2] [[enfardin]]
+* [3] [[enfardin]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 capes
+
+{{vegeu|CAPES|capés}}
+
+== {{-ca-}} ==
+{{ca-pron}}
+
+=== Nom ===
+{{ca-nom-forma|fp}}
+
+# {{forma-p|ca|capa}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|capar|2|pres|ind}}
+# {{marca-nocat|ca|occidental|balear}} {{ca-forma-conj|capar|2|pres|subj}}
+
+{{-var-}}
+* [2] [[capis]], [[capos]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|pesca|paesc|pecàs|pescà}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 collies
+
+== {{-ca-}} ==
+{{ca-pron|yll|occ2=o:u}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|collir|2|imperf|ind}}
+
+{{-var-}}
+* [[collives]]
+
+=== Miscel·lània ===
+* {{anagrames|ca|oscil·le|escollí}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 inclines
+
+{{vegeu|inclinés}}
+
+== {{-ca-}} ==
+{{ca-pron|or=/iŋˈkɫi.nəs/|occ=/iŋˈkɫi.nes/}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|inclinar|2|pres|ind}}
+# {{ca-forma-conj|inclinar|2|pres|subj}}
+#: [Que tu] [[inclinis]] o inclines; [tu] no [[inclinis]] o inclines.
+
+== {{-en-}} ==
+
+=== Verb ===
+{{entrada|en|verb-forma}}
+
+# {{en-forma-conj|incline|3}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 bastons
+
+== {{-ca-}} ==
+[[Fitxer:Claves.jpg|miniatura|{{àudio simple|Claves.ogg||mostra de so}}]]
+{{ca-pron|ó}}
+
+=== Nom ===
+{{ca-nom-forma|mp}}
+
+# {{forma-p|ca|bastó}}
+# [[instrument idiòfon|Instrument idiòfon]] de percussió d'origen afrocubà format per dos bastons, generalment de fusta, d'uns 20 cm de longitud i 2,5 cm de diàmetre, que es fan picar l'un contra l'altre.
+
+{{-sin-}}
+* [[claves]], en l'àmbit de la música professional
+
+{{-trad-}}
+{{t-inici|Instrument idiòfon}}
+* {{de}}: {{trad|de|Claves}}, {{trad|de|Klanghölzer}}, {{trad|de|Klangstäbe}}
+* {{en}}: {{trad|en|claves}}, {{trad|en|rhythm sticks}}
+* {{es}}: {{trad|es|claves}}
+* {{fr}}: {{trad|fr|bâtons de rythme}}, {{trad|fr|claves}}
+* {{it}}: {{trad|it|claves}}, {{trad|it|legnetti}}
+{{t-final}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+
+=== Vegeu també ===
+* {{Viquipèdia}}
+* {{Amical-Termcat|musicals}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 entorno
+
+{{vegeu|entornó}}
+
+== {{-es-}} ==
+{{es-pron}}
+{{etim-comp|es|en-|torno}}.
+
+=== Nom ===
+{{es-nom|m}}
+
+# [[entorn]]
+# [[ambient]], [[environament]]
+
+=== Verb ===
+{{es-verb-forma}}
+
+# {{es-forma-conj|entornar|1|pres|ind}}
+
+=== Miscel·lània ===
+* {{es-sil}}
+* {{anagrames|es|entrono|entronó}}
+
+=== Vegeu també ===
+* {{DRAE}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 entren
+
+{{vegeu|entrén}}
+
+== {{-ca-}} ==
+{{ca-pron|ê|centr=é}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|entrar|6|pres|ind}}
+# {{marca-nocat|ca|occidental|balear}} {{ca-forma-conj|entrar|6|pres|subj}}
+# {{marca-nocat|ca|occidental|balear}} {{ca-forma-conj|entrar|6|imp}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|trenen|renten}}
+
+== {{-es-}} ==
+{{es-pron}}
+
+=== Interjecció ===
+{{es-interj}}
+
+# {{marca|es|rugbi}} [[junts]]
+
+=== Verb ===
+{{es-verb-forma}}
+
+# {{es-forma-conj|entrar|6|pres|subj}}
+# {{es-forma-conj|entrar|6|imp}}
+
+=== Miscel·lània ===
+* {{es-sil}}
+
+=== Vegeu també ===
+* {{termcat|dicc=114|lang=es|consulta=1 octubre 2014}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 entrevistes
+
+{{vegeu|entrevistés}}
+
+== {{-ca-}} ==
+{{ca-pron}}
+
+=== Nom ===
+{{ca-nom-forma|fp}}
+
+# {{forma-p|ca|entrevista}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|entrevistar|2|pres|ind}}
+# {{marca-nocat|ca|occidental|balear}} {{ca-forma-conj|entrevistar|2|pres|subj}}
+
+{{-var-}}
+* [2] [[entrevistis]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 entusiasmes
+
+{{vegeu|entusiasmés}}
+
+== {{-ca-}} ==
+{{ca-pron}}
+
+=== Nom ===
+{{ca-nom-forma|mp}}
+
+# {{forma-p|ca|entusiasme}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|entusiasmar|2|pres|ind}}
+# {{marca-nocat|ca|occidental|balear}} {{ca-forma-conj|entusiasmar|2|pres|subj}}
+
+{{-var-}}
+* [2] [[entusiasmis]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|esmentàssiu}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 enuncio
+
+== {{-ca-}} ==
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|enunciar|1|pres|ind}}
+
+{{-var-}}
+* [[enuncie]], [[enunciï]], [[enuncii]]
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 enuncien
+
+== {{-ca-}} ==
+{{ca-pron}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|enunciar|6|pres|ind}}
+# {{marca-nocat|ca|occidental|balear}} {{ca-forma-conj|enunciar|6|pres|subj}}
+# {{marca-nocat|ca|occidental|balear}} {{ca-forma-conj|enunciar|6|imp}}
+
+{{-var-}}
+* [2] [[enunciïn]]
+* [3] [[enunciïn]]
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 faja
+
+== {{-es-}} ==
+{{es-pron}}
+{{etim-lang|ca|es|faixa}}, potser a través de l’aragonès {{m|an|faxa}}.
+
+=== Nom ===
+{{es-nom|f}}
+
+# [[faixa]]
+# {{marca|es|tennis}} [[cinta tensora]]
+
+{{-sin-}}
+* {{q|tennis}} {{e|es|cincha}}, {{e|es|cinta central}}
+
+=== Miscel·lània ===
+* {{es-sil}}
+
+=== Vegeu també ===
+* {{termcat|dicc=114|lang=es|consulta=1 octubre 2014}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 equilibro
+
+== {{-ca-}} ==
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|equilibrar|1|pres|ind}}
+
+{{-var-}}
+* [[equilibre]], [[equilibri]], [[equilibr]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 equilibres
+
+{{vegeu|equilibrés}}
+
+== {{-ca-}} ==
+{{ca-pron}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|equilibrar|2|pres|ind}}
+# {{marca-nocat|ca|occidental|balear}} {{ca-forma-conj|equilibrar|2|pres|subj}}
+
+{{-var-}}
+* [2] [[equilibris]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 fermento
+
+== {{-es-}} ==
+{{es-pron}}
+
+=== Nom ===
+{{es-nom|m}}
+
+# [[ferment]]
+
+=== Miscel·lània ===
+* {{es-sil}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 filmo
+
+== {{-ca-}} ==
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|filmar|1|pres|ind}}
+
+{{-var-}}
+* [[filme]], [[filmi]], [[film]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 filmes
+
+{{vegeu|filmés}}
+
+== {{-ca-}} ==
+{{ca-pron}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|filmar|2|pres|ind}}
+# {{marca-nocat|ca|occidental|balear}} {{ca-forma-conj|filmar|2|pres|subj}}
+
+{{-var-}}
+* [2] [[filmis]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|limfes}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 filmares
+
+== {{-ca-}} ==
+{{ca-pron}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{marca-nocat|ca|literari}} {{ca-forma-conj|filmar|2|pass}}
+# {{marca-nocat|ca|valencià}} {{ca-forma-conj|filmar|2|imperf|subj}}
+
+{{-var-}}
+* [2] [[filmessis]], [[filmesses]], [[filmassis]], [[filmasses]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|malferis|malferís}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 escandís
+
+== {{-ca-}} ==
+{{ca-pron}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|escandir|1|imperf|subj}}
+# {{ca-forma-conj|escandir|3|imperf|subj}}
+
+{{-var-}}
+* [1] [[escandira]]
+* [2] [[escandira]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrama|ca|ascendís}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 fomento
+
+== {{-es-}} ==
+{{es-pron}}
+{{-etimologia-|la|es}} Del llatí {{m|la|fomentum}}.
+
+=== Nom ===
+{{es-nom|m}}
+
+# [[foment]]
+
+{{-sin-}}
+* {{e|es|auxilio}}, {{e|es|protección}}, {{e|es|promoción}}
+
+=== Verb ===
+{{es-verb-forma}}
+
+# {{es-forma-conj|fomentar|1|pres|ind}}
+
+== {{-la-}} ==
+{{la-pron|fōmentō}}
+{{-etimologia-}} De {{m|la|fomenta|trad=llenya, tions}}.
+
+=== Verb ===
+{{la-verb|fōmentō|fōmentās|fōmentāre|fōmentāvī|fōmentātum}}
+
+# [[alimentar]] el foc vital
+De {{m|la|fomenta|trad=llenya, tions}}.
+
+=
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 escolta
+
+{{vegeu|escoltà}}
+
+== {{-ca-}} ==
+{{ca-pron|ó|informal=/asˈkoɫ.ta/|inf_q=occidental}}
+{{-etimologia-}} [1] Deverbal de {{m|ca|escoltar}}, {{etim-s|ca|XIV}}.
+{{-etimologia-}} [2] Calc de l’anglès {{calc|en|ca|Scout}}, cognat a través de l’ètim llatí de {{m|ca|escoltar}}, creat c. 1930 per {{w|Josep Maria Batista i Roca}} recuperant el sentit antic d’«explorador».<ref>{{DECat|III|537|a|58-60}}</ref>
+
+=== Nom ===
+{{ca-nom|f}}
+
+# Acció d’[[escoltar]], de prestar atenció a oir quelcom.
+# Persona destinada a escoltar amb finalitat d’[[espionatge]].
+
+{{-trad-}}
+{{t-inici|Acció d’escoltar}}
+* {{en}}: {{trad|en|listening}}
+* {{es}}: {{trad|es|escucha|f}}
+* {{fr}}: {{trad|fr|écoute|f}}
+* {{it}}: {{trad|it|ascolto|m}}
+{{t-final}}
+
+=== Nom ===
+{{ca-nom|mf}}
+
+# Jove afiliat a l'[[escoltisme]].
+
+{{-trad-}}
+{{t-inici|Afiliat a l’escoltisme}}
+* {{de}}: {{trad|de|Pfadfinder|m}}
+* {{en}}: {{trad|en|Scout}}
+* {{es}}: {{trad|es|escultista|m-f}}
+* {{fr}}: {{trad|fr|scout|m}}
+* {{it}}: {{trad|it|scout|m-f}}
+{{t-final}}
+
+=== Adjectiu ===
+{{ca-adj|i}}
+
+# De l’[[escoltisme]].
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|escoltar|3|pres|ind}}
+# {{ca-forma-conj|escoltar|2|imp}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|aclotes|aclotés|calotes|esclato|escolat}}
+
+=== Vegeu també ===
+* {{Viquipèdia}}
+* {{ca-dicc|diec|gdlc}}
+{{referències}}
+
+== {{-es-}} ==
+{{es-pron}}
+
+=== Nom ===
+{{es-nom|f}}
+
+# [[escorta]], [[acomboiament]]
+
+=== Nom ===
+{{es-nom|mf}}
+
+# [[escorta]]
+
+=== Miscel·lània ===
+* {{es-sil}}
+
+=== Vegeu també ===
+* {{DRAE}}
+[1] Deverbal de {{m|ca|escoltar}}, {{etim-s|ca|XIV}}.
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 escoltares
+
+== {{-ca-}} ==
+{{ca-pron}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{marca-nocat|ca|literari}} {{ca-forma-conj|escoltar|2|pass}}
+# {{marca-nocat|ca|valencià}} {{ca-forma-conj|escoltar|2|imperf|subj}}
+
+{{-var-}}
+* [2] [[escolteguesses]], [[escoltessis]], [[escoltesses]], [[escoltassis]], [[escoltasses]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrama|ca|escoltar-se}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 escora
+
+== {{-ca-}} ==
+{{ca-pron|ó}}
+{{-etimologia-}} Del francès antic {{m|fro|escore}}.
+
+=== Nom ===
+{{ca-nom|f}}
+
+# Amplada d'un vaixell.
+# [[puntals|Puntals]] que es posen a sota d'una embarcació per mantenir-la en equilibri quan està fora de l'aigua.
+
+{{-rel-}}
+* [[eslora]]
+
+{{-trad-}}
+{{t-inici}}
+* {{es}}: {{trad|es|escora}}
+* {{it}}: {{trad|pt|escora}}
+{{t-final}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|Escaró|acores|acorés|oscaré}}
+
+=== Vegeu també ===
+* {{ca-dicc|diec|gdlc|dnv|dcvb}}
+
+[[Categoria:Nàutica en català]]
+Del francès antic {{m|fro|escore}}.
+
+=
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 fractura
+
+== {{-ca-}} ==
+{{ca-pron}}
+{{etim-lang|la|ca|fractūra}}, {{etim-s|ca|XV}}, doblet de {{doblet|ca|fretura}}.
+
+=== Nom ===
+{{ca-nom|f}}
+
+# [[ruptura|Ruptura]] violenta d’un cos sòlid.
+#: {{ex-cit|ca|Si un metge cura una '''fractura''' òssia d'un noble o li alleuja una malaltia dels intestins, el pacient donarà cinc shekels de plata.|ref=Gloria Sánchez-Cascado, Gonzalo J. Mingo, "Codi d'Hammurabi" en:''La professió d'infermeria: Operacions administratives i documentació sanitària'', 2017}}
+#: {{ex-cit|ca|Avenc de La Botalària: amb una profunditat de -25.00 m, és una petita '''fractura''' en la roca des d'on s'aprecia el desgast produït per l'erosió.|ref=Xavier Allepuz Marzà, ''Borriol'', 2003}}
+
+{{-sin-}}
+* [[trencament]], [[escletxa]]
+
+{{-trad-}}
+{{t-inici}}
+* {{af}}: {{trad|af|breuk}}
+* {{de}}: {{trad|de|Knochenbruch|m}}, {{trad|de|Bruch|m}}, {{trad|de|Fraktur|f}}
+* {{en}}: {{trad|en|fracture}}
+* {{ar}}: {{trad|ar|كسر‎}}
+* {{bg}}: {{trad|bg|счупване|n}}
+* {{es}}: {{trad|es|fractura|f}}
+* {{ko}}: {{trad|ko|골절}}
+* {{da}}: {{trad|da|brud|n}}, {{trad|da|fraktur|c}}
+* {{sk}}: {{trad|sk|zlomenina|f}}
+* {{eo}}: {{trad|eo|frakturo}}, {{trad|eo|rompo}}
+* {{fi}}: {{trad|fi|murtuma}}
+* {{fr}}: {{trad|fr|fracture}}
+* {{fy}}: {{trad|fy|brek}}
+* {{gl}}: {{trad|gl|fractura|f}}
+* {{el}}: {{trad|el|κάταγμα|n}}
+* {{it}}: {{trad|it|frattura}}
+* {{ja}}: {{trad|ja|骨折}}
+* {{la}}: {{trad|la|fractura|f}}
+* {{nl}}: {{trad|nl|breuk|f}}, {{trad|nl|fractuur|f}}
+* {{pl}}: {{trad|pl|złamanie|n}}
+* {{pt}}: {{trad|pt|fratura|f}}
+* {{ro}}: {{trad|ro|fractură|f}}
+* {{ru}}: {{trad|ru|перело́м|m}}
+* {{tr}}: {{trad|tr|kırık}}
+* {{cs}}: {{trad|cs|zlomenina|f}}
+* {{vo}}: {{trad|vo|bomabrek}}
+* {{zh}}: {{trad|zh|骨折}}
+{{t-final}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|fracturar|3|pres|ind}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|facturar}}
+
+=== Vegeu també ===
+* {{Viquipèdia}}
+* {{ca-dicc|diec|gdlc|dnv}}
+
+== {{-es-}} ==
+{{es-pron}}
+{{etim-lang|la|es|fractūra}}.
+
+=== Nom ===
+{{es-nom|f}}
+
+# [[#ca|fractura]]
+
+{{-rel-}}
+* {{e|es|fracción}}
+* {{e|es|fracturar}}
+
+=== Verb ===
+{{es-verb-forma}}
+
+# {{es-forma-conj|fracturar|3|pres|ind}}
+# {{es-forma-conj|fracturar|2|imp|vos=no}}
+
+=== Miscel·lània ===
+* {{es-sil}}
+* {{anagrames|es|fracturá|facturar}}
+
+=== Vegeu també ===
+* {{DRAE}}
+
+{{catllengua|es|medicina}}
+
+== {{-la-}} ==
+{{la-pron|frāctūra}}
+{{-etimologia-}} De {{m|la|frangō}}.
+
+=== Nom ===
+{{la-nom|frāctūra|frāctūrae|f}}
+
+# [[#ca|fractura]]
+
+==== Declinació ====
+{{la-nom-decl|frāctūra|frāctūrae|f}}
+De {{m|la|frangō}}.
+
+=
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 frenes
+
+{{vegeu|frenés}}
+
+== {{-ca-}} ==
+{{ca-pron|é}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|frenar|2|pres|ind}}
+# {{marca-nocat|ca|occidental|balear}} {{ca-forma-conj|frenar|2|pres|subj}}
+
+{{-var-}}
+* [2] [[frenis]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 frenaren
+
+== {{-ca-}} ==
+{{ca-pron}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{marca-nocat|ca|literari}} {{ca-forma-conj|frenar|6|pass}}
+# {{marca-nocat|ca|valencià}} {{ca-forma-conj|frenar|6|imperf|subj}}
+
+{{-var-}}
+* [2] [[frenessin]], [[frenessen]], [[frenassin]], [[frenassen]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 espera
+
+{{vegeu|esperà|esperá}}
+
+== {{-ca-}} ==
+{{ca-pron|é}}
+{{-etimologia-}} De {{m|ca|esperar}}.
+
+=== Nom ===
+{{ca-nom|f}}
+
+# Acció d'[[esperar]].
+
+{{-trad-}}
+{{t-inici}}
+* {{es}}: {{trad|es|espera|f}}
+{{t-final}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|esperar|3|pres|ind}}
+# {{ca-forma-conj|esperar|2|imp}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|paeres|peresa|pesaré|separe}}
+
+=== Vegeu també ===
+* {{ca-dicc|dcvb|gdlc|diec}}
+
+== {{-es-}} ==
+{{es-pron}}
+{{-etimologia-}} Deverbal de {{m|es|esperar}}.
+
+=== Nom ===
+{{es-nom|f}}
+
+# [[#ca|espera]]
+
+=== Verb ===
+{{es-verb-forma}}
+
+# {{es-forma-conj|esperar|3|pres|ind}}
+# {{es-forma-conj|esperar|2|imp|voseo=no}}
+
+{{-var-}}
+* [2]: {{q|voseo}} {{e|es|esperá}}
+
+=== Miscel·lània ===
+* {{es-sil}}
+* {{anagrames|es|aperes|aperés|aprese|apresé|espera|esperá|parees|pareés|párese|peerás|pesare|pesaré|pesera|presea|rápese|raspee|raspeé|repase|repasé|repesa|repesá|resepa|separe|separé|serpea|serpeá}}
+
+=== Vegeu també ===
+* {{DRAE}}}
+De {{m|ca|esperar}}.
+
+=
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 espira
+
+{{vegeu|Espirà}}
+
+== {{-ca-}} ==
+{{ca-pron}}
+{{-etimologia-|la|ca}} [1] De {{m|ca|espirar}}, del llatí {{m|la|spīrāre|trad=bufar}}, {{etim-s|ca|XIV}}. [2] Del llatí {{m|la|spīra}}, del grec antic {{m|grc|σπείρα|trad=espiral}}, segle XIX.
+
+=== Nom ===
+{{ca-nom|f}}
+
+# {{marca|ca|antic|mallorquí|menorquí}} [[espurna]]
+
+=== Nom ===
+{{ca-nom|f}}
+
+# [[volta|Volta]] d’una estructura [[espiral]] o helicoïdal.
+
+{{-trad-}}
+{{t-inici}}
+* {{en}}: {{trad|en|spire}}, {{trad|en|turn}}
+* {{es}}: {{trad|es|espira|f}}
+* {{fr}}: {{trad|fr|spire}}
+{{t-final}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|aspire|separi|separí|espiar|espair|paries|païres|pisaré|apries|apriés|paires|pairés|esprai}}
+
+=== Vegeu també ===
+* {{Viquipèdia}}
+* {{ca-dicc|diec|gdlc}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 esquivo
+
+== {{-ca-}} ==
+{{ca-pron}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|esquivar|1|pres|ind}}
+# {{marca-nocat|ca|col·loquial|_|nord-occidental}} {{ca-forma-conj|esquivar|1|pres|subj}}
+# {{marca-nocat|ca|col·loquial|_|nord-occidental}} {{ca-forma-conj|esquivar|3|pres|subj}}
+
+{{-var-}}
+* [1] [[esquive]], [[esquivi]], [[esquiv]], [[esquiu]]
+* [2] [[esquivi]], [[esquive]]
+* [3] [[esquivi]], [[esquive]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 esquiven
+
+== {{-ca-}} ==
+{{ca-pron}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|esquivar|6|pres|ind}}
+# {{marca-nocat|ca|occidental|balear}} {{ca-forma-conj|esquivar|6|pres|subj}}
+# {{marca-nocat|ca|occidental|balear}} {{ca-forma-conj|esquivar|6|imp}}
+
+{{-var-}}
+* [2] [[esquivin]]
+* [3] [[esquivin]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 esquivaren
+
+== {{-ca-}} ==
+{{ca-pron}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{marca-nocat|ca|literari}} {{ca-forma-conj|esquivar|6|pass}}
+# {{marca-nocat|ca|valencià}} {{ca-forma-conj|esquivar|6|imperf|subj}}
+
+{{-var-}}
+* [2] [[esquiveguessen]], [[esquivessin]], [[esquivessen]], [[esquivassin]], [[esquivassen]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 estampa
+
+{{vegeu|estampà}}
+
+== {{-ca-}} ==
+{{ca-pron}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|estampar|3|pres|ind}}
+# {{ca-forma-conj|estampar|2|imp}}
+
+== {{-es-}} ==
+{{es-pron}}
+
+=== Nom ===
+{{es-nom|f}}
+
+# (''Gravat'') [[gravat]], {{e|ca|estampa}}, [[il·lustració]], [[làmina]]
+
+{{-sin-}}
+* {{e|es|grabado}}
+* {{e|es|ilustración}}
+* {{e|es|lámina}}
+
+=== Miscel·lània ===
+* {{es-sil}}
+
+=== Vegeu també ===
+* {{termcat|dicc=147|lang=es|consulta=1 juliol 2014}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 genero
+
+{{vegeu|género}}
+
+== {{-la-}} ==
+{{la-pron|generō}}
+{{-etimologia-}} De {{m|la|genus}}.
+
+=== Verb ===
+{{la-verb|generō|generās|generāre|generāvī|generātum}}
+
+# [[generar]], [[engendrar]]
+#: {{ex-cit|la|Oebalus, quem generasse Telon Sebethide nymphā Fertur|ref=Virgili, ''Eneida'', VII, 734|trad=Èbal, de qui es diu que Teló de Sebethides va engendrar de la nimfa}}
+# [[generar]], [[nàixer]], [[créixer]], [[produir]]
+#: {{ex-cit|la|e gramine, quod in eo loco generatum esset|ref=Aulus Gel·li, ''Noctes Atticae'', VI.5|trad=de l'herba que naixia en aquell lloc}}
+De {{m|la|genus}}.
+
+=
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 estiba
+
+== {{-ca-}} ==
+{{ca-pron|informal=/asˈti.βa/|inf_q=valencià}}
+{{-etimologia-}} Del verb {{m|ca|estibar}}, {{etim-s|ca|XIV}}
+
+=== Nom ===
+{{ca-nom|f}}
+
+# Resultat d'[[estibar]], col·locació adequada de la càrrega en una nau.
+# [[pila|Pila]] d'objectes.
+
+{{-trad-}}
+{{t-inici|Resultat d'estibar}}
+* {{en}}: {{trad|en|stowage}}
+* {{es}}: {{trad|es|estiba}}
+* {{fr}}: {{trad|fr|estive}}
+* {{it}}: {{trad|it|stivaggio}}
+{{t-final}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|bestia|bèstia|estiba|baties|batiés|esbati|esbatí}}
+
+=== Vegeu també ===
+* {{Viquipèdia}}
+* {{ca-dicc|diec|gdlc|optimot}}
+Del verb {{m|ca|estibar}}, {{etim-s|ca|XIV}}
+
+=
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 gloso
+
+== {{-ca-}} ==
+{{ca-pron|ò|bal=-}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|glosar|1|pres|ind}}
+
+{{-var-}}
+* [[glose]], [[glosi]], [[glos]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 glosa
+
+{{vegeu|glosà}}
+
+== {{-ca-}} ==
+{{ca-pron|ò}}
+{{etim-lang|la|ca|glossa|trad=mot rar}}, {{etim-s|ca|XIV}}.
+
+=== Nom ===
+{{ca-nom|f}}
+
+# {{marca|ca|tradicional|balear}} {{forma-a|ca|glossa}}
+# [[corranda]]
+# {{marca|ca|peixos}} [[saboga]]
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|glosar|3|pres|ind}}
+# {{ca-forma-conj|glosar|2|imp}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|Lagos}}
+
+=== Vegeu també ===
+* {{ca-dicc|diec|gdlc|dcvb}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 gloses
+
+{{vegeu|glosés}}
+
+== {{-ca-}} ==
+{{ca-pron|ò}}
+
+=== Nom ===
+{{ca-nom-forma|fp}}
+
+# {{forma-p|ca|glosa}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|glosar|2|pres|ind}}
+# {{marca-nocat|ca|occidental|balear}} {{ca-forma-conj|glosar|2|pres|subj}}
+
+{{-var-}}
+* [2] [[glosis]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|sègols}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 glosaren
+
+== {{-ca-}} ==
+{{ca-pron}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{marca-nocat|ca|literari}} {{ca-forma-conj|glosar|6|pass}}
+# {{marca-nocat|ca|valencià}} {{ca-forma-conj|glosar|6|imperf|subj}}
+
+{{-var-}}
+* [2] [[glosessin]], [[glosessen]], [[glosassin]], [[glosassen]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 estofa
+
+{{vegeu|estofà}}
+
+== {{-ca-}} ==
+{{ca-pron|ò}}
+{{-etimologia-}} {{Del-lang|fro|ca|estoffe|trad=matèria, materials diversos}}, de {{m|fro|estoffer|t=equipar, preparar}}, del fràncic {{m|frk|*stopfôn}}, {{del-lang|goh|ca|*stoffon}}, {{etim-s|ca|XIV}}.
+
+=== Nom ===
+{{ca-nom|f}}
+
+# Matèria que dóna forma a una cosa.
+# {{marca|ca|figuradament}} [[mena]], [[classe]], [[qualitat]]
+
+{{-trad-}}
+{{t-inici}}
+* {{en}}: {{trad|en|stuff}}, {{trad|en|matter}}
+* {{es}}: {{trad|es|estofa|f}}
+* {{fr}}: {{trad|fr|substance|f}}, {{trad|fr|étoffe|f}}
+{{t-final}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|estofar|3|pres|ind}}
+# {{ca-forma-conj|estofar|2|imp}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|fotesa}}
+
+=== Vegeu també ===
+* {{ca-dicc|diec|gdlc|dcvb}}
+{{Del-lang|fro|ca|estoffe|trad=matèria, materials diversos}}, de {{m|fro|estoffer|t=equipar, preparar}}, del fràncic {{m|frk|*stopfôn}}, {{del-lang|goh|ca|*stoffon}}, {{etim-s|ca|XIV}}.
+
+=
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 estofen
+
+== {{-ca-}} ==
+{{ca-pron|ò}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|estofar|6|pres|ind}}
+# {{marca-nocat|ca|occidental|balear}} {{ca-forma-conj|estofar|6|pres|subj}}
+# {{marca-nocat|ca|occidental|balear}} {{ca-forma-conj|estofar|6|imp}}
+
+{{-var-}}
+* [2] [[estofin]]
+* [3] [[estofin]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 guarda
+
+== {{-ca-}} ==
+{{ca-pron}}
+
+=== Nom ===
+{{ca-nom|f}}
+
+# {{marca|ca|hoquei sobre patins|hoquei sobre herba}} Peça de l'equip d'un porter que s'utilitza per a protegir-se la cama.
+# {{marca|ca|futbol americà}} Cadascun dels dos jugadors de la [[línia ofensiva]] situats a banda i banda del central, que s'encarreguen principalment de protegir el [[quarterback]] de les entrades dels adversaris.
+
+{{-sin-}}
+* [[defensa]] (''hoquei'')
+
+{{-trad-}}
+{{t-inici|Peça de l'equip d'un porter d'hoquei}}
+* {{en}}: {{trad|en|goal pad}}, {{trad|en|goalkeeper's kicker}}, {{trad|en|goalkeeper's leg guard}}
+* {{es}}: {{trad|es|defensa}}, {{trad|es|guarda}}
+* {{fr}}: {{trad|fr|guêtre de gardien de but}}, {{trad|fr|jambière de gardien de but}}
+{{t-final}}
+
+{{t-inici|Jugador encarregat de protegir el quarterback}}
+* {{en}}: {{trad|en|guard}}
+* {{es}}: {{trad|es|guardia}}
+* {{fr}}: {{trad|fr|garde}}
+{{t-final}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|aguard|raguda}}
+
+=== Vegeu també ===
+* {{Viquipèdia}}
+* {{Amical-Termcat|esport}}
+
+== {{-es-}} ==
+{{es-pron}}
+
+=== Nom ===
+{{es-nom|f}}
+
+# {{e|ca|guarda}}
+
+=== Miscel·lània ===
+* {{es-sil}}
+
+== {{-it-}} ==
+
+=== Verb ===
+{{entrada|it|verb-forma}}
+
+# {{forma-conj|it|guardare|3|pres|ind}}
+# {{forma-conj|it|guardare|2|imp}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 guiso
+
+{{vegeu|guisó}}
+
+== {{-es-}} ==
+{{es-pron}}
+{{-etim-}} De {{m|es|guisar}}.
+
+=== Nom ===
+{{es-nom|m}}
+
+# [[guisat]]
+
+{{-sin-}}
+* {{e|es|guisado}}
+
+=== Verb ===
+{{es-verb-forma}}
+
+# {{es-forma-conj|guisar|1|pres|ind}}
+
+=== Miscel·lània ===
+* {{es-sil}}
+
+=== Vegeu també ===
+* {{DRAE}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 habilito
+
+== {{-ca-}} ==
+{{ca-pron|or=/ə.βiˈɫi.tu/|occ=/a.βiˈɫi.to/}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|habilitar|1|pres|ind}}
+#: [Jo] habilito, [[habilite]], [[habilit]] o [[habiliti]].
+# {{ca-forma-conj|habilitar|1|pres|subj}}
+#: [Que jo] habilito, forma d'alguns parlars nord-occidentals per [que jo] [[habiliti]] o [[habilite]].
+# {{ca-forma-conj|habilitar|3|pres|subj}}
+#: [Que ell/ella/vostè] habilito, forma d'alguns parlars nord-occidentals per [que ell/ella/vostè] [[habiliti]] o [[habilite]].
+
+== {{-es-}} ==
+{{es-pron}}
+
+=== Verb ===
+{{es-verb-forma}}
+
+# {{es-forma-conj|habilitar|1|pres|ind}}
+
+== {{-la-}} ==
+{{la-pron|habilitō}}
+{{-etimologia-}} Derivat de {{m|la|habilis}}.
+
+=== Verb ===
+{{la-verb|habilitō|habilitās|habilitāre|habilitāvī|habilitātum}}
+
+# [[habilitar]], jo habilito
+
+{{-sin-}}
+* {{e|la|adaptō}}
+Derivat de {{m|la|habilis}}.
+
+=
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 habiliten
+
+== {{-ca-}} ==
+{{ca-pron|or=/ə.βiˈɫi.tən/|occ=/a.βiˈɫi.ten/}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|habilitar|6|pres|ind}}
+# {{ca-forma-conj|habilitar|6|pres|subj}}
+#: [Que ells/elles/vostès] [[habilitin]] o habiliten.
+# {{ca-forma-conj|habilitar|6|imp}}
+#: [[habilitin|Habilitin]] o habiliten [ells/elles/vostès].
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 estrena
+
+{{vegeu|estrenà}}
+
+== {{-ca-}} ==
+{{ca-pron|ë}}
+{{-etimologia-}} [1] Postverbal de {{m|ca|estrenar}} per l’ús per primera vegada de les estrenes [2] rebudes.
+{{-etimologia-}} [2] {{Del-lang|la|ca|strēna|trad=present de bon auguri}}, de {{m|la|Strēnia|trad=Estrènia}}, deessa de l’any nou i dels bons auguris, {{etim-s|ca|XIV}}.
+
+=== Nom ===
+{{ca-nom|f}}
+
+# Acció i efecte d'[[estrenar]] o [[estrenar-se]].
+# Fet o circumstància que es produeix per primera vegada.
+# Primera representació o projecció públiques d'una obra de teatre, pel·lícula, espectacle...
+#: ''L'estrena de la pel·lícula serà el mes de març.''
+
+{{-comp-}}
+* [[d'estrena]]
+* [[fer estrena]]
+
+{{-trad-}}
+{{t-inici|D’estrenar}}
+* {{en}}: {{trad|en|premiere}}
+* {{es}}: {{trad|es|estreno|m}}
+* {{fr}}: {{trad|fr|étrenne|f}}
+{{t-final}}
+
+=== Nom ===
+{{ca-nom|f}}
+
+# {{marca|ca|sovint en plural}} Regal com a [[gratificació]] d’un servei ordinari.
+
+{{-der-}}
+* [[estrenar]]
+
+{{-trad-}}
+{{t-inici|Regal}}
+* {{en}}: {{trad|en|tip}}
+* {{es}}: {{trad|es|aguinaldo|m}}, {{trad|es|estrena|f}}
+{{t-final}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|estrenar|3|pres|ind}}
+# {{ca-forma-conj|estrenar|2|imp}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|Ernesta|estaren|tensaré|tesaren|enartes|enartés}}
+
+=== Vegeu també ===
+* {{Viquipèdia}}
+* {{ca-dicc|diec|gdlc}}
+
+== {{-es-}} ==
+{{es-pron}}
+
+=== Nom ===
+{{es-nom|f}}
+
+# {{marca|es|sovint en plural}} {{e|ca|estrena}} {{q|regal}}
+# {{marca|es|desús}} {{forma-a|es|estreno}}
+
+=== Miscel·lània ===
+* {{es-sil}}
+[1] Postverbal de {{m|ca|estrenar}} per l’ús per primera vegada de les estrenes [2] rebudes.
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 estudia
+
+{{vegeu|estudià|estudiá}}
+
+== {{-ca-}} ==
+{{ca-pron}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|estudiar|3|pres|ind}}
+# {{ca-forma-conj|estudiar|2|imp}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|atuïdes|audites|audités}}
+
+== {{-es-}} ==
+{{es-pron}}
+
+=== Verb ===
+{{es-verb-forma}}
+
+# {{es-forma-conj|estudiar|3|pres|ind}}
+# {{es-forma-conj|estudiar|2|imp|voseo=no}}
+
+{{-var-}}
+* [2]: {{q|voseo}} {{e|es|estudiá}}
+
+=== Miscel·lània ===
+* {{es-sil}}
+* {{anagrames|es|audites}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 mamar
+
+== {{-ca-}} ==
+{{ca-pron|tipus=inf}}
+{{homòfons|ca|mamà}}
+{{-etimologia-}} {{Del-lang|la|ca|mamare}}, {{etim-s|ca|XIII}}.
+
+=== Verb ===
+{{ca-verb|t-p}}
+
+# [[xuclar|Xuclar]] amb els llavis i la llengua la llet de les [[mamelles]].
+# {{marca|ca|col·loquial}} Beure a [[morro]].
+# {{marca|ca|col·loquial}} Gaudir d'una cosa sense mèrits.
+# {{marca|ca|vulgar}} Fer una [[fel·lació]].
+
+==== Conjugació ====
+{{ca-conj}}
+
+{{-comp-}}
+* mamar-se el dit - creure amb molta facilitat
+
+{{-der-}}
+* [[mam]]
+* [[mamotejar]]
+* [[mamussar]]
+
+{{-sin-}}
+* [[mamotejar]], [[mamussar]], [[popar]], [[xuclar]], [[xumar]]
+
+{{-trad-}}
+{{t-inici|Xuclar la llet}}
+* {{en}}: {{trad|en|suck}}
+* {{es}}: {{trad|es|mamar}}
+* {{fr}}: {{trad|fr|téter}}
+* {{it}}: {{trad|it|popare}}
+{{t-final}}
+
+{{t-inici|Beure a morro}}
+* {{es}}: {{trad|es|amorrar}}
+{{t-final}}
+
+{{t-inici|Fer una fel·lació}}
+* {{en}}: {{trad|en|blow}}, {{trad|en|suck}}
+* {{es}}: {{trad|es|mamar}}
+* {{fr}}: {{trad|fr|sucer}}
+{{t-final}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|armam}}
+
+=== Vegeu també ===
+* {{ca-dicc|diec|gdlc|optimot}}
+* {{tesaure}}
+{{Del-lang|la|ca|mamare}}, {{etim-s|ca|XIII}}.
+
+=
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 maridar
+
+== {{-ca-}} ==
+{{ca-pron|tipus=inf}}
+{{homòfons|ca|maridà}}
+{{-etimologia-}} {{Del-lang|la|ca|maritare}}, {{etim-s|ca|XIV}}.
+
+=== Verb ===
+{{ca-verb|t-p}}
+
+# [[casar|Casar]] una [[dona]], prendre [[marit]].
+# {{marca|ca|figuradament}} [[unir|Unir]], [[combinar]].
+
+==== Conjugació ====
+{{ca-conj|alt=no}}
+
+{{-sin-}}
+* [[emmaridar]]
+
+{{-der-}}
+* [[malmaridar]]
+* [[maridable]]
+* [[maridada]]
+* [[maridatge]]
+* [[maridadora]]
+
+{{-trad-}}
+{{t-inici|Casar}}
+* {{en}}: {{trad|en|marry}}
+* {{es}}: {{trad|es|maridar}}, {{trad|es|casar}}
+* {{fr}}: {{trad|fr|marier}}
+* {{it}}: {{trad|it|maritare}}
+* {{la}}: {{trad|la|maritare}}
+{{t-final}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|admirar|mirrada|marrida}}
+
+=== Vegeu també ===
+* {{R:CCLFI 1839}}
+* {{ca-dicc|diec|gdlc|optimot}}
+
+== {{-oc-}} ==
+
+=== Verb ===
+{{entrada|oc|verb}}
+
+# [[casar]]
+{{Del-lang|la|ca|maritare}}, {{etim-s|ca|XIV}}.
+
+=
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 meditar
+
+== {{-ca-}} ==
+{{ca-pron|bal=ē|bal2=+|tipus=inf}}
+{{homòfons|ca|medità}}
+{{-etimologia-}} {{Del-lang|la|ca|meditare|trad=considerar, pensar}}, {{etim-s|ca|XV}}, de l'arrel indoeuropea {{m|ine-pro|*med-|trad=mesurar}}.
+
+=== Verb ===
+{{ca-verb|t-i}}
+
+# Reflexionar detingudament sobre una qüestió.
+
+==== Conjugació ====
+{{ca-conj}}
+
+{{-sin-}}
+* [[estudiar]], [[idear]]
+* [[cavar]], [[pensar]], [[reflexionar]]
+
+{{-trad-}}
+{{t-inici}}
+* {{en}}: {{trad|en|meditate}}, {{trad|en|muse}}
+* {{es}}: {{trad|es|meditar}}
+* {{fr}}: {{trad|fr|méditer}}
+* {{it}}: {{trad|it|meditare}}
+{{t-final}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|tremida|maridet}}
+
+=== Vegeu també ===
+* {{ca-dicc|diec|gdlc|optimot}}
+* {{tesaure}}
+{{Del-lang|la|ca|meditare|trad=considerar, pensar}}, {{etim-s|ca|XV}}, de l'arrel indoeuropea {{m|ine-pro|*med-|trad=mesurar}}.
+
+=
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 motivar
+
+== {{-ca-}} ==
+{{ca-pron|tipus=inf}}
+{{homòfons|ca|motivà}}
+{{-etimologia-}} De {{m|ca|motiu}}, {{etim-s|ca|XIX}}.
+
+=== Verb ===
+{{ca-verb|t}}
+
+# Ser el [[motiu]] d'algun fet.
+# Justificar, donant els arguments per explicar com s'ha arribat a emprendre una acció.
+
+==== Conjugació ====
+{{ca-conj|alt=no}}
+
+{{-sin-}}
+* [[causar]], [[emmenar]], [[importar]], [[provocar]]
+
+{{-trad-}}
+{{t-inici}}
+* {{en}}: {{trad|en|motivate}}
+* {{es}}: {{trad|es|motivar}}
+* {{fr}}: {{trad|fr|motiver}}
+* {{it}}: {{trad|it|motivare}}
+* {{csc}}: {{trad|csc|INTERESSAR}}
+{{t-final}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|tiràvom|traívom|triàvom|vomitar|avortim}}
+
+=== Vegeu també ===
+* {{ca-dicc|diec|gdlc|optimot}}
+* {{tesaure}}
+De {{m|ca|motiu}}, {{etim-s|ca|XIX}}.
+
+=
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 perseverar
+
+== {{-ca-}} ==
+{{ca-pron|tipus=inf}}
+{{homòfons|ca|perseverà}}
+{{-etimologia-}} {{Del-lang|la|ca|persevērāre}}, {{etim-s|ca|XIV}}.
+
+=== Verb ===
+{{ca-verb|i}}
+
+# Mantenir-se ferm en una actitud, un comportament, una manera de fer.
+
+==== Conjugació ====
+{{ca-conj|alt=no|rizo=ê}}
+
+{{-sin-}}
+* [[conservar]], [[continuar]], [[mantenir]], [[persistir]], [[prosseguir]], [[resistir]], [[restar]], [[seguir]]
+
+{{-trad-}}
+{{t-inici}}
+* {{en}}: {{trad|en|persevere}}
+* {{es}}: {{trad|es|perseverar}}
+* {{fr}}: {{trad|fr|persévérer}}
+* {{it}}: {{trad|it|perseverare}}
+{{t-final}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+
+=== Vegeu també ===
+* {{ca-dicc|diec|gdlc|optimot}}
+* {{tesaure}}
+{{Del-lang|la|ca|persevērāre}}, {{etim-s|ca|XIV}}.
+
+=
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 propiciar
+
+== {{-ca-}} ==
+{{ca-pron|tipus=inf
+|f-centr=LL-Q7026 (cat)-Marvives-propiciar.wav
+}}
+{{-etim-}} {{Del-lang|la|ca|propitiāre}}, de {{m|la|propitius|t=propici}}.
+
+=== Verb ===
+{{ca-verb|t}}
+
+# Fer [[propici]].
+
+==== Conjugació ====
+{{ca.v.conj.para17|propici}}
+
+{{-trad-}}
+{{t-inici}}
+{{t-final}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+
+=== Vegeu també ===
+* {{ca-dicc|diec|gdlc|optimot}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 prosperar
+
+== {{-ca-}} ==
+{{ca-pron|tipus=inf}}
+{{homòfons|ca|prosperà}}
+{{-etimologia-}} {{Del-lang|la|ca|prosperāre}}.
+
+=== Verb ===
+{{ca-verb|t-i}}
+
+# Obrir-se pas la vida amb facilitat.
+# Anar a més en riqueses o en estatus social.
+
+{{-sin-}}
+* [[créixer]], [[augmentar]], [[proliferar]], [[viure]], [[progressar]], [[florir]]
+* [[enriquir]]-se, [[reeixir]], [[pujar]], [[millorar]], [[triomfar]], [[surar]]
+
+{{-ant-}}
+* [[marcir]], [[morir]]
+* [[fracassar]], [[arruïnar]]-se, [[disminuir]], [[davallar]], [[enfondre]]'s
+
+==== Conjugació ====
+{{ca.v.conj.para1|prosper}}
+
+{{-trad-}}
+{{t-inici}}
+* {{en}}: {{trad|en|prosper}}
+* {{es}}: {{trad|es|prosperar}}
+* {{fr}}: {{trad|fr|fleurir}}
+* {{it}}: {{trad|it|prosperare}}
+{{t-final}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+
+=== Vegeu també ===
+* {{ca-dicc|diec|gdlc|dcvb|optimot}}
+{{Del-lang|la|ca|prosperāre}}.
+
+=
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 reafirmar
+
+== {{-ca-}} ==
+{{ca-pron|tipus=inf}}
+{{etim-comp|ca|re-|afirmar}}.
+
+=== Verb ===
+{{ca-verb|t-p}}
+
+# {{sense accepcions}}
+
+==== Conjugació ====
+{{ca.v.conj.para1|reafirm}}
+
+{{-trad-}}
+{{t-inici}}
+{{t-final}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+
+=== Vegeu també ===
+* {{ca-dicc|diec|gdlc|optimot}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 recitar
+
+== {{-ca-}} ==
+{{ca-pron|tipus=inf}}
+{{homòfons|ca|recità}}
+{{etim-lang|la|ca|recitare}}, {{etim-s|ca|XIII}}. Doblet de {{doblet|ca|resar}}.
+
+=== Verb ===
+{{ca-verb|t}}
+
+# Dir en veu alta i de memòria
+
+==== Conjugació ====
+{{ca.v.conj.para1|recit}}
+
+{{-sin-}}
+* [[narrar]]
+
+{{-trad-}}
+{{t-inici}}
+{{t-final}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|erràtic|recitar}}
+
+=== Vegeu també ===
+* {{ca-dicc|diec|gdlc|optimot}}
+* {{tesaure}}
+
+{{tesaure}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 reconciliar
+
+== {{-ca-}} ==
+{{ca-pron|tipus=inf}}
+{{homòfons|ca|reconcilià}}
+{{etim-lang|la|ca|reconciliare}}, {{etim-s|ca|XIII}}.
+
+=== Verb ===
+{{ca-verb|t-p}}
+
+# Tornar a una [[relació]] de [[benentès]] després d'haver-hi dificultats.
+#: {{ex-cit|ca|Valeri Màxim... derrota novament els sabins coaligats amb els volscos i treballà per '''reconciliar''' amb el Senat el poble que s'havia retirat a l'Aventí.|ref=Plutarc, ''Vides paral·leles: volum XIV, Agesilau i Pompeu'', Fundació Bernat Metge, p.135}}
+#: {{ex-cit|ca|En conseqüència, sogre i gendre es '''van reconciliar''' al pacte de Sòria del 1256.|ref=Ernest Belenguer, ''Jaume I i el seu regnat'', 2010}}
+
+==== Conjugació ====
+{{ca-conj|alt=no}}
+
+{{-trad-}}
+{{t-inici}}
+* {{de}}: {{trad|de|versöhnen}}
+* {{en}}: {{trad|en|reconcile}}
+* {{es}}: {{trad|es|reconciliar}}
+* {{fr}}: {{trad|fr|reconcilier}}
+* {{it}}: {{trad|it|riconciliare}}
+{{t-final}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+
+=== Vegeu també ===
+* {{ca-dicc|diec|gdlc|dcvb|optimot}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 redactar
+
+== {{-ca-}} ==
+{{ca-pron|tipus=inf}}
+{{homòfons|ca|redactà}}
+{{etimologia|ca}}
+
+=== Verb ===
+{{ca-verb|t}}
+
+# [[escriure#ca|Escriure]] una [[redacció]].
+
+==== Conjugació ====
+{{ca.v.conj.para1|redact}}
+
+{{-sin-}}
+* [[anotar]], [[compondre]], [[esborrallar]], [[escriure]], [[posar]] per escrit.
+* [[editar]], [[tallar]].
+
+{{-trad-}}
+{{t-inici|Escriure una redacció [1]}}
+* {{es}}: {{trad|es|redactar}}
+* {{fr}}: {{trad|fr|redactar}}
+* {{hi}}: {{trad|hi|लिखना}}
+* {{csc}}: {{trad|csc|ESCRIURE}}
+{{t-final}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+
+=== Vegeu també ===
+* {{ca-dicc|diec|gdlc|optimot}}
+* {{tesaure}}
+
+== {{-es-}} ==
+{{es-pron}}
+
+=== Verb ===
+{{es-verb}}
+
+# {{e|ca|redactar}}
+
+=== Miscel·lània ===
+* {{es-sil}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 reflexionar
+
+== {{-ca-}} ==
+{{ca-pron|tipus=inf|ks}}
+{{homòfons|ca|reflexionà}}
+{{-etimologia-}} Derivat de {{m|ca|reflexió}}.
+
+=== Verb ===
+{{ca-verb|t-i}}
+
+# Pensar detingudament sobre una qüestió.
+
+==== Conjugació ====
+{{ca.v.conj.para1|reflexion}}
+
+{{-sin-}}
+* [[meditar]], [[rumiar]]
+
+{{-trad-}}
+{{t-inici}}
+* {{en}}: {{trad|en|reflect}}
+* {{es}}: {{trad|es|reflexionar}}
+* {{fr}}: {{trad|fr|réflechir}}
+* {{it}}: {{trad|it|riflettere}}
+{{t-final}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+
+=== Vegeu també ===
+* {{ca-dicc|diec|gdlc|optimot}}
+* {{tesaure}}
+Derivat de {{m|ca|reflexió}}.
+
+=
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 regenerar
+
+== {{-ca-}} ==
+{{ca-pron|tipus=inf}}
+{{homòfons|ca|regenerà}}
+{{-etimologia-}} {{Del-lang|la|ca|regenerāre}}.
+
+=== Verb ===
+{{ca-verb|t}}
+
+# Nèixer per substituir els que han mort de la generació anterior.
+#: {{ex-cit|ca|A partir dels deu anys anem perdent neurones, que a diferència de la resta de les cèl·lues del nostre organisme, no es '''regeneren'''.|ref=<ref>Maria Rosa Mulet Grimalt, L'escola potenciadora del creixement humà integral, 2014</ref>}}
+# Tornar a l'estat de puresa inicial.
+#: {{ex-cit|ca|Tots ens volem autoconvèncer: «Fa vint-i-cinc anys que no fumo, per tant, els teixits s'han regenerat, no? Estic net una altra vegada»; doncs no.|ref=<ref>Diversos autors, ''El llibre de la marató 2018''</ref>}}
+
+==== Conjugació ====
+{{ca.v.conj.para1|regener}}
+
+{{-sin-}}
+* [[refer]], [[renovar]], [[rectificar]]
+
+{{-trad-}}
+{{t-inici}}
+{{t-final}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+
+=== Vegeu també ===
+* {{ca-dicc|diec|gdlc|optimot}}
+* {{tesaure}}
+{{Del-lang|la|ca|regenerāre}}.
+
+=
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 reincidir
+
+== {{-ca-}} ==
+{{ca-pron|tipus=inf}}
+{{homòfons|ca|reincidí}}
+{{etim-comp|ca|re-|incidir}}, {{etim-s|ca|XVIII}}.
+
+=== Verb ===
+{{ca-verb|i}}
+
+# Tornar a [[cometre]] una acció [[reprensible]].
+
+==== Conjugació ====
+{{ca-conj|alg=no|alt=no}}
+
+{{-sin-}}
+* [[recidivar]]
+
+{{-trad-}}
+{{t-inici}}
+* {{en}}: {{trad|en|relapse}}
+* {{es}}: {{trad|es|reincidir}}
+{{t-final}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+
+=== Vegeu també ===
+* {{ca-dicc|diec|dcvb|gdlc|optimot}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 remar
+
+== {{-ca-}} ==
+{{ca-pron|tipus=inf}}
+{{homòfons|ca|ramà|ramar|remà}}
+{{-etimologia-}} De {{m|ca|rem}}, {{etim-s|ca|XIII}}.
+
+=== Verb ===
+{{ca-verb|i}}
+
+# Moure els rems d'un [[bot]] perquè avanci sobre l'aigua.
+#: {{ex-cit|ca|Primer '''remava''' jo però després ho va voler fer ella. A cada cop de rem, m'omplia d'esquitxos, però la barca no es movia.|ref=Francesc Puigdollers Colàs, ''Un adolescent a la guerra Civil Espanyola'', Cultivalibros, 2009, pàgina 113}}
+
+==== Conjugació ====
+{{ca-conj|alg=no|rizo=é}}<!-- [[rem]] ê, però formes verbals é igual que [[venjar]] i [[pesar]], {{DECat|I|108|b40}} -->
+
+{{-trad-}}
+{{t-inici}}
+* {{de}}: {{trad|de|rudern}}
+* {{en}}: {{trad|en|row}}
+* {{es}}: {{trad|es|remar}}
+* {{fr}}: {{trad|fr|ramer}}
+* {{it}}: {{trad|it|remare}}
+{{t-final}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|armer|ermar|marre|erram}}
+
+=== Vegeu també ===
+* {{ca-dicc|diec|gdlc|dnv|dcvb}}
+
+[[Categoria:Nàutica en català]]
+De {{m|ca|rem}}, {{etim-s|ca|XIII}}.
+
+=
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 remodelar
+
+== {{-ca-}} ==
+{{ca-pron|tipus=inf}}
+{{etim-comp|ca|re-|modelar}}.
+
+=== Verb ===
+{{ca-verb|t}}
+
+# Canviar la [[forma]], l'aspecte o l'estructura.
+#: ''La masia és enorme, hi ha moltes habitacions i l'han remodelat d'una manera que a en Melcior li sembla treta d'un reportatge de revista d'arquitectes''<ref>Javier Cercas, ''Terra Alta'', 2019</ref>
+# Canviar el model d'[[organització]] que se segueix.
+#: ''Aquest any, el Ministerio de Cultura, ha remodelat el sistema dels concursos d'atribució de subsidis.''<ref>''L'Avenç'', núm292-297, pàg.47</ref>
+
+{{-sin-}}
+* [[refer]]
+* [[reorganitzar]], [[canviar]]
+
+==== Conjugació ====
+{{ca.v.conj.para1|remodel}}
+
+{{-trad-}}
+{{t-inici}}
+* {{de}}: {{trad|de|unbilden}}
+* {{en}}: {{trad|en|remodel}}
+* {{es}}: {{trad|es|remodelar}}
+* {{it}}: {{trad|it|rimodellare}}
+{{t-final}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+
+=== Vegeu també ===
+* {{ca-dicc|diec|gdlc|dnv|dcvb|optimot}}
+{{referències}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 repercutir
+
+== {{-ca-}} ==
+{{ca-pron|tipus=inf}}
+{{etimologia|ca}}
+
+=== Verb ===
+{{ca-verb|i-t}}
+
+# {{marca|ca|intransitiu}} El so, fer [[ressò]].
+# {{marca|ca|intransitiu}} Una cosa, normalment una acció, però també una circumstància, un pensament, una moda etc., afectar-ne d'altres.
+# {{marca|ca|intransitiu}} Produir algun efecte el retorn o rebot d'una cosa.
+# {{marca|ca|transitiu}} En medicina, fer que algun problema en la salud persisteixi.
+
+==== Conjugació ====
+{{ca.v.conj.para4|repercut}}
+
+{{-trad-}}
+{{t-inici}}
+{{t-final}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+
+=== Vegeu també ===
+* {{ca-dicc|diec|gdlc|optimot}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 reprimir
+
+== {{-ca-}} ==
+{{ca-pron|tipus=inf}}
+{{-etimologia-}} {{Del-lang|la|ca|reprimere}}, {{etim-s|ca|XVII}}
+
+=== Verb ===
+{{ca-verb|t-p}}
+
+# Impedir la finalització d'una acció.
+#: ''Reprimir un badall.''
+# Emprar la força per fer callar o acabar amb manifestacions.
+#: ''Durant el govern d'Ante Pavelić es va reprimir als comunistes i es van fer campanyes d'extermini.''
+
+==== Conjugació ====
+{{ca.v.conj.para4|reprim}}
+
+{{-sin-}}
+* [[ofegar]]
+* [[dominar]], [[sotmetre]], [[oprimir]]
+
+{{-trad-}}
+{{t-inici}}
+* {{en}}: {{trad|en|supress}}
+* {{es}}: {{trad|es|reprimir}}
+* {{fr}}: {{trad|fr|réprimer}}
+* {{it}}: {{trad|it|reprimere}}
+* {{csc}}: {{trad|csc|PRESSIONAR}}
+{{t-final}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+
+=== Vegeu també ===
+* {{ca-dicc|diec|gdlc|dnv|dcvb|optimot}}
+* {{tesaure}}
+{{Del-lang|la|ca|reprimere}}, {{etim-s|ca|XVII}}
+
+=
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 repudiar
+
+== {{-ca-}} ==
+{{ca-pron|tipus=inf}}
+{{homòfons|ca|repudià}}
+{{-etimologia-|la|ca}} Del llatí {{m|ca|repudiare}}, {{etim-s|ca|XV}}, doblet del patrimonial {{doblet|ca|rebutjar}}.
+
+=== Verb ===
+{{ca-verb|t}}
+
+# Trencar legalment el marit el dret a la convivència matrimonial.
+# Renunciar a un [[dret]].
+# Rebutjar la relació social amb una persona.
+#: ''Després de la seva traïció, va ser repudiat pels del seu grup.''
+
+==== Conjugació ====
+{{ca.v.conj.para17|repudi}}
+
+{{-sin-}}
+* [[renunciar]], [[rebutjar]]
+
+{{-trad-}}
+{{t-inici}}
+* {{en}}: {{trad|en|repudiate}}
+* {{es}}: {{trad|es|repudiar}}
+* {{fr}}: {{trad|fr|répudier}}
+* {{it}}: {{trad|it|repudiare}}
+{{t-final}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+
+=== Vegeu també ===
+* {{ca-dicc|diec|gdlc|dcvb|optimot}}
+* {{tesaure}}
+
+== {{-es-}} ==
+{{es-pron}}
+{{etim-lang|la|es|repudiāre}}.
+
+=== Verb ===
+{{es-verb-forma|t}}
+
+# [[#ca|repudiar]]
+
+==== Conjugació ====
+{{es.v.conj.ar|repudi}}
+
+=== Miscel·lània ===
+* {{es-sil}}
+* {{anagrames|es|pedurría|pudriera|repudiar|repudría}}
+
+=== Vegeu també ===
+* {{DRAE}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 rescatar
+
+== {{-ca-}} ==
+{{ca-pron|tipus=inf}}
+{{homòfons|ca|rescatà}}
+{{-etimologia-}} De {{m|ca|recaptar}}.
+
+=== Verb ===
+{{ca-verb|t}}
+
+# Recuperar alguna cosa o persona que s'ha perdut o que es comença a perdre.
+#: ''El cavaller va lluitar per '''rescatar''' la princesa de les urpes del drac.''
+# [[pagar|Pagar]] el preu que demanen per persones segrestades o captius de guerra.
+#: ''[...] era amb donatius dels nostres comerciants i industrials que '''rescataven''' els captius de Moreria.''<ref>Jordi Giró i París, ''El pensament polític de Carles Cardó i de Jacques Maritain'', 1995</ref>
+# Pagar per alliberar un deute, saldar el crèdit d'algú.
+#: ''En el seu escrit, l'autor denuncia que aquestes consideracions, les escampen els tercers posseïdors, és a dir, els arrendataris de les seves terres, ja que si pogués '''rescatar''' el deute, aquells en perdrien l' explotació.''<ref>Vicenç Pascual i Rodríguez, ''Guerra i postguerra de Successió: la vida de Sebastià Casanovas, pagès del segle XVIII'', 2010</ref>
+# Ajudar a sortir d'un perill o d'una incomoditat.
+#: ''Se'l va mirar, el va sentir a prop, molt a prop; els seus ulls negres la '''rescataven''' de la infelicitat''<ref>Miquel Aguirre Oliveras, ''La cortina de saca'', 2012</ref>
+
+==== Conjugació ====
+{{ca.v.conj.para1|rescat}}
+
+{{-sin-}}
+* [[alliberar]], [[recuperar]], [[salvar]]
+* [[pagar]]
+
+{{-trad-}}
+{{t-inici}}
+* {{en}}: {{trad|en|rescue}}
+* {{es}}: {{trad|es|rescatar}}
+* {{fr}}: {{trad|fr|délivrer}}
+* {{it}}: {{trad|it|salvare}}
+* {{csc}}: {{trad|csc|AGAFAR+SALVAR}}
+{{t-final}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|estracar|trescara|trescarà|castraré}}
+
+=== Vegeu també ===
+* {{ca-dicc|diec|gdlc|dnv|dcvb|optimot}}
+* {{tesaure}}
+{{referències}}
+De {{m|ca|recaptar}}.
+
+=
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 resistir
+
+== {{-ca-}} ==
+{{ca-pron|tipus=inf
+|f-centr=LL-Q7026 (cat)-Marvives-resistir.wav
+}}
+{{homòfons|ca|resistí}}
+{{-etimologia-}} {{Del-lang|la|ca|resistĕre}}, {{etim-s|ca|XIV}}.
+
+=== Verb ===
+{{ca-verb|i-p-t}}
+
+# Oposar una força a l'acció d'una altra.
+# Evitar cedir o evitar obeir una voluntat externa o un impuls.
+# Oposar resistència.
+# Mantenir-se sense cedir, aguantar.
+
+==== Conjugació ====
+{{ca-conj}}
+
+{{-sin-}}
+* [[conservar-se]], [[durar]], [[mantenir]], [[restar]]
+* [[suportar]]
+
+{{-trad-}}
+{{t-inici}}
+* {{de}}: {{trad|de|sich widersetzen}}, {{trad|de|Widerstand leisten}}, {{trad|de|widerstehen}}
+* {{csc}}: {{trad|csc|FERRO}}
+{{t-final}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+
+=== Vegeu també ===
+* {{ca-dicc|diec|gdlc|optimot}}
+* {{tesaure}}
+{{Del-lang|la|ca|resistĕre}}, {{etim-s|ca|XIV}}.
+
+=
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 evacuo
+
+== {{-ca-}} ==
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|evacuar|1|pres|ind}}
+
+{{-var-}}
+* [[evacue]], [[evacuï]], [[evacuu]]
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 evacues
+
+{{vegeu|evacués}}
+
+== {{-ca-}} ==
+{{ca-pron}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|evacuar|2|pres|ind}}
+# {{marca-nocat|ca|occidental|balear}} {{ca-forma-conj|evacuar|2|pres|subj}}
+
+{{-var-}}
+* [2] [[evacuïs]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrama|ca|secàveu}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 evacuaren
+
+== {{-ca-}} ==
+{{ca-pron}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{marca-nocat|ca|literari}} {{ca-forma-conj|evacuar|6|pass}}
+# {{marca-nocat|ca|valencià}} {{ca-forma-conj|evacuar|6|imperf|subj}}
+
+{{-var-}}
+* [2] [[evacuessin]], [[evacuessen]], [[evacuassin]], [[evacuassen]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|avencareu|avencàreu|carenàveu}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 evaporares
+
+== {{-ca-}} ==
+{{ca-pron}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{marca-nocat|ca|literari}} {{ca-forma-conj|evaporar|2|pass}}
+# {{marca-nocat|ca|valencià}} {{ca-forma-conj|evaporar|2|imperf|subj}}
+
+{{-var-}}
+* [2] [[evaporessis]], [[evaporesses]], [[evaporassis]], [[evaporasses]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|evaporar-se}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 exasperes
+
+{{vegeu|exasperés}}
+
+== {{-ca-}} ==
+{{ca-pron|é}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|exasperar|2|pres|ind}}
+# {{marca-nocat|ca|occidental|balear}} {{ca-forma-conj|exasperar|2|pres|subj}}
+
+{{-var-}}
+* [2] [[exasperis]]
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 exasperaren
+
+== {{-ca-}} ==
+{{ca-pron}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{marca-nocat|ca|literari}} {{ca-forma-conj|exasperar|6|pass}}
+# {{marca-nocat|ca|valencià}} {{ca-forma-conj|exasperar|6|imperf|subj}}
+
+{{-var-}}
+* [2] [[exasperessin]], [[exasperessen]], [[exasperassin]], [[exasperassen]]
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 excusa
+
+== {{-ca-}} ==
+{{ca-pron}}
+{{-etimologia-}} De {{m|ca|excusar}}, {{etim-s|ca|XII}}.
+
+=== Nom ===
+{{ca-nom|f}}
+
+# [[motiu|Motiu]] que es dóna per a [[excusar-se]] algú.
+
+{{-trad-}}
+{{t-inici}}
+* {{de}}: {{trad|de|Ausrede|f}}
+* {{en}}: {{trad|en|excuse}}
+* {{ar}}: {{trad|ar|عُذْر‎|m}}
+* {{hy}}: {{trad|hy|պատրվակ}}
+* {{bg}}: {{trad|bg|извинение|n}}
+* {{es}}: {{trad|es|excusa|f}}
+* {{da}}: {{trad|da|undskyldning|c}}
+* {{sk}}: {{trad|sk|výhovorka|f}}
+* {{eo}}: {{trad|eo|senkulpigo}}
+* {{fi}}: {{trad|fi|tekosyy}}
+* {{fr}}: {{trad|fr|excuse|f}}
+* {{fur}}: {{trad|fur|scuse|f}}
+* {{el}}: {{trad|el|δικαιολογία|f}}
+* {{grc}}: {{trad|grc|σκῆψις|f}}
+* {{hu}}: {{trad|hu|mentség}}
+* {{yi}}: {{trad|yi|תּירוץ‎|m}}
+* {{ga}}: {{trad|ga|leithscéal|m}}
+* {{it}}: {{trad|it|scusa|f}}
+* {{ja}}: {{trad|ja|言い訳}}
+* {{la}}: {{trad|la|praetextum|n}}
+* {{mk}}: {{trad|mk|изговор|m}}
+* {{nl}}: {{trad|nl|uitvlucht|m-f}}
+* {{no}}: {{trad|no|unnskyldning|m}}
+* {{oc}}: {{trad|oc|excusa|f}}
+* {{pl}}: {{trad|pl|wymówka|f}}
+* {{pt}}: {{trad|pt|desculpa|f}}
+* {{ro}}: {{trad|ro|scuză|f}}
+* {{ru}}: {{trad|ru|оправда́ние|n}}
+* {{sv}}: {{trad|sv|ursäkt|c}}
+* {{tr}}: {{trad|tr|bahane}}
+* {{cs}}: {{trad|cs|omluva|f}}
+* {{uk}}: {{trad|uk|відмо́вка|f}}
+* {{zh}}: {{trad|zh|藉口}}
+{{t-final}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+
+=== Vegeu també ===
+* {{ca-dicc|diec|gdlc|dcvb}}
+De {{m|ca|excusar}}, {{etim-s|ca|XII}}.
+
+=
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 inhibits
+
+== {{-ca-}} ==
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|inhibir|part|m|p}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+
+== {{-roa-oca-}} ==
+
+=== Verb ===
+{{entrada|roa-oca|verb-forma}}
+
+# {{forma-conj|roa-oca|inhibir|5|pres|ind}}
+# {{forma-conj|roa-oca|inhibir|5|imp}}
+
+{{-var-}}
+* [1] {{e|roa-oca|inhibiu}}
+* [2] {{e|roa-oca|inhibiu}}
+
+== {{-en-}} ==
+
+=== Verb ===
+{{entrada|en|verb-forma}}
+
+# {{en-forma-conj|inhibit|3}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 exhumes
+
+{{vegeu|exhumés}}
+
+== {{-ca-}} ==
+{{ca-pron}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|exhumar|2|pres|ind}}
+# {{marca-nocat|ca|occidental|balear}} {{ca-forma-conj|exhumar|2|pres|subj}}
+
+{{-var-}}
+* [2] [[exhumis]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 exhumaren
+
+== {{-ca-}} ==
+{{ca-pron}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{marca-nocat|ca|literari}} {{ca-forma-conj|exhumar|6|pass}}
+# {{marca-nocat|ca|valencià}} {{ca-forma-conj|exhumar|6|imperf|subj}}
+
+{{-var-}}
+* [2] [[exhumessin]], [[exhumessen]], [[exhumassin]], [[exhumassen]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 exploro
+
+== {{-ca-}} ==
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|explorar|1|pres|ind}}
+# {{marca-nocat|ca|col·loquial|_|nord-occidental}} {{ca-forma-conj|explorar|1|pres|subj}}
+# {{marca-nocat|ca|col·loquial|_|nord-occidental}} {{ca-forma-conj|explorar|3|pres|subj}}
+
+{{-var-}}
+* [1] [[explore]], [[explori]], [[explor]]
+* [2] [[explori]], [[explore]]
+* [3] [[explori]], [[explore]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 explores
+
+{{vegeu|explorés}}
+
+== {{-ca-}} ==
+{{ca-pron|ó}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|explorar|2|pres|ind}}
+# {{marca-nocat|ca|occidental|balear}} {{ca-forma-conj|explorar|2|pres|subj}}
+
+{{-var-}}
+* [2] [[exploris]], [[exploros]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 explorares
+
+== {{-ca-}} ==
+{{ca-pron}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{marca-nocat|ca|literari}} {{ca-forma-conj|explorar|2|pass}}
+# {{marca-nocat|ca|valencià}} {{ca-forma-conj|explorar|2|imperf|subj}}
+
+{{-var-}}
+* [2] [[exploreguesses]], [[exploressis]], [[exploresses]], [[explorassis]], [[explorasses]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 exportes
+
+{{vegeu|exportés}}
+
+== {{-ca-}} ==
+{{ca-pron|ò}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|exportar|2|pres|ind}}
+# {{marca-nocat|ca|occidental|balear}} {{ca-forma-conj|exportar|2|pres|subj}}
+
+{{-var-}}
+* [2] [[exportis]], [[exportos]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 exportares
+
+== {{-ca-}} ==
+{{ca-pron}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{marca-nocat|ca|literari}} {{ca-forma-conj|exportar|2|pass}}
+# {{marca-nocat|ca|valencià}} {{ca-forma-conj|exportar|2|imperf|subj}}
+
+{{-var-}}
+* [2] [[exporteguesses]], [[exportessis]], [[exportesses]], [[exportassis]], [[exportasses]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 juro
+
+{{vegeu|juró}}
+
+== {{-ca-}} ==
+{{ca-pron|or=/ˈʒuɾu/|occ=/ˈd͡ʒuɾo/}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|jurar|1|pres|ind}}
+#: [Jo] juro, [[jure]], [[jur]] o [[juri]].
+# {{ca-forma-conj|jurar|1|pres|subj}}
+#: [Que jo] juro, forma d'alguns parlars nord-occidentals per [que jo] [[juri]] o [[jure]].
+# {{ca-forma-conj|jurar|3|pres|subj}}
+#: [Que ell/ella/vostè] juro, forma d'alguns parlars nord-occidentals per [que ell/ella/vostè] [[juri]] o [[jure]].
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 juren
+
+== {{-ca-}} ==
+{{ca-pron}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|jurar|6|pres|ind}}
+# {{ca-forma-conj|jurar|6|pres|subj}}
+#: [Que ells/elles/vostès] [[jurin]] o juren.
+# {{ca-forma-conj|jurar|6|imp}}
+#: [[jurin|Jurin]] o juren [ells/elles/vostès].
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 juraren
+
+== {{-ca-}} ==
+{{ca-pron|or=/ʒuˈɾa.ɾən/|occ=/d͡ʒuˈɾa.ɾen/}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|jurar|6|pass}}
+#: [Ells/elles/vostès] juraren o van/varen jurar.
+# {{ca-forma-conj|jurar|6|imperf|subj}}
+#: Forma valenciana: [ells/elles/vostès] [[juressin]], [[juressen]], [[jurassen]], [[jurassin]] o juraren.
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 calavera
+
+== {{-ca-}} ==
+{{ca-pron}}
+{{-etim-}} {{Del-lang|roa-oca|ca|*calvera}} per influx {{del-lang|la|ca|cadāvera|trad=cadàvers}}, de {{m|la|calvāria|t=crani}}, de {{m|la|calvus|t=calb}}, {{etim-s|ca|XIV}}.
+
+=== Nom ===
+{{ca-nom|m}}
+
+# Esquelet del cap d'una persona.
+# {{marca|ca|figurat}} [[tarambana]]
+
+{{-rel-}}
+* [[crani]]
+
+{{-trad-}}
+{{t-inici}}
+* {{af}}: {{trad|af|skedel}}
+* {{sq}}: {{trad|sq|kafkë}}
+* {{de}}: {{trad|de|Schädel|m}}
+* {{en}}: {{trad|en|skull}}
+* {{arc}}: {{trad|arc|גולגלתא‎}}
+* {{hy}}: {{trad|hy|գանգ}}
+* {{eu}}: {{trad|eu|burezur}}
+* {{be}}: {{trad|be|чэ́рап|m}}
+* {{bg}}: {{trad|bg|че́реп|m}}
+* {{es}}: {{trad|es|calavera|f}}
+* {{ko}}: {{trad|ko|두개골}}
+* {{da}}: {{trad|da|kranie|n}}
+* {{sk}}: {{trad|sk|lebka|f}}
+* {{sl}}: {{trad|sl|lobanja|f}}
+* {{eo}}: {{trad|eo|kranio}}
+* {{et}}: {{trad|et|kolju}}
+* {{fi}}: {{trad|fi|kallo}}
+* {{fr}}: {{trad|fr|crâne|m}}
+* {{fur}}: {{trad|fur|crepe|m}}
+* {{gl}}: {{trad|gl|caveira|f}}
+* {{cy}}: {{trad|cy|penglog}}
+* {{ka}}: {{trad|ka|თავის ქალა}}
+* {{el}}: {{trad|el|κρανίο|n}}
+* {{grc}}: {{trad|grc|κρανίον|n}}
+* {{hi}}: {{trad|hi|कपाल|f}}
+* {{hu}}: {{trad|hu|koponya}}
+* {{ga}}: {{trad|ga|blaosc|f}}
+* {{is}}: {{trad|is|höfuðkúpa|f}}
+* {{it}}: {{trad|it|cranio|m}}, {{trad|it|teschio|m}}
+* {{ja}}: {{trad|ja|頭蓋骨}}
+* {{lv}}: {{trad|lv|galvaskauss|m}}
+* {{la}}: {{trad|la|calvaria|f}}, {{trad|la|calva|f}}
+* {{nl}}: {{trad|nl|schedel|m}}
+* {{oc}}: {{trad|oc|cran|m}}
+* {{pl}}: {{trad|pl|czaszka|f}}
+* {{rm}}: {{trad|rm|chau|m}}
+* {{ro}}: {{trad|ro|craniu|n}}, {{trad|ro|țeastă|f}}
+* {{ru}}: {{trad|ru|че́реп|m}}
+* {{sc}}: {{trad|sc|cràniu|m}}
+* {{sh}}: {{trad|sh|лубања}}, {{trad|sh|lubanja|f}}
+* {{scn}}: {{trad|scn|crozza|f}}
+* {{sv}}: {{trad|sv|skalle|c}}
+* {{tl}}: {{trad|tl|bungo}}
+* {{th}}: {{trad|th|กะโหลก}}
+* {{tr}}: {{trad|tr|kafatası}}
+* {{cs}}: {{trad|cs|lebka|f}}
+* {{ur}}: {{trad|ur|کپال|f}}
+* {{vi}}: {{trad|vi|sọ}}
+* {{vo}}: {{trad|vo|kran}}
+* {{zh}}: {{trad|zh|頭骨}}
+{{t-final}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|lacerava}}
+
+=== Vegeu també ===
+* {{Viquipèdia}}
+* {{ca-dicc|diec|gdlc|dcvb}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 retornar
+
+== {{-ca-}} ==
+{{ca-pron|tipus=inf}}
+{{homòfons|ca|retornà}}
+{{etim-comp|ca|re-|tornar}}, {{etim-s|ca|XIV}}
+
+=== Verb ===
+{{ca-verb|t-i}}
+
+# [[tornar|Tornar]] una cosa a qui la tenia abans.
+# Recobrar els [[sentits]] desprès d'un accident o [[letargia]].
+# Tornar al lloc o la situació on era abans.
+
+==== Conjugació ====
+{{ca-conj|rizo=ó}}
+
+{{-sin-}}
+* [[compensar]], [[pagar]], [[tornar]]
+* [[abandonar]], [[deixar]], [[entregar]], [[lliurar]], [[prestar]], [[tornar]]
+* [[entregar]], [[lliurar]], [[presentar]], [[rendir]], [[tornar]]
+* [[restituir]]
+
+{{-trad-}}
+{{t-inici|Tornar una cosa a qui la tenia abans}}
+* {{en}}: {{trad|en|return}}
+* {{es}}: {{trad|es|devolver}}, {{trad|es|retornar}}
+* {{fr}}: {{trad|fr|returner}}
+* {{it}}: {{trad|it|ritornare}}
+{{t-final}}
+
+{{t-inici|Tornar al lloc o la situació on era abans}}
+* {{en}}: {{trad|en|return}}
+* {{es}}: {{trad|es|volver}}, {{trad|es|retornar}}
+* {{fr}}: {{trad|fr|returner}}
+* {{it}}: {{trad|it|ritornare}}
+{{t-final}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|retronar|torraren}}
+
+=== Vegeu també ===
+* {{ca-dicc|diec|gdlc|optimot}}
+* {{tesaure}}
+
+== {{-es-}} ==
+{{es-pron}}
+
+=== Verb ===
+{{es-verb|present=retorno}}
+
+# {{e|ca|retornar}}
+
+=== Miscel·lània ===
+* {{es-sil}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 rotar
+
+== {{-ca-}} ==
+{{ca-pron|tipus=inf}}
+{{homòfons|ca|rotà}}
+{{-etimologia-|la|ca}} [1] Del llatí vulgar {{m|la|*ruptare}}, de {{m|la|ructāre|trad=eructar}}, freqüentatiu de {{m|la|ērūgō|trad=sorgir}}, {{etim-s|ca|XIV}}.
+{{-etimologia-}} [2] Calc semàntic del castellà {{calc|es|ca|rotar}}, del llatí {{m|la|rotāre|trad=rodar}}.
+
+=== Verb ===
+{{ca-verb|i-t}}
+
+# Treure un [[rot]].
+# {{marca|ca|col·loquial}} Venir de gust fer una cosa.
+#: ''Ho faré si em rota.''
+
+==== Conjugació ====
+{{ca-conj|alg=no|alt=no|rizo=ó}}
+
+{{-sin-}}
+* [[eructar]]
+
+{{-trad-}}
+{{t-inici}}
+* {{en}}: {{trad|en|belch}}
+* {{es}}: {{trad|es|eructar}}
+* {{fr}}: {{trad|fr|roter}}
+* {{it}}: {{trad|it|eruttare}}
+{{t-final}}
+
+=== Verb ===
+{{ca-verb|i}}
+
+# {{marca|ca|castellanisme}} [[rodar]], [[girar]] {{q|moviment de rotació}}
+# {{marca|ca|castellanisme}} [[rodar]]
+#: ''Com que ningú vol treballar de nit, rotarem els torns.''
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|Torra|torra|torrà}}
+
+=== Vegeu també ===
+* {{ca-dicc|diec|gdlc|dnv|dcvb|optimot}}
+[2] Calc semàntic del castellà {{calc|es|ca|rotar}}, del llatí {{m|la|rotāre|trad=rodar}}.
+
+=
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 salar
+
+{{vegeu|SALAR}}
+
+== {{-ca-}} ==
+{{ca-pron|tipus=inf}}
+{{homòfons|ca|celar|celà|salà}}
+{{-etimologia-}} [1] De {{m|ca|sal}}, {{etim-s|ca|XIII}}.
+{{-etimologia-}} [2] De {{m|ca|sa}} i altres articles provinents del llatí {{m|la|ipse}}, per analogia amb {{m|ca|sal}}.
+
+=== Verb ===
+{{ca-verb|t}}
+
+# Preparar alguna cosa per a [[conservar]]-la, típicament cuirs o aliments, cobrint-la o impregnant-la amb [[sal]].
+# Posar sal en aliments o begudes, especialment quan és en excés.
+# Donar a menjar sal als animals.
+# Alguna cosa donar gust [[salat]] al conjunt de l'aliment del qual forma part.
+#: ''La Maria li posa uns peixets molt bons que ajuden a '''salar''' l'arròs.''
+# {{marca|ca|mallorquí}} Escampar la [[lletada]] per terra per tal de cobrir les juntes de l'enrajolat.
+# Incomplir l'assistència obligatòria a algun lloc.
+
+==== Conjugació ====
+{{ca-conj}}
+
+{{-der-}}
+* [[dessalar]]
+
+{{-trad-}}
+{{t-inici|Posar sal}}
+* {{en}}: {{trad|en|salt}}
+* {{es}}: {{trad|es|salar}}
+* {{fr}}: {{trad|fr|saler}}
+* {{it}}: {{trad|it|salare}}
+* {{csc}}: {{trad|csc|SALAR}}, {{trad|csc|POLS}}
+{{t-final}}
+
+=== Verb ===
+{{ca-verb|i}}
+
+# {{marca|ca|lingüística}} Usar els articles [[salat]]s de l'arrel llatina {{m|la|ipse}} ({{m|ca|es}}, {{m|ca|sa}}, {{m|ca|ses}}).
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|alars}}
+
+=== Vegeu també ===
+* {{ca-dicc|diec|gdlc|dcvb}}
+
+== {{-rmq-x-ca-}} ==
+{{rmq-x-ca-pron}}
+{{-etimologia-}} {{Del-lang|rom|rmq|asal}}.
+
+=== Verb ===
+{{entrada|rmq-x-ca|verb|tr=səlá}}
+
+# [[riure]]
+
+=== Vegeu també ===
+* {{Escudero-Adiego}}
+[1] De {{m|ca|sal}}, {{etim-s|ca|XIII}}.
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 sancionar
+
+== {{-ca-}} ==
+{{ca-pron|tipus=inf}}
+{{homòfons|ca|sancionà}}
+{{-etimologia-}} De {{m|ca|sanció}}.
+
+=== Verb ===
+{{ca-verb|t}}
+
+# Donar l'[[autorització]] o l'[[aprovació]] a una disposició legal.
+#: {{ex-cit|ca|Probablement era destinat als jutges, i encara que no fou mai llei '''sancionada''', tradicionalment tingué la consideració de tal.|ref=(Pere Bohigas, ''Tractats de cavalleria'', 1947)}}
+# Imposar el [[càstig]] corresponent a un delicte comès.
+#: {{ex-cit|ca|Frank de Boer '''va ser sancionat''' amb un any d'inhabilitació, perquè es va detectar la presència de nandrolona en la seva orina, després del partit que el Celta i el Barça van disputar a Balaídos el 8 de març del 2001.|ref=(Lluís Lainz, ''De portes endins'', 2012)}}
+
+==== Conjugació ====
+{{ca.v.conj.para1|sancion}}
+
+{{-sin-}}
+* [[aprovar]]
+
+{{-trad-}}
+{{t-inici}}
+* {{en}}: {{trad|en|sanction}}
+* {{es}}: {{trad|es|sancionar}}
+* {{fr}}: {{trad|fr|sanctionner}}
+{{t-final}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+
+=== Vegeu també ===
+* {{ca-dicc|diec|gdlc|dnv|dcvb|optimot}}
+* {{tesaure}}
+
+{{catllengua|ca|Autoantònims}}
+De {{m|ca|sanció}}.
+
+=
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 signar
+
+{{vegeu|SIGNAR}}
+
+== {{-ca-}} ==
+{{ca-pron|tipus=inf}}
+{{homòfons|ca|signà}}
+{{-etimologia-}} {{Del-lang|la|ca|signāre}}, {{etim-s|ca|XIV}}.
+
+=== Verb ===
+{{ca-verb|t}}
+
+# [[assenyalar|Assenyalar]] o mostrar amb un [[signe]] algú o alguna cosa.
+# Una persona, posar la seva [[signatura]] en un escrit o una obra.
+
+==== Conjugació ====
+{{ca-conj}}
+
+{{-sin-}}
+* [[firmar]], [[subscriure]]
+
+{{-trad-}}
+{{t-inici|Assenyalar}}
+* {{en}}: {{trad|en|point}}, {{trad|en|bid}}
+* {{es}}: {{trad|es|señalar}}, {{trad|es|apuntar}}
+* {{fr}}: {{trad|fr|signer}}
+* {{it}}: {{trad|it|segnare}}
+* {{csc}}: {{trad|csc|SIGNAR}}
+{{t-final}}
+
+{{t-inici|Posar la signatura}}
+* {{de}}: {{trad|de|unterschreiben}}, {{trad|de|unterzeichnen}}, {{trad|de|unterfertigen}}
+* {{en}}: {{trad|en|sign}}
+* {{es}}: {{trad|es|firmar}}, {{trad|es|signar}}
+* {{fr}}: {{trad|fr|signer}}
+* {{it}}: {{trad|it|firmare}}
+{{t-final}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|granís}}
+
+=== Vegeu també ===
+* {{ca-dicc|diec|gdlc|optimot}}
+* {{tesaure}}
+
+== {{-es-}} ==
+{{es-pron}}
+{{-etimologia-|la|es}} Del llatí {{m|la|signāre}}.
+
+=== Verb ===
+{{es-verb|t}}
+
+# {{e|ca|signar}}, [[firmar]]
+# [[senyar]], [[persignar]]
+
+{{-sin-}}
+* {{e|es|firmar}}
+
+=== Miscel·lània ===
+* {{es-sil}}
+{{Del-lang|la|ca|signāre}}, {{etim-s|ca|XIV}}.
+
+=
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 sobrar
+
+== {{-ca-}} ==
+{{ca-pron|tipus=inf}}
+{{homòfons|ca|sobrà}}
+{{etim-lang|la|ca|superare}}, {{etim-s|ca|XIII}}. Doblet del cultisme {{doblet|ca|superar}}.
+
+=== Verb ===
+{{ca-verb|t-i}}
+
+# Estar en excés.
+#: {{ex-us|ca|Farem panellets de més i els que en sobrin els portarem a la veïna.}}
+# Ser innecessari.
+#: {{ex-cit|ca|M'han acomiadat perquè '''sobrava'''.|ref=Deborah Moggach, ''L'hotel dels cors trencats''}}
+#: {{ex-cit|ca|Les ombres són frases del tipus «tu no vals», «tu sobres», «la vida és només per als triomfadors»...|ref=Pilar Jericó Rodríguez, ''Herois quotidians'', 2010}}
+
+==== Conjugació ====
+{{ca-conj|alg=no|rizo=ò}}
+
+{{-sin-}}
+* [[excedir]]
+* [[destorbar]], [[fer nosa]]
+
+{{-ant-}}
+* [[mancar]]
+* [[necessitar]]
+
+{{-trad-}}
+{{t-inici}}
+* {{de}}: {{trad|de|überflüssig}}
+* {{en}}: {{trad|en|leave over}}
+* {{es}}: {{trad|es|sobrar}}
+* {{fr}}: {{trad|fr|dépasser}}
+{{t-final}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|borràs|Borràs|barros}}
+
+=== Vegeu també ===
+* {{ca-dicc|diec|gdlc|dnv|dcvb|optimot}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 sondar
+
+== {{-ca-}} ==
+{{ca-pron|tipus=inf}}
+{{homòfons|ca|sondà}}
+{{-etimologia-}} De {{m|ca|sonda}}, {{etim-s|ca|XIX}}.
+
+=== Verb ===
+{{ca-verb|t}}
+
+# Explorar, mesurar, examinar amb una [[sonda]].
+# Mirar d’[[esbrinar]] les intencions, l’opinió.
+
+==== Conjugació ====
+{{ca-conj|alt=no|rizo=ó}}
+
+{{-der-}}
+* [[sondable]]
+
+{{-sin-}}
+* {{q|esbrinar les intencions}} [[sondejar]]
+
+{{-trad-}}
+{{t-inici|Explorar amb una sonda}}
+* {{en}}: {{trad|en|sound}}
+* {{es}}: {{trad|es|sondar}}
+* {{fr}}: {{trad|fr|sonder}}
+* {{it}}: {{trad|it|sondare}}
+{{t-final}}
+
+{{t-inici|Esbrinar les intencions}}
+* {{en}}: {{trad|en|survey}}
+* {{es}}: {{trad|es|sondear}}, {{trad|es|sondar}}
+* {{fr}}: {{trad|fr|sonder}}
+* {{it}}: {{trad|it|sondare}}
+{{t-final}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|sondar|adorns}}
+
+=== Vegeu també ===
+* {{ca-dicc|diec|gdlc|dnv|optimot}}
+
+== {{-es-}} ==
+{{es-pron}}
+{{-etimologia-}} De {{m|es|sonda}}.
+
+=== Verb ===
+{{es-verb|t|present=sondo}}
+
+# {{e|ca|sondar}}
+
+{{-sin-}}
+* {{e|es|sondear}}
+
+=== Miscel·lània ===
+* {{es-sil}}
+De {{m|ca|sonda}}, {{etim-s|ca|XIX}}.
+
+=
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 sublimar
+
+== {{-ca-}} ==
+{{ca-pron|tipus=inf}}
+{{-etimologia-}} {{Del-lang|la|ca|sublīmāre}}.
+
+=== Verb ===
+{{ca-verb|t}}
+
+# Transformar una substància sòlida a l'estat gasós.
+#: ''El gel sec, és a dir, el diòxid de carboni, sublima a temperatura ambient.''
+# Substituir una activitat per una altra de més elevada o millor considerada socialment.
+#: ''Els qui fan vot de castedat, com els capellans i les monges, estan sublimant el sexe.''
+
+==== Conjugació ====
+{{ca.v.conj.para1|sublim}}
+
+{{-trad-}}
+{{t-inici}}
+* {{en}}: {{trad|en|sublimate}}
+* {{es}}: {{trad|es|sublimar}}
+* {{fr}}: {{trad|fr|sublimer}}
+* {{it}}: {{trad|it|sublimare}}
+{{t-final}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|bramulis}}
+
+=== Vegeu també ===
+* {{ca-dicc|diec|gdlc|dnv|optimot}}
+{{Del-lang|la|ca|sublīmāre}}.
+
+=
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 supervisar
+
+== {{-ca-}} ==
+{{ca-pron|tipus=inf|súpervisàr}}
+{{homòfons|ca|supervisà}}
+{{etim-comp|ca|super-|visar}}.
+
+=== Verb ===
+{{ca-verb|t}}
+
+# Controlar la feina d'altres, abans que estiqui enllestida.
+#: {{ex-cit|ca|És a dir, aquesta comissió '''supervisarà''' els PNT redactats en els diferents tallers i determinarà els aspectes que s'hagin de modificar abans de publicar-los.|ref=<ref>Joan Valle Martí, ''Els procediments normalitzats de treball'', Edicions Universitat Barcelona, 2011, pàgina 357</ref>}}
+
+==== Conjugació ====
+{{ca.v.conj.para1.isar|supervis|superv}}
+
+{{-trad-}}
+{{t-inici}}
+{{t-final}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+
+=== Vegeu també ===
+* {{ca-dicc|diec|gdlc|dnv|dcvb|optimot}}
+{{referències}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 quinzena
+
+== {{-ca-}} ==
+{{ca-pron|ê}}
+
+=== Numeral ===
+{{ca-num-forma|f}}
+
+# {{forma-f|ca|quinzè}}
+
+=== Nom ===
+{{ca-nom|f}}
+
+# {{marca|ca|numeral|_|col·lectiu}} Conjunt de [[quinze]].
+# Quinze dies.
+
+=== Miscel·lània ===
+* {{ca-sil}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 tergiversar
+
+== {{-ca-}} ==
+{{ca-pron|tipus=inf}}
+{{homòfons|ca|tergiversà}}
+{{-etimologia-}} {{Del-lang|la|ca|tergiversare}}, format amb la unió dels termes {{m|la|tergum|trad=esquena}} i {{m|la|vertĕre|trad=girar}}.
+
+=== Verb ===
+{{ca-verb|t}}
+
+# [[capgirar|Capgirar]] el sentit d'un discurs, d'un missatge, desviant-lo de la veritat.
+
+==== Conjugació ====
+{{ca-conj|alg=no|alt=no|rizo=è}}
+
+{{-trad-}}
+{{t-inici}}
+* {{en}}: {{trad|en|distort}}
+* {{es}}: {{trad|es|tergiversar}}
+* {{fr}}: {{trad|fr|déformer}}
+* {{gl}}: {{trad|gl|terxiversar}}
+* {{it}}: {{trad|it|falsare}}
+* {{csc}}: {{trad|csc|MENTIR}}
+{{t-final}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+
+=== Vegeu també ===
+* {{ca-dicc|diec|gdlc|optimot}}
+
+== {{-es-}} ==
+{{es-pron}}
+{{-etimologia-|la|es}} Del llatí {{m|la|tergiversare}}.
+
+=== Verb ===
+{{es-verb|t|present=tergiverso}}
+
+# {{e|ca|tergiversar}}
+
+=== Miscel·lània ===
+* {{es-sil}}
+{{Del-lang|la|ca|tergiversare}}, format amb la unió dels termes {{m|la|tergum|trad=esquena}} i {{m|la|vertĕre|trad=girar}}.
+
+=
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 transbordar
+
+== {{-ca-}} ==
+{{ca-pron|tipus=inf}}
+{{homòfons|ca|transbordà}}
+{{etim-comp|ca|trans-|bord}}.
+
+=== Verb ===
+{{ca-verb|t}}
+
+# [[traslladar|Traslladar]] persones o efectes d'una [[nau]] a [[bord]] d'una altra.
+# Traslladar persones o efectes d'un [[vehicle]] a un altre.
+
+==== Conjugació ====
+{{ca-conj|alt=no|rizo=ó}}
+
+{{-trad-}}
+{{t-inici}}
+* {{de}}: {{trad|de|umladen}}
+* {{en}}: {{trad|en|change}}, {{trad|en|transfer}}
+* {{es}}: {{trad|es|transbordar}}, {{trad|es|trasbordar}}
+* {{fr}}: {{trad|fr|transborder}}, {{trad|fr|changer}}
+* {{it}}: {{trad|it|trasbordare}}
+{{t-final}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+
+=== Vegeu també ===
+* {{ca-dicc|diec|gdlc|optimot}}
+* {{R:DLCSalvat|3}}
+
+== {{-es-}} ==
+{{es-pron}}
+
+=== Verb ===
+{{es-verb|t|present=transbordo}}
+
+# {{e|ca|transbordar}}
+
+{{-var-}}
+* {{e|es|trasbordar}}
+
+=== Miscel·lània ===
+* {{es-sil}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 transitar
+
+== {{-ca-}} ==
+{{ca-pron|tipus=inf}}
+{{homòfons|ca|transità}}
+{{etim-lang|la|ca|transitāre}}, {{etim-s|ca|XIX}}.
+
+=== Verb ===
+{{ca-verb|i}}
+
+# [[anar|Anar]] de camí, anar de pas per llocs públics.
+
+==== Conjugació ====
+{{ca-conj|alg=no|alt=no}}
+
+{{-sin-}}
+* [[anar]], [[avançar]], [[camejar]], [[caminar]], [[circular]], [[deambular]], [[errar]], [[fer camí]], [[fer via]], [[gambejar]], [[marxar]], [[passejar]], [[rondar]], [[trescar]], [[trotar]], [[vagar]]
+
+{{-trad-}}
+{{t-inici}}
+* {{en}}: {{trad|en|transit}}
+* {{es}}: {{trad|es|transitar}}
+* {{fr}}: {{trad|fr|circuler}}
+* {{it}}: {{trad|it|transitare}}
+{{t-final}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+
+=== Vegeu també ===
+* {{ca-dicc|diec|gdlc|optimot}}
+* {{tesaure}}
+
+== {{-es-}} ==
+{{es-pron}}
+
+=== Verb ===
+{{es-verb|i}}
+
+# {{e|ca|transitar}}
+
+=== Miscel·lània ===
+* {{es-sil}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 patento
+
+== {{-ca-}} ==
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|patentar|1|pres|ind}}
+
+{{-var-}}
+* [[patente]], [[patenti]], [[patent]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 patentes
+
+{{vegeu|patentés}}
+
+== {{-ca-}} ==
+{{ca-pron|é}}
+
+=== Nom ===
+{{ca-nom-forma|fp}}
+
+# {{forma-p|ca|patenta}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|patentar|2|pres|ind}}
+# {{marca-nocat|ca|occidental|balear}} {{ca-forma-conj|patentar|2|pres|subj}}
+
+{{-var-}}
+* [2] [[patentis]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|espentat}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 patentares
+
+== {{-ca-}} ==
+{{ca-pron}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{marca-nocat|ca|literari}} {{ca-forma-conj|patentar|2|pass}}
+# {{marca-nocat|ca|valencià}} {{ca-forma-conj|patentar|2|imperf|subj}}
+
+{{-var-}}
+* [2] [[patentessis]], [[patentesses]], [[patentassis]], [[patentasses]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 patinen
+
+== {{-ca-}} ==
+{{ca-pron}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|patinar|6|pres|ind}}
+# {{marca-nocat|ca|occidental|balear}} {{ca-forma-conj|patinar|6|pres|subj}}
+# {{marca-nocat|ca|occidental|balear}} {{ca-forma-conj|patinar|6|imp}}
+
+{{-var-}}
+* [2] [[patinin]]
+* [3] [[patinin]]
+
+=== Miscel·lània ===
+* {{anagrames|ca|pentina|pentinà}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 patrocino
+
+== {{-ca-}} ==
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|patrocinar|1|pres|ind}}
+
+{{-var-}}
+* [[patrocine]], [[patrocini]], [[patrocín]]
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 patrocines
+
+{{vegeu|patrocinés}}
+
+== {{-ca-}} ==
+{{ca-pron}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|patrocinar|2|pres|ind}}
+# {{marca-nocat|ca|occidental|balear}} {{ca-forma-conj|patrocinar|2|pres|subj}}
+
+{{-var-}}
+* [2] [[patrocinis]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|pintoresca|entorpisca|contrapesi|contrapesí}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 patrulla
+
+{{vegeu|patrullà|patrullá}}
+
+== {{-ca-}} ==
+{{ca-pron}}
+{{etim-lang|fr|ca|patrouille}}, de {{m|fr|patrouiller|trad=patrollar}}, variant de {{m|fr|patouiller|trad=patollar}}, de {{m|fr|patte|trad=pota}}.
+
+=== Nom ===
+{{ca-nom|f}}
+
+# Grup reduït de soldats, policia o milícia que [[ronda]] un lloc per vigilar la [[seguretat]].
+
+{{-trad-}}
+{{t-inici}}
+* {{en}}: {{trad|en|patrol}}
+* {{es}}: {{trad|es|patrulla|f}}
+* {{fr}}: {{trad|fr|patrouille|f}}
+{{t-final}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|patrullar|3|pres|ind}}
+# {{ca-forma-conj|patrullar|2|imp}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+
+=== Vegeu també ===
+* {{Viquipèdia}}
+* {{ca-dicc|diec|gdlc}}
+
+== {{-es-}} ==
+{{es-pron}}
+{{-etim-}} De {{m|es|patrullar}}.
+
+=== Nom ===
+{{es-nom|f}}
+
+# [[#ca|patrulla]]
+
+=== Verb ===
+{{es-verb-forma}}
+
+# {{es-forma-conj|patrullar|3|pres|ind}}
+# {{es-forma-conj|patrullar|2|imp|voseo=no}}
+
+{{-var-}}
+* [2]: {{q|voseo}} {{e|es|patrullá}}
+
+=== Miscel·lània ===
+* {{es-sil}}
+* {{anagrames|es|patullar}}
+
+=== Vegeu també ===
+* {{DRAE}}
+
+{{catllengua|es|milícia}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 liquido
+
+{{vegeu|líquido}}
+
+== {{-ca-}} ==
+{{ca-pron|or=/ɫiˈki.ðu/|occ=/ɫiˈki.ðo/}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|liquidar|1|pres|ind}}
+#: [Jo] liquido, [[liquide]], [[liquid]] o [[liquidi]].
+# {{ca-forma-conj|liquidar|1|pres|subj}}
+#: [Que jo] liquido, forma d'alguns parlars nord-occidentals per [que jo] [[liquidi]] o [[liquide]].
+# {{ca-forma-conj|liquidar|3|pres|subj}}
+#: [Que ell/ella/vostè] liquido, forma d'alguns parlars nord-occidentals per [que ell/ella/vostè] [[liquidi]] o [[liquide]].
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 liquiden
+
+== {{-ca-}} ==
+{{ca-pron|or=/ɫiˈki.ðən/|occ=/ɫiˈki.ðen/}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|liquidar|6|pres|ind}}
+# {{ca-forma-conj|liquidar|6|pres|subj}}
+#: [Que ells/elles/vostès] [[liquidin]] o liquiden.
+# {{ca-forma-conj|liquidar|6|imp}}
+#: [[liquidin|Liquidin]] o liquiden [ells/elles/vostès].
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|diquelin}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 liquidaren
+
+== {{-ca-}} ==
+{{ca-pron|or=/ɫi.kiˈða.ɾən/|occ=/ɫi.kiˈða.ɾen/}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|liquidar|6|pass}}
+#: [Ells/elles/vostès] liquidaren o van/varen liquidar.
+# {{ca-forma-conj|liquidar|6|imperf|subj}}
+#: Forma valenciana: [ells/elles/vostès] [[liquidessin]], [[liquidessen]], [[liquidassen]], [[liquidassin]] o liquidaren.
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 pelen
+
+== {{-ca-}} ==
+{{ca-pron|è|informal=/ˈpa.ɫən/|inf_q=mallorquí|informal2=/ˈpə.ɫən/|inf2_q=menorquí, eivissenc}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|pelar|6|pres|ind}}
+# {{marca-nocat|ca|occidental|balear}} {{ca-forma-conj|pelar|6|pres|subj}}
+# {{marca-nocat|ca|occidental|balear}} {{ca-forma-conj|pelar|6|imp}}
+
+{{-var-}}
+* [2,3] [[pelin]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 peno
+
+{{vegeu|penó}}
+
+== {{-ca-}} ==
+{{ca-pron|ë|bal=-}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|penar|1|pres|ind}}
+# {{marca-nocat|ca|col·loquial|_|nord-occidental}} {{ca-forma-conj|penar|1|pres|subj}}
+# {{marca-nocat|ca|col·loquial|_|nord-occidental}} {{ca-forma-conj|penar|3|pres|subj}}
+
+{{-var-}}
+* [1] [[pene]], [[peni]], [[pen]]
+* [2,3] [[peni]], [[pene]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|open|poen|peon}}
+
+== {{-es-}} ==
+{{es-pron}}
+{{etim-lang|la|es|Poenus}}, {{del-lang|grc|es|Φοῖνιξ}}.
+
+=== Adjectiu ===
+{{es-adj|m}}
+
+# {{marca|es|arcaic|històric}} [[cartaginès]]
+
+{{-sin-}}
+* {{e|es|cartaginés}}, {{e|es|púnico}}
+
+=== Nom ===
+{{es-nom|m|f=}}
+
+# {{marca|es|arcaic|històric}} [[cartaginès]]
+
+{{-sin-}}
+* {{e|es|cartaginés}}, {{e|es|púnico}}
+
+=== Verb ===
+{{es-verb-forma}}
+
+# {{es-forma-conj|penar|1|pres|ind}}
+
+=== Miscel·lània ===
+* {{es-sil}}
+* {{anagrames|es|open|peón|pone|peno|penó|poné}}
+
+=== Vegeu també ===
+* {{DRAE}}
+
+== {{-la-}} ==
+{{la-pron|penō}}
+
+=== Nom ===
+{{la-nom-forma|penō}}
+
+# {{forma-decl|la|penus|dat|s}}
+# {{forma-decl|la|penus|abl|s}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 penen
+
+== {{-ca-}} ==
+{{ca-pron|ê|bal=é}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|penar|6|pres|ind}}
+# {{marca-nocat|ca|occidental|balear}} {{ca-forma-conj|penar|6|pres|subj}}
+# {{marca-nocat|ca|occidental|balear}} {{ca-forma-conj|penar|6|imp}}
+
+{{-var-}}
+* [[penin]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 penetro
+
+== {{-ca-}} ==
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|penetrar|1|pres|ind}}
+# {{marca-nocat|ca|col·loquial|_|nord-occidental}} {{ca-forma-conj|penetrar|1|pres|subj}}
+# {{marca-nocat|ca|col·loquial|_|nord-occidental}} {{ca-forma-conj|penetrar|3|pres|subj}}
+
+{{-var-}}
+* [1] [[penetre]], [[penetri]], [[penetr]]
+* [2] [[penetri]], [[penetre]]
+* [3] [[penetri]], [[penetre]]
+
+== {{-es-}} ==
+{{es-pron}}
+
+=== Verb ===
+{{es-verb-forma}}
+
+# {{es-forma-conj|penetrar|1|pres|ind}}
+
+== {{-la-}} ==
+{{la-pron|penētrō}}
+{{etim-comp|la|penus|intro}}.
+
+=== Verb ===
+{{la-verb|penētrō|penētrās|penētrāre|penētrāvī|penētrātum}}
+
+# [[penetrar]], jo penetro
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 penetres
+
+{{vegeu|penetrés}}
+
+== {{-ca-}} ==
+{{ca-pron|ê|bal=ē,ê|bal2=ê}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|penetrar|2|pres|ind}}
+# {{marca-nocat|ca|occidental|balear}} {{ca-forma-conj|penetrar|2|pres|subj}}
+
+{{-var-}}
+* [2] [[penetris]], [[penetros]]
+
+=== Miscel·lània ===
+* {{anagrames|ca|Sentpere|presente|pretenés}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 penetraren
+
+== {{-ca-}} ==
+{{ca-pron|bal=ē|bal2=+}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{marca-nocat|ca|literari}} {{ca-forma-conj|penetrar|6|pass}}
+# {{marca-nocat|ca|valencià}} {{ca-forma-conj|penetrar|6|imperf|subj}}
+
+{{-var-}}
+* [2] [[penetreguessen]], [[penetressin]], [[penetressen]], [[penetrassin]], [[penetrassen]]
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 lleva
+
+{{vegeu|llevà}}
+
+== {{-ca-}} ==
+{{ca-pron|centr=/ˈʎe.βə/|bal=/ˈʎe.və/|occ=/ˈʎe.βa/|occ2=/ˈʎe.va/}}
+{{-etimologia-}} Derivat del verb {{m|ca|llevar}}, {{etim-s|ca|XIV}}.
+
+=== Nom ===
+{{ca-nom|f}}
+
+# [[reclutament|Reclutament]] de persones pel servei de l'estat, normalment amb fins de [[guerra]].
+# {{marca|ca|mecànica}} [[mecanisme|Mecanisme]] fet d'algun material (fusta, metall, plàstic, etc.) que va subjecte a un eix i té un contorn amb forma especial ([[ovoide]]).
+
+{{-trad-}}
+{{t-inici}}
+* {{en}}: {{trad|en|levy}}
+* {{es}}: {{trad|es|leva}}
+* {{fr}}: {{trad|fr|levée}}
+* {{it}}: {{trad|it|leva}}
+* {{la}}: {{trad|la|delectus}}
+{{t-final}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|llevar|3|pres|ind}}
+# {{ca-forma-conj|llevar|2|imp}}
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|allev|llave|vella}}
+
+=== Vegeu també ===
+* {{R:CCLFI 1839}}
+* {{ca-dicc|diec|gdlc|optimot}}
+
+== {{-roa-oca-}} ==
+
+=== Verb ===
+{{entrada|roa-oca|verb-forma}}
+
+# {{forma-conj|roa-oca|llevar|3|pres|ind}}
+# {{forma-conj|roa-oca|llevar|2|imp}}
+Derivat del verb {{m|ca|llevar}}, {{etim-s|ca|XIV}}.
+
+=
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 lleves
+
+{{vegeu|llevés}}
+
+== {{-ca-}} ==
+{{ca-pron|centr=/ˈʎe.βəs/|bal=/ˈʎe.vəs/|occ=/ˈʎe.βes/|occ2=/ˈʎe.ves/}}
+{{homòfons|ca|[[lleve]][['s]]}}
+
+=== Nom ===
+{{ca-nom-forma|fp}}
+
+# {{forma-p|ca|lleva}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|llevar|2|pres|ind}}
+# {{ca-forma-conj|llevar|2|pres|subj}}
+#: [Que tu] [[llevis]] o lleves; [tu] no [[llevis]] o lleves.
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|velles}}
+
+== {{-roa-oca-}} ==
+
+=== Verb ===
+{{entrada|roa-oca|verb-forma}}
+
+# {{forma-conj|roa-oca|llevar|2|pres|ind}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 llevaren
+
+== {{-ca-}} ==
+{{ca-pron|centr=/ʎəˈβa.ɾən/|bal=/ʎəˈva.ɾən/|occ=/ʎeˈβa.ɾen/|occ2=/ʎeˈva.ɾen/}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|llevar|6|pass}}
+#: [Ells/elles/vostès] llevaren o van/varen llevar.
+# {{ca-forma-conj|llevar|6|imperf|subj}}
+#: Forma valenciana: [ells/elles/vostès] [[llevessin]], [[llevessen]], [[llevassen]], [[llevassin]] o llevaren.
+
+== {{-roa-oca-}} ==
+
+=== Verb ===
+{{entrada|roa-oca|verb-forma}}
+
+# {{forma-conj|roa-oca|llevar|6|pass}}
+# {{forma-conj|roa-oca|llevar|6|imperf|subj}}
+
+{{-var-}}
+* [2] {{e|roa-oca|llevassen}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 percudís
+
+{{vegeu|percudis}}
+
+== {{-ca-}} ==
+{{ca-pron}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|percudir|1|imperf|subj}}
+# {{ca-forma-conj|percudir|3|imperf|subj}}
+
+{{-var-}}
+* [1] [[percudira]]
+* [2] [[percudira]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 maduro
+
+== {{-ca-}} ==
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|madurar|1|pres|ind}}
+# {{marca-nocat|ca|col·loquial|_|nord-occidental}} {{ca-forma-conj|madurar|1|pres|subj}}
+# {{marca-nocat|ca|col·loquial|_|nord-occidental}} {{ca-forma-conj|madurar|3|pres|subj}}
+
+== {{-es-}} ==
+{{es-pron}}
+
+=== Adjectiu ===
+{{es-adj|m}}
+
+# [[madur]]
+
+=== Miscel·lània ===
+* {{es-sil}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 perfeccionares
+
+== {{-ca-}} ==
+{{ca-pron}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{marca-nocat|ca|literari}} {{ca-forma-conj|perfeccionar|2|pass}}
+# {{marca-nocat|ca|valencià}} {{ca-forma-conj|perfeccionar|2|imperf|subj}}
+
+{{-var-}}
+* [2] [[perfeccioneguesses]], [[perfeccionessis]], [[perfeccionesses]], [[perfeccionassis]], [[perfeccionasses]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|perfeccionar-se}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 perforo
+
+== {{-ca-}} ==
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|perforar|1|pres|ind}}
+# {{marca-nocat|ca|col·loquial|_|nord-occidental}} {{ca-forma-conj|perforar|1|pres|subj}}
+# {{marca-nocat|ca|col·loquial|_|nord-occidental}} {{ca-forma-conj|perforar|3|pres|subj}}
+
+{{-var-}}
+* [1] [[perfore]], [[perfori]], [[perfor]]
+* [2] [[perfori]], [[perfore]]
+* [3] [[perfori]], [[perfore]]
+
+== {{-es-}} ==
+{{es-pron}}
+
+=== Verb ===
+{{es-verb-forma}}
+
+# {{es-forma-conj|perforar|1|pres|ind}}
+
+== {{-la-}} ==
+{{la-pron|perforō}}
+{{etim-comp|la|per-|forō}}
+
+=== Verb ===
+{{la-verb|perforō|perforās|perforāre|perforāvi|perforātum}}
+
+# [[perforar]], jo perforo
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 perforen
+
+== {{-ca-}} ==
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|perforar|6|pres|ind}}
+# {{marca-nocat|ca|occidental|balear}} {{ca-forma-conj|perforar|6|pres|subj}}
+# {{marca-nocat|ca|occidental|balear}} {{ca-forma-conj|perforar|6|imp}}
+
+{{-var-}}
+* [2] [[perforin]]
+* [3] [[perforin]]
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 permuto
+
+== {{-ca-}} ==
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|permutar|1|pres|ind}}
+
+{{-var-}}
+* [[permute]], [[permuti]], [[permut]]
+
+=== Miscel·lània ===
+* {{anagrames|ca|trompeu}}
+
+== {{-es-}} ==
+{{es-pron}}
+
+=== Verb ===
+{{es-verb-forma}}
+
+# {{es-forma-conj|permutar|1|pres|ind}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 permutes
+
+{{vegeu|permutés}}
+
+== {{-ca-}} ==
+{{ca-pron}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|permutar|2|pres|ind}}
+# {{marca-nocat|ca|occidental|balear}} {{ca-forma-conj|permutar|2|pres|subj}}
+
+{{-var-}}
+* [2] [[permutis]]
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 permutares
+
+== {{-ca-}} ==
+{{ca-pron}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{marca-nocat|ca|literari}} {{ca-forma-conj|permutar|2|pass}}
+# {{marca-nocat|ca|valencià}} {{ca-forma-conj|permutar|2|imperf|subj}}
+
+{{-var-}}
+* [2] [[permutessis]], [[permutesses]], [[permutassis]], [[permutasses]]
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 perorares
+
+== {{-ca-}} ==
+{{ca-pron}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{marca-nocat|ca|literari}} {{ca-forma-conj|perorar|2|pass}}
+# {{marca-nocat|ca|valencià}} {{ca-forma-conj|perorar|2|imperf|subj}}
+
+{{-var-}}
+* [2] [[peroressis]], [[peroresses]], [[perorassis]], [[perorasses]]
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 perpetrares
+
+== {{-ca-}} ==
+{{ca-pron}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{marca-nocat|ca|literari}} {{ca-forma-conj|perpetrar|2|pass}}
+# {{marca-nocat|ca|valencià}} {{ca-forma-conj|perpetrar|2|imperf|subj}}
+
+{{-var-}}
+* [2] [[perpetreguesses]], [[perpetressis]], [[perpetresses]], [[perpetrassis]], [[perpetrasses]]
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 perseveres
+
+{{vegeu|perseverés}}
+
+== {{-ca-}} ==
+{{ca-pron|é}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|perseverar|2|pres|ind}}
+# {{marca-nocat|ca|occidental|balear}} {{ca-forma-conj|perseverar|2|pres|subj}}
+
+{{-var-}}
+* [2] [[perseveris]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 perseveraren
+
+== {{-ca-}} ==
+{{ca-pron}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{marca-nocat|ca|literari}} {{ca-forma-conj|perseverar|6|pass}}
+# {{marca-nocat|ca|valencià}} {{ca-forma-conj|perseverar|6|imperf|subj}}
+
+{{-var-}}
+* [2] [[perseveressin]], [[perseveressen]], [[perseverassin]], [[perseverassen]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 pillo
+
+== {{-ca-}} ==
+{{ca-pron|bal=-}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|pillar|1|pres|ind}}
+
+{{-var-}}
+* [[pille]], [[pilli]], [[pill]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|polli|pollí}}
+
+== {{-es-}} ==
+{{es-pron}}
+{{-etimologia-}} De {{m|es|pillar}}.
+
+=== Adjectiu ===
+{{es-adj|m}}
+
+# {{marca|es|col·loquial}} [[murri]]
+
+=== Nom ===
+{{es-nom|m|f=}}
+
+# {{marca|es|col·loquial}} [[murri]], [[pillet]]
+
+=== Verb ===
+{{es-verb-forma}}
+
+# {{es-forma-conj|pillar|1|pres|ind}}
+
+=== Miscel·lània ===
+* {{es-sil}}
+De {{m|es|pillar}}.
+
+=
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 pillen
+
+== {{-ca-}} ==
+{{ca-pron}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|pillar|6|pres|ind}}
+# {{marca-nocat|ca|occidental|balear}} {{ca-forma-conj|pillar|6|pres|subj}}
+# {{marca-nocat|ca|occidental|balear}} {{ca-forma-conj|pillar|6|imp}}
+
+{{-var-}}
+* [2] [[pillin]]
+* [3] [[pillin]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|pellin|llepin}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 piloto
+
+== {{-es-}} ==
+{{es-pron}}
+
+=== Nom ===
+{{es-nom|m}}
+
+# [[pàmpol]]
+
+=== Miscel·lània ===
+* {{es-sil}}
+
+=== Vegeu també ===
+* {{termcat|dicc=173}}
+
+{{catllengua|es|Peixos}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 pinte
+
+{{vegeu|pinté}}
+
+== {{-ca-}} ==
+{{ca-pron}}
+{{-etimologia-|la|ca}} Del llatí vulgar {{m|la|*penctine}}, del clàssic {{m|la|pectine}}, ablatiu de {{m|la|pecten|trad=pinta per als cabells, rasclet}}.
+
+=== Nom ===
+{{ca-nom|m}}
+
+# {{marca|ca|antic|nord-occidental}} {{forma-a|ca|pinta}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{marca-nocat|ca|valencià}} {{ca-forma-conj|pintar|1|pres|ind}}
+# {{marca-nocat|ca|occidental|balear}} {{ca-forma-conj|pintar|1|pres|subj}}
+# {{marca-nocat|ca|occidental|balear}} {{ca-forma-conj|pintar|3|pres|subj}}
+# {{marca-nocat|ca|occidental|balear}} {{ca-forma-conj|pintar|3|imp}}
+
+{{-var-}}
+* [1] [[pinto]], [[pinti]], [[pint]]
+* [2] [[pinti]], [[pinto]]
+* [3] [[pinti]], [[pinto]]
+* [4] [[pinti]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|petin}}
+
+=== Vegeu també ===
+* {{ca-dicc|diec|gdlc}}
+
+== {{-es-}} ==
+{{es-pron}}
+
+=== Verb ===
+{{es-verb-forma}}
+
+# {{es-forma-conj|pintar|1|pres|subj}}
+# {{es-forma-conj|pintar|3|pres|subj}}
+# {{es-forma-conj|pintar|3|imp}}
+
+=== Miscel·lània ===
+* {{es-sil}}
+* {{anagrames|es|piten}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 pisares
+
+== {{-ca-}} ==
+{{ca-pron}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{marca-nocat|ca|literari}} {{ca-forma-conj|pisar|2|pass}}
+# {{marca-nocat|ca|valencià}} {{ca-forma-conj|pisar|2|imperf|subj}}
+
+{{-var-}}
+* [2] [[pisessis]], [[pisesses]], [[pisasses]]
+
+=== Miscel·lània ===
+* {{anagrames|ca|repassi|repassí|rapessi|paressi|apressi|apressí|aspires|aspirés|separis|esprais|rapisse}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 plagien
+
+== {{-ca-}} ==
+{{ca-pron}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|plagiar|6|pres|ind}}
+# {{marca-nocat|ca|occidental|balear}} {{ca-forma-conj|plagiar|6|pres|subj}}
+# {{marca-nocat|ca|occidental|balear}} {{ca-forma-conj|plagiar|6|imp}}
+
+{{-var-}}
+* [2] [[plagiïn]]
+* [3] [[plagiïn]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|planeig|planegi|planegí|glapien|palegin}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 plagiaren
+
+== {{-ca-}} ==
+{{ca-pron}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{marca-nocat|ca|literari}} {{ca-forma-conj|plagiar|6|pass}}
+# {{marca-nocat|ca|valencià}} {{ca-forma-conj|plagiar|6|imperf|subj}}
+
+{{-var-}}
+* [2] [[plagiessin]], [[plagiessen]], [[plagiassin]], [[plagiassen]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|aglapiren|engalipar}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 plantes
+
+{{vegeu|plantés}}
+
+== {{-ca-}} ==
+{{ca-pron}}
+
+=== Nom ===
+{{ca-nom-forma|fp}}
+
+# {{forma-p|ca|planta}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|plantar|2|pres|ind}}
+# {{marca-nocat|ca|occidental|balear}} {{ca-forma-conj|plantar|2|pres|subj}}
+
+{{-var-}}
+* [2] [[plantis]], [[plantos]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|plaents|plasent}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 plantares
+
+== {{-ca-}} ==
+{{ca-pron}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{marca-nocat|ca|literari}} {{ca-forma-conj|plantar|2|pass}}
+# {{marca-nocat|ca|valencià}} {{ca-forma-conj|plantar|2|imperf|subj}}
+
+{{-var-}}
+* [2] [[planteguesses]], [[plantessis]], [[plantesses]], [[plantassis]], [[plantasses]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|plantar-se|traspalen|prenatals|parentals|plataners}}
+
+== {{-es-}} ==
+{{es-pron}}
+
+=== Adjectiu ===
+{{es-adj-forma|ip}}
+
+# {{forma-p|es|plantar}}: [[plantars]]
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 plasmen
+
+== {{-ca-}} ==
+{{ca-pron}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|plasmar|6|pres|ind}}
+# {{marca-nocat|ca|occidental|balear}} {{ca-forma-conj|plasmar|6|pres|subj}}
+# {{marca-nocat|ca|occidental|balear}} {{ca-forma-conj|plasmar|6|imp}}
+
+{{-var-}}
+* [2] [[plasmin]]
+* [3] [[plasmin]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|malpens}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 podo
+
+== {{-ca-}} ==
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|podar|1|pres|ind}}
+# {{marca-nocat|ca|col·loquial|_|nord-occidental}} {{ca-forma-conj|podar|1|pres|subj}}
+# {{marca-nocat|ca|col·loquial|_|nord-occidental}} {{ca-forma-conj|podar|3|pres|subj}}
+
+{{-var-}}
+* [1] [[pode]], [[podi]], [[pod]]
+* [2] [[podi]], [[pode]]
+* [3] [[podi]], [[pode]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|dopo}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 postres
+
+{{vegeu|postrés}}
+
+== {{-ca-}} ==
+[[Fitxer:RaspberrySherbet.jpg|miniatura|upright=.8|'''Postres''' formades per un sorbet de gerds.]]
+{{ca-pron|ò}}
+{{etim-lang|es|ca|postre}}, {{etim-s|ca|XVII}}.
+
+=== Nom ===
+{{ca-nom|f-p}}
+
+# {{marca|ca|no comptable}} Part complementària i normalment final d'un àpat principal ([[dinar]] o [[sopar]]). Típicament és una [[menja]] dolça.
+#: ''Per les '''postres''' tenim coca de la iaia.''
+
+{{-sin-}}
+* [[darreries]]
+
+{{-trad-}}
+{{t-inici|Part final d’un àpat}}
+* {{de}}: {{trad|de|Dessert|n}}
+* {{en}}: {{trad|en|dessert}}
+* {{ar}}: {{trad|ar|حَلْوَى‎|f}}
+* {{hy}}: {{trad|hy|աղանդեր}}, {{trad|hy|դեսերտ}}
+* {{az}}: {{trad|az|desert}}
+* {{es}}: {{trad|es|postre|m}}
+* {{da}}: {{trad|da|dessert|c}}
+* {{sk}}: {{trad|sk|dezert|m}}
+* {{sl}}: {{trad|sl|sladica|f}}
+* {{eo}}: {{trad|eo|deserto}}
+* {{et}}: {{trad|et|magustoit}}, {{trad|et|dessert}}
+* {{fi}}: {{trad|fi|jälkiruoka}}
+* {{fr}}: {{trad|fr|dessert|m}}
+* {{gl}}: {{trad|gl|sobremesa|f}}
+* {{cy}}: {{trad|cy|melysfwyd|m}}, {{trad|cy|pwdin|m}}
+* {{ka}}: {{trad|ka|დესერტი}}
+* {{el}}: {{trad|el|γλυκό|n}}
+* {{grc}}: {{trad|grc|τράγημα|n}}
+* {{hi}}: {{trad|hi|मिठाई|f}}
+* {{io}}: {{trad|io|desero}}
+* {{id}}: {{trad|id|disert}}
+* {{ga}}: {{trad|ga|milseog|f}}
+* {{is}}: {{trad|is|eftirréttur|m}}
+* {{it}}: {{trad|it|dessert|m}}
+* {{ja}}: {{trad|ja|デザート}}
+* {{kk}}: {{trad|kk|десерт}}
+* {{km}}: {{trad|km|បង្អែម}}
+* {{ky}}: {{trad|ky|десерт}}
+* {{ku}}: {{trad|ku|şêranî}}
+* {{lv}}: {{trad|lv|deserts|m}}
+* {{lt}}: {{trad|lt|desertas|m}}
+* {{la}}: {{trad|la|bellaria|n-p}}
+* {{csc}}: {{trad|csc|FRUITA+PLAT}}
+* {{mk}}: {{trad|mk|десерт|m}}
+* {{mi}}: {{trad|mi|purini}}
+* {{nl}}: {{trad|nl|dessert|n}}, {{trad|nl|nagerecht|n}}
+* {{no}}: {{trad|no|dessert}}
+* {{fa}}: {{trad|fa|دسر‎|n}}
+* {{pl}}: {{trad|pl|deser|m}}
+* {{pt}}: {{trad|pt|sobremesa|f}}
+* {{ro}}: {{trad|ro|desert|n}}
+* {{ru}}: {{trad|ru|десе́рт|m}}
+* {{sv}}: {{trad|sv|efterrätt|c}}
+* {{tl}}: {{trad|tl|panghimagas}}
+* {{th}}: {{trad|th|อาหารหวาน}}
+* {{tr}}: {{trad|tr|tatlı}}
+* {{cs}}: {{trad|cs|zákusek|m}}, {{trad|cs|dezert|m}}
+* {{uk}}: {{trad|uk|десе́рт|m}}
+* {{uz}}: {{trad|uz|desert}}
+* {{vi}}: {{trad|vi|tráng miệng}}
+* {{vo}}: {{trad|vo|poszib}}
+* {{zh}}: {{trad|zh|點心}}
+{{t-final}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|postrar|2|pres|ind}}
+# {{marca-nocat|ca|occidental|balear}} {{ca-forma-conj|postrar|2|pres|subj}}
+
+{{-var-}}
+* [2] [[postris]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|prestos|estrops|esports|respost}}
+
+=== Vegeu també ===
+* {{Viquipèdia}}
+* {{ca-dicc|diec|gdlc|dcvb}}
+
+== {{-es-}} ==
+{{es-pron}}
+
+=== Nom ===
+{{es-nom-forma|mp}}
+
+# {{forma-p|es|postre}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 precipito
+
+== {{-ca-}} ==
+{{ca-pron}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|precipitar|1|pres|ind}}
+# {{marca-nocat|ca|col·loquial|_|nord-occidental}} {{ca-forma-conj|precipitar|1|pres|subj}}
+# {{marca-nocat|ca|col·loquial|_|nord-occidental}} {{ca-forma-conj|precipitar|3|pres|subj}}
+
+{{-var-}}
+* [1] [[precipite]], [[precipiti]], [[precipit]]
+* [2] [[precipiti]], [[precipite]]
+* [3] [[precipiti]], [[precipite]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+
+== {{-es-}} ==
+{{es-pron}}
+
+=== Verb ===
+{{es-verb-forma}}
+
+# {{es-forma-conj|precipitar|1|pres|ind}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 precipites
+
+{{vegeu|precipités}}
+
+== {{-ca-}} ==
+{{ca-pron}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|precipitar|2|pres|ind}}
+# {{marca-nocat|ca|occidental|balear}} {{ca-forma-conj|precipitar|2|pres|subj}}
+
+{{-var-}}
+* [2] [[precipitis]], [[precipitos]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 precipiten
+
+== {{-ca-}} ==
+{{ca-pron}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{ca-forma-conj|precipitar|6|pres|ind}}
+# {{marca-nocat|ca|occidental|balear}} {{ca-forma-conj|precipitar|6|pres|subj}}
+# {{marca-nocat|ca|occidental|balear}} {{ca-forma-conj|precipitar|6|imp}}
+
+{{-var-}}
+* [2] [[precipitin]]
+* [3] [[precipitin]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 precipitares
+
+== {{-ca-}} ==
+{{ca-pron}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{marca-nocat|ca|literari}} {{ca-forma-conj|precipitar|2|pass}}
+# {{marca-nocat|ca|valencià}} {{ca-forma-conj|precipitar|2|imperf|subj}}
+
+{{-var-}}
+* [2] [[precipiteguesses]], [[precipitessis]], [[precipitesses]], [[precipitassis]], [[precipitasses]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+* {{anagrames|ca|precipitar-se}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 precipitaren
+
+== {{-ca-}} ==
+{{ca-pron}}
+
+=== Verb ===
+{{ca-verb-forma}}
+
+# {{marca-nocat|ca|literari}} {{ca-forma-conj|precipitar|6|pass}}
+# {{marca-nocat|ca|valencià}} {{ca-forma-conj|precipitar|6|imperf|subj}}
+
+{{-var-}}
+* [2] [[precipiteguessen]], [[precipitessin]], [[precipitessen]], [[precipitassin]], [[precipitassen]]
+
+=== Miscel·lània ===
+* {{ca-sil}}
+null
+********************************************************
+
+
+
+
+
+
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+
+📘 preciso
+
+{{vegeu|precisó}}
+
+== {{-es-}} ==
+{{es-pron}}
+{{etim-lang|la|es|praecīsus}}.
+
+=== Adjectiu ===
+{{es-adj}}
+
+# [[precís]]
+
+{{-ant-}}
+* {{e|es|impreciso}}
+
+{{-der-}}
+* {{e|es|precisamente}}
+* {{e|es|precisar}}
+* {{e|es|impreciso}}
+
+{{-rel-}}
+* {{e|es|precisión}}
+
+=== Verb ===
+{{es-verb-forma}}
+
+# {{es-forma-conj|precisar|1|pres|ind}}
+
+=== Miscel·lània ===
+* {{es-sil}}
+* {{anagrames|es|pericos|pérsico|picores|precios|preciso|precisó|proíces}}
+
+=== Vegeu també ===
+* {{DRAE}}
+null
+********************************************************
+
+
+
+
+
+

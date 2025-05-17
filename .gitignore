@@ -1,0 +1,42 @@
+# Node i Bun
+**/node_modules/
+**/bun.lock
+
+# Fitxers de configuració/entorn
+.env
+.env.*
+bunfig.toml
+
+# Fitxers temporals / sistema
+*.log
+*.tmp
+.DS_Store
+*.swp
+
+# Fitxers de l'editor
+.vscode/
+.idea/
+
+# Build outputs
+dist/
+build/
+
+# Fitxers de dades / estructures
+*.xml
+*.json
+*.jsonl
+*.bz2
+
+# Carpetes específiques
+**/pwncrawl/
+
+# cache python
+__pycache__/
+
+# python env
+venv/
+
+# common-crawl
+scripts/common-crawl/cd*
+scripts/common-crawl/cc-*
+scripts/common-crawl/test.txt
