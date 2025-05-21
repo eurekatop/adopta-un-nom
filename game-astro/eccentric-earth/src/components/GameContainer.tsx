@@ -19,21 +19,24 @@ const translations = {
     loading: "Carregant...",
     score: "Punts",
     restart: "🔄 Reinicia el joc",
-    answered: "Has respost:",
+    correct: "Encertada!",
+    incorrect: "Incorrecta!",
     next: "Següent ▶️",
   },
   es: {
     loading: "Cargando...",
     score: "Puntos",
     restart: "🔄 Reiniciar juego",
-    answered: "Has respondido:",
+    correct: "¡ Acierto !",
+    incorrect: "¡ Fallo !",
     next: "Siguiente ▶️",
   },
   en: {
     loading: "Loading...",
     score: "Score",
     restart: "🔄 Restart game",
-    answered: "You answered:",
+    correct: "🎉 Nice job!",
+    incorrect: "😢 Oops, try again!",
     next: "Next ▶️",
   },
 };
@@ -86,8 +89,10 @@ export default function GameContainer({ id, lang = "ca" }: Props) {
         {status && (
           <div className={`extra-content answer-feedback ${status}`}>
             <p>
-              {t.answered} <strong>{status}</strong>
-            </p>
+              <strong>
+                {status === 'correcte' ? t.correct : t.incorrect}
+              </strong> 
+             </p>
             <button className="next-button" onClick={() => handleNext(status)}>
               {t.next}
             </button>

@@ -1,46 +1,65 @@
 ---
-const { lang = 'ca', title } = Astro.props;
+const { lang = "ca", title } = Astro.props;
 
 const translations = {
   ca: {
-    game: 'Jugar',
-    ranking: 'Puntuacions',
-    info: 'Com es juga',
-    profile: 'Perfil',
+    game: "Jugar",
+    ranking: "Puntuacions",
+    info: "Com es juga",
+    profile: "Perfil",
     lang: {
-      ca: 'Català',
-      es: 'Castellà',
-      en: 'Anglès'
-    }
+      ca: "Català",
+      es: "Castellà",
+      en: "Anglès",
+    },
+    share:"Comparteix aquesta partida",
+    meta: {
+      description:
+        "Jocs de paraules, per possar a prova els teus coneixements.",
+      image: "/images/logo.png",
+      url: "https://wordguess.eurekatop.com/",
+      type: "website",
+    },
   },
   es: {
-    game: 'Jugar',
-    ranking: 'Puntuaciones',
-    info: 'Cómo se juega',
-    profile: 'Perfil',
+    game: "Jugar",
+    ranking: "Puntuaciones",
+    info: "Cómo se juega",
+    profile: "Perfil",
     lang: {
-      ca: 'Catalán',
-      es: 'Español',
-      en: 'Inglés'
-    }
+      ca: "Catalán",
+      es: "Español",
+      en: "Inglés",
+    },
+    share:"Comparteix esta partida",
+    meta: {
+      description: "Juegos de palabras, para poner a prueba tus conocimientos.",
+      image: "/images/logo.png",
+      url: "https://wordguess.eurekatop.com/",
+      type: "website",
+    },
   },
   en: {
-    game: 'Play',
-    ranking: 'Scores',
-    info: 'How to play',
-    profile: 'Profile',
+    game: "Play",
+    ranking: "Scores",
+    info: "How to play",
+    profile: "Profile",
     lang: {
-      ca: 'Catalan',
-      es: 'Spanish',
-      en: 'English'
-    }
+      ca: "Catalan",
+      es: "Spanish",
+      en: "English",
+    },
+    share:"Share this game",
+    meta: {
+      description: "Word games, to test your knowledge.",
+      image: "/images/logo.png",
+      url: "https://wordguess.eurekatop.com/",
+      type: "website",
+    },
   },
 };
 
-
 const t = translations[lang as keyof typeof translations] ?? translations.ca;
-
-
 ---
 
 <html lang={lang}>
@@ -49,14 +68,17 @@ const t = translations[lang as keyof typeof translations] ?? translations.ca;
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <meta property="og:title" content={title} />
-    <meta property="og:description" content="Un joc de rol en el que els jugadors controlen personatges amb poders especials." />
-    <meta property="og:image" content="/images/logo.png" />
-    <meta property="og:url" content="https://eccentriqueearth.netlify.app/" />
+    <meta property="og:description" content={t.meta.description} />
+    <meta property="og:image" content={t.meta.image} />
+    <meta property="og:url" content={t.meta.url} />
     <meta property="og:type" content="website" />
     <title>{title}</title>
     <link rel="stylesheet" href="/styles/global.css" />
     <link rel="stylesheet" href="/styles/styles.css" />
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script
+      async
+      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
+    ></script>
   </head>
   <body>
     <header>
@@ -68,9 +90,9 @@ const t = translations[lang as keyof typeof translations] ?? translations.ca;
         <a href=`/${lang}/profile`>👤 {t.profile}</a>
 
         <select id="language-selector">
-          <option value="ca" selected={lang === 'ca'}>{t.lang.ca}</option>
-          <option value="es" selected={lang === 'es'}>{t.lang.es}</option>
-          <option value="en" selected={lang === 'en'}>{t.lang.en}</option>
+          <option value="ca" selected={lang === "ca"}>{t.lang.ca}</option>
+          <option value="es" selected={lang === "es"}>{t.lang.es}</option>
+          <option value="en" selected={lang === "en"}>{t.lang.en}</option>
         </select>
       </nav>
     </header>
@@ -79,7 +101,37 @@ const t = translations[lang as keyof typeof translations] ?? translations.ca;
       <slot />
     </main>
 
-    <footer>© 2025 Francesc</footer>
+    <script type="module">
+      function shareToFacebook() {
+        const url = encodeURIComponent(window.location.href);
+        const fbUrl = `https://www.facebook.com/sharer/sharer.php?u=${url}`;
+        window.open(fbUrl, "_blank", "noopener,noreferrer");
+      }
+      window.shareToFacebook = shareToFacebook; 
+
+      function copyUrl() {
+        navigator.clipboard
+          .writeText(window.location.href)
+          .then(() => {
+            alert("Enllaç copiat al porta-retalls!");
+          })
+          .catch(() => {
+            alert("No s'ha pogut copiar l'enllaç.");
+          });
+      }
+      window.copyUrl = copyUrl; 
+    </script>
+
+
+    <footer
+      style="margin-top: 3rem; padding: 1rem; text-align: center; border-top: 1px solid #ccc;"
+    >
+      <p>{t.share}</p>
+      <button onclick="shareToFacebook()" style="margin-right: 0.5rem;"
+        >📘 Facebook</button
+      >
+      <button onclick="copyUrl()">📋 Copy</button>
+    </footer>
 
     <script>
       const selector = document.getElementById("language-selector");

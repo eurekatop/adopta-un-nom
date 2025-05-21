@@ -53,7 +53,7 @@ const translations = {
   },
 };
 
-const t = translations[lang] ?? translations['ca'];
+const t = translations[lang as keyof typeof translations] ?? translations.ca;
 ---
 
 <Layout title={t.title} lang={lang}>

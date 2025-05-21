@@ -3,9 +3,25 @@ import Layout from '../../../layouts/baseLayout.astro';
 import GameApp from '../../../components/GameApp';
 
 
-const { id, lang } = Astro.params;
+const { id, lang} = Astro.params;
+
+
+const translations = {
+  ca: {
+    title: 'Endevina la definició?',
+  },
+  es: {
+    title: '¿Adivina la definición?',
+  },
+  en: {
+    title: 'Guess the definition?',
+  },
+};
+
+const t = translations[lang as keyof typeof translations] ?? translations.ca;
+
 ---
 
-<Layout title={`Partida ${id}`} lang={lang}>
+<Layout title={`${t.title}`} lang={lang}>
   <GameApp id={id} lang={lang} client:only="preact" />  
 </Layout>

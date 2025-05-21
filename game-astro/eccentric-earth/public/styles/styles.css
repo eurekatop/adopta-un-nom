@@ -15,7 +15,7 @@ html, body {
 }
 
 .game-wrapper {
-  min-height: calc(100vh - 5rem);
+  min-height: calc(100vh - 30rem);
 }
 
 /* 🔝 Barra superior sticky amb marcador i botó */

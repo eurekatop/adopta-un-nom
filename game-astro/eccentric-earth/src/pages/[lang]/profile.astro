@@ -1,0 +1,43 @@
+---
+import Layout from '../../layouts/baseLayout.astro';
+
+const { lang } = Astro.params;
+
+const translations = {
+  ca: {
+    title: 'Benvingut al Portal',
+    profile: 'Perfil',
+    sessionId: 'Sessió anònima',
+    info: 'Estàs jugant de forma anònima. Les teves puntuacions s’acumulen amb aquest identificador:',
+  },
+  es: {
+    title: 'Bienvenido al Portal',
+    profile: 'Perfil',
+    sessionId: 'Sesión anónima',
+    info: 'Estás jugando de forma anónima. Tus puntuaciones se acumulan con este identificador:',
+  },
+  en: {
+    title: 'Welcome to the Portal',
+    profile: 'Profile',
+    sessionId: 'Anonymous session',
+    info: 'You are playing anonymously. Your scores are stored with this ID:',
+  }
+};
+
+const t = translations[lang as keyof typeof translations] ?? translations.ca;
+---
+
+<Layout title={t.title} lang={lang}>
+  <main class="profile-container">
+    <h2>{t.profile}</h2>
+    <p>{t.info}</p>
+    <div id="session-id-box" style="font-family: monospace; padding: 1rem; background: #f5f5f5; border-radius: 0.5rem;">
+      <span id="session-id">...</span>
+    </div>
+
+    <script type="module">
+      const sessionId = localStorage.getItem('sessionId') || '(sense ID)';
+      document.getElementById('session-id').textContent = sessionId;
+    </script>
+  </main>
+</Layout>
