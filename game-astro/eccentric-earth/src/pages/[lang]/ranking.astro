@@ -1,0 +1,11 @@
+---
+import Layout from '../../layouts/baseLayout.astro';
+import GameRanking from '../../components/Ranking';
+const { lang } = Astro.params; 
+---
+
+<Layout title="Ranking" lang={lang}>
+    <h1 class="text-center">Ranking</h1>
+    <GameRanking  lang={lang} client:only="preact" />
+</Layout>
+

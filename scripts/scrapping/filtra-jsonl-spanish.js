@@ -32,9 +32,52 @@ const POS_PERMESOS = [
   'interjection',
   'numeral'
 ];
+function extractSemanticCategories(entry) {
+  const pos = entry.pos; // e.g. "noun"
+  const templates = (entry.head_templates || []).map(t => t.name); // e.g. ["en-noun", "en-verb"]
 
+  // Extra: look for countable/uncountable or transitive/intransitive
+  const tags = new Set();
+  
+  (entry.categories || []).forEach(category => {
+    tags.add(category?.name.replace(/ES:/, ''));
+  });
+
+  (entry.senses || []).forEach(s => (s.tags || []).forEach(tag => tags.add(tag)));
+  (entry.senses || []).forEach(s => (s.raw_tags || []).forEach(tag => tags.add(tag)));
+  (entry.senses || []).forEach(s => (s.categories || []).forEach(category => {
+    tags.add(category?.name.replace(/ES:/, ''));
+  }));
+
+  // Normalize tags
+  const semanticTags = Array.from(
+    new Set(
+      Array.from(tags).map(tag => {
+        const regExps = [
+          [/^Rimas:.+$/, "Rima"],
+          [/^Palabra.+$/, "Palabra"],
+          [/^Español-.+$/, "Español-Otro"],
+          [/^admite doble sintaxis.+$/, "admite doble sintaxis"],
+          [/^Sustantivos.+$/, "Sustantivos"]
+        ];
+        for (const [pattern, replacement] of regExps) {
+          if (pattern.test(tag)) {
+            tag = tag.replace(pattern, replacement);
+          }
+        }
+        return tag;
+      })
+    )
+);
+
+
+
+  //return [pos, ...grammarTags].join('|| ');
+  return [...semanticTags];
+}
 
 let acumTotalNouns = 0;
+const totalSemanticCategories = {};
 
 const readFileAsync = async () => {
   const rl = readline.createInterface({
@@ -64,6 +107,24 @@ const readFileAsync = async () => {
         )
       ) exit;
 
+      const semanticCategoriesTags = extractSemanticCategories(entry);
+      
+      // add if not exists in dictionary
+      for(const tag of semanticCategoriesTags){
+        if(!totalSemanticCategories[tag]){
+          totalSemanticCategories[tag]=1;
+        }else{
+          totalSemanticCategories[tag]++;
+        }
+      }
+
+
+      //semanticCategoriesTags.forEach((tag) => {
+      //  if(!totalSemanticCategories.includes(tag)){
+      //      totalSemanticCategories.push(tag);
+      //  }
+      //});
+
       if (entry.pos !== "noun" && entry.pos !== "verb") continue;
       if (entry.pos === "verb" && entry.pos_title === "Forma verbal") continue;
        
@@ -85,37 +146,43 @@ const readFileAsync = async () => {
         language_id: 1 // Español
       }));
 
-      //await insertEntryWithDefinitions(
-      // {
+      // await insertEntryWithDefinitions(
+      //   {
       //     word: entry.word,
       //     pos: entry.pos,
       //     category: entry.pos_title,
-      //     language_id: 1, // Español
-      // },
-      // definitions
-      //)
+      //     categories: semanticCategoriesTags.join(','),
+      //     language_id: 1,
+      //     language_code: 'es',
+      //     entry_index: i
+      //   },
+      //   definitions || []
+      // )
 
-    const task = limit(async () => {
-      console.log(`🚀 Inserint: ${entry.word} (${entry.pos})`);
-      await insertEntryWithDefinitions(
-        {
-          word: entry.word,
-          pos: entry.pos,
-          category: entry.pos_title,
-          language_id: 1,
-          entry_index: i
-        },
-        definitions || []
-      );
-      console.log(`✅ Inserida: ${entry.word} (${entry.pos})`);
-    });
+    //const task = limit(async () => {
+    //  console.log(`🚀 Inserint: ${entry.word} (${entry.pos})`);
+    //  await insertEntryWithDefinitions(
+    //    {
+    //      word: entry.word,
+    //      pos: entry.pos,
+    //      category: entry.pos_title,
+    //      language_id: 1,
+    //      entry_index: i
+    //    },
+    //    definitions || []
+    //  );
+    //  console.log(`✅ Inserida: ${entry.word} (${entry.pos})`);
+    //});
+    //
+    //  tasks.push(task);
 
-      tasks.push(task);
-
+      //console.log ( JSON.stringify(entry, null, 2));
       
+      console.log ( `\nCategories :  ${entry.word} : ` + semanticCategoriesTags.join(',') );
+
       console.log( i + '\n----------------------------------');
 
-      await new Promise(resolve => setTimeout(resolve, 175)); 
+      //await new Promise(resolve => setTimeout(resolve, 175)); 
     } catch (err) {
       console.error('Error parsing JSON:');
       console.error(err);
@@ -126,5 +193,15 @@ const readFileAsync = async () => {
 
 (async () => {
   await readFileAsync();
+
+  console.log ( `\nTotal Categories` );
+  
+  const sortedCategories = Object.entries(totalSemanticCategories).sort((a, b) => a[1] - b[1]);
+  for (const [category, count] of sortedCategories) {
+    console.log(`${category}: ${count}`);
+  }
+
+
   pool.end();
 })();
+

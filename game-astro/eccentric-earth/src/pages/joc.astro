@@ -1,13 +1,13 @@
 ---
 import Layout from '../layouts/baseLayout.astro';
-import { getQuizHandler } from '../lib/getDefinicioDelDia';
-//import MiniApp from '../components/MiniApp.jsx';
+import GameContainer from '../components/GameContainer.tsx';
+import GameApp from '../components/GameApp';
 
-const definition = await getQuizHandler();
+
 ---
 
 <Layout title="Joc de definicions">
-  <div style="display: flex; gap: 1rem;">
+  <div>
     <aside style="flex: 1;">
       <!-- Anunci esquerra -->
       <div class="ad ad-left">[ANUNCI ESQUERRA]</div>
@@ -15,8 +15,7 @@ const definition = await getQuizHandler();
 
     <section style="flex: 2;">
       <h2>Joc de definicions</h2>
-      <p>{JSON.stringify(definition)}</p>
-      <!-- MiniApp client:only="preact" / -->
+      <GameApp client:only="preact" />
     </section>
 
     <aside style="flex: 1;">

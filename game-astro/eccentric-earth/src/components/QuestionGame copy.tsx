@@ -15,6 +15,9 @@ export default function QuestionGame({ question, options, answerId, onNext }: Pr
   const [correctAnswer, setCorrectAnswer] = useState<string | null>(null);
 
   async function handleClick(option: string) {
+    //if (selected) return;
+    //setSelected(option);
+    //setStatus(option === correct ? 'correcte' : 'incorrecte');
 
     if (selected) return;
     setSelected(option);
@@ -49,6 +52,19 @@ export default function QuestionGame({ question, options, answerId, onNext }: Pr
 
   return (
     <div className="question-container">
+      {false && (
+        <div className={`answer-feedback ${status}`}>
+          <p>Has respost: <strong>{status}</strong></p>
+          <button className="next-button" onClick={() => {
+            setSelected(null);
+            updateStatus(null);
+            onNext(status);
+          }}>
+            Següent ▶️
+          </button>
+        </div>
+      )}
+
       <h2 className="question-title">{question}</h2>
       <div className="option-list">
         {options.map((opt) => (

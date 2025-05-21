@@ -1,14 +1,27 @@
 ---
-// src/pages/index.astro
-import Layout from '../layouts/baseLayout.astro';
+import { getLanguage } from '../lib/getLanguage.ts';
+
+const isSSR = Astro.request.headers.get("user-agent") !== null;
 ---
 
-<Layout title="Benvingut al Portal">
-  <h1>Adopta un mot 🎮</h1>
-  <p>Escull una secció:</p>
-  <ul>
-    <li><a href="/joc">Joc de definicions</a></li>
-    <li><a href="/ranking">Ranking</a></li>
-    <li><a href="/info">Informació</a></li>
-  </ul>
-</Layout>
+<html lang="en">
+  <head>
+    <title>Endevina la definició?</title>
+  </head>
+  <body>
+    <script type="module">
+      import { getLanguage } from '/src/lib/getLanguage.ts';
+      alert ( getLanguage() )
+      console.log( getLanguage()) 
+
+    </script>
+
+    <div id="language-selector" style="display: none;">
+      <h1>Endevina la definició?</h1>
+      <p>Tria l’idioma per començar:</p>
+      <button onclick="setLang('es')">🇪🇸 Castellà</button>
+      <button onclick="setLang('en')">🇬🇧 Anglès</button>
+      <button onclick="setLang('ca')">🇨🇦 Català</button>
+    </div>
+  </body>
+</html>

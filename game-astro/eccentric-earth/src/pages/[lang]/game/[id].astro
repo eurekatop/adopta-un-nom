@@ -1,0 +1,11 @@
+---
+import Layout from '../../../layouts/baseLayout.astro';
+import GameApp from '../../../components/GameApp';
+
+
+const { id, lang } = Astro.params;
+---
+
+<Layout title={`Partida ${id}`} lang={lang}>
+  <GameApp id={id} lang={lang} client:only="preact" />  
+</Layout>

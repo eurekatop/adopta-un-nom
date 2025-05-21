@@ -16,11 +16,11 @@ import { createHash } from 'crypto';
  * Exemple: es-bolo-es-noun-WCxB6p~5
  */
 export function generateLexicographicalId(entry) {
-  const base = `${entry.lang_code}-${entry.word}-${entry.entry_index}-${entry.pos}`;
+  const base = `${entry.language_code}-${entry.word}-${entry.entry_index}-${entry.pos}`;
   const hash = createHash('sha256').update(base).digest('base64url'); // segura per URL i claus
-  const short = hash.slice(0, 8); // ajusta la llargada si vols més/menys col·lisions
+  const short = hash.slice(0, 14); // ajusta la llargada si vols més/menys col·lisions
 
-  return `${entry.word}-${entry.entry_index}-${entry.pos}-${short}`;
+  return `${entry.word}-${entry.entry_index}-${entry.pos}-${entry.language_code}-${short}`;
 }
 
 /////////////// pool.getConnection()

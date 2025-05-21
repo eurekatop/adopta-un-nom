@@ -1,0 +1,437 @@
+1 3440 		 cooee 			 noun
+			 1 - A long, loud call used to attract attention when at a distance, mainly done in the Australian bush.
+			 2 - A short distance; hailing distance.
+3440
+----------------------------------
+2 3443 		 handfish 			 noun
+			 1 - Any of the anglerfishes of the genus Brachionichthys, which can "walk" on the sea floor using their pectoral fins.
+3443
+----------------------------------
+3 3444 		 feet 			 noun
+			 1 - plural of foot
+3444
+----------------------------------
+4 3445 		 feet 			 noun
+			 1 - Fact; performance; feat.
+3445
+----------------------------------
+5 3446 		 feat 			 noun
+			 1 - A relatively rare or difficult accomplishment.
+3446
+----------------------------------
+6 3448 		 feat 			 verb
+			 1 - To form; to fashion.
+3448
+----------------------------------
+7 3454 		 tree 			 noun, uncountable
+			 1 - A perennial woody plant taller and larger than a shrub with a wooden trunk and, at some distance from the ground, having leaves and branches.
+			 2 - Any other plant (such as a large shrub or herb) that is reminiscent of the above in form and size.
+			 3 - An object made from a tree trunk and having multiple hooks or storage platforms.
+			 4 - A device used to hold or stretch a shoe open.
+			 5 - The structural frame of a saddle.
+			 6 - A connected graph with no cycles or, if the graph is finite, equivalently a connected graph with n vertices and n−1 edges.
+			 7 - A recursive data structure in which each node has zero or more nodes as children.
+			 8 - A display or listing of entries or elements such that there are primary and secondary entries shown, usually linked by drawn lines or by indenting to the right.
+			 9 - Any structure or construct having branches representing divergence or possible choices.
+			 10 - The structure or wooden frame used in the construction of a saddle used in horse riding.
+			 11 - Marijuana.
+			 12 - A cross or gallows.
+			 13 - A mass of crystals, aggregated in arborescent forms, obtained by precipitation of a metal from solution.
+			 14 - The fifth Lenormand card.
+			 15 - Alternative letter-case form of TREE.
+3454
+----------------------------------
+8 3456 		 ate 			 verb
+			 1 - simple past of eat
+			 2 - past participle of eat
+3456
+----------------------------------
+9 3457 		 ate 			 noun
+			 1 - An elder sister
+			 2 - A respectful title or form of address for an older woman.
+3457
+----------------------------------
+10 3462 		 bongo 			 noun
+			 1 - A striped bovine mammal found in Africa, Tragelaphus eurycerus.
+3462
+----------------------------------
+11 3463 		 bongo 			 noun
+			 1 - Either of a pair of small drums of Cuban origin, played by beating with the hands.
+3463
+----------------------------------
+12 3466 		 impala 			 noun
+			 1 - An African antelope, Aepyceros melampus, noted for its leaping ability; the male has ridged, curved horns.
+3466
+----------------------------------
+13 3467 		 cockroach 			 noun
+			 1 - Any black or brown straight-winged insect of the order Blattodea that is not a termite.
+			 2 - A person or a member of a group of people regarded as undesirable and rapidly procreating.
+			 3 - A person from New South Wales.
+			 4 - A hard lump of brown sugar.
+3467
+----------------------------------
+14 3468 		 millipede 			 noun
+			 1 - Any of many elongated arthropods, of the class Diplopoda, with cylindrical bodies that have two pairs of legs for each one of their 20 to 100 or more body segments.
+3468
+----------------------------------
+15 3473 		 VB 			 noun, countable, uncountable
+			 1 - Initialism of valence bond.
+			 2 - Initialism of vinylbenzene.
+			 3 - Initialism of volleyball.
+3473
+----------------------------------
+16 3474 		 example 			 noun
+			 1 - Something that is representative of all such things in a group.
+			 2 - Something that serves to illustrate or explain a rule.
+			 3 - Something that serves as a pattern of behaviour to be imitated (a good example) or not to be imitated (a bad example).
+			 4 - A person punished as a warning to others.
+			 5 - A parallel or closely similar case, especially when serving as a precedent or model.
+			 6 - An instance (as a problem to be solved) serving to illustrate the rule or precept or to act as an exercise in the application of the rule.
+3474
+----------------------------------
+17 3475 		 example 			 verb
+			 1 - To be illustrated or exemplified (by).
+3475
+----------------------------------
+18 3477 		 indicative 			 noun, uncountable, countable
+			 1 - The indicative mood.
+			 2 - A term in the indicative mood.
+3477
+----------------------------------
+19 3479 		 subjunctive 			 noun, uncountable, countable
+			 1 - Ellipsis of subjunctive mood.
+			 2 - A form in the subjunctive mood.
+3479
+----------------------------------
+20 3481 		 boy 			 noun, countable, uncountable
+			 1 - A young male human.
+			 2 - A young male human., A male child or adolescent, as distinguished from an infant or adult.
+			 3 - A son of any age.
+			 4 - A male human younger than the speaker.
+			 5 - A male human of any age, as opposed to a "girl" (female human of any age).
+			 6 - A male of low station, (especially as pejorative) a worthless male, a wretch; a mean and dishonest male, a knave.
+			 7 - A male servant, slave, assistant, or employee, A younger such worker.
+			 8 - A male servant, slave, assistant, or employee, A non-white male servant regardless of age, particularly as a form of address.
+			 9 - A male servant, slave, assistant, or employee, A male camp follower.
+			 10 - A male servant, slave, assistant, or employee, particularly
+			 11 - Any non-white male, regardless of age.
+			 12 - A male friend.
+			 13 - A male submissive.
+			 14 - A male non-human animal, especially, in affectionate address, a male pet, especially a dog.
+			 15 - A former low rank of various armed services; a holder of this rank.
+			 16 - Heroin.
+			 17 - A male (tree, gene, etc).
+3481
+----------------------------------
+21 3484 		 girl 			 noun, countable, uncountable
+			 1 - A young female human, or sometimes a young female animal.
+			 2 - A woman, especially a young and often attractive woman.
+			 3 - A term of address to a female (see usage notes)
+			 4 - One's girlfriend.
+			 5 - One's daughter.
+			 6 - A female non-human animal, especially, in affectionate address, a female pet, especially a dog.
+			 7 - (as a modifier) A female (tree, gene, etc).
+			 8 - A machine or vehicle, especially one that the speaker uses often and is fond of.
+			 9 - A female servant; a maid. (see usage notes)
+			 10 - Cocaine, especially in powder form.
+			 11 - A queen (the playing card).
+			 12 - A roebuck two years old.
+			 13 - A child of any gender.
+3484
+----------------------------------
+22 3486 		 centipede 			 noun
+			 1 - Any arthropod of class Chilopoda, which have a segmented body with one pair of legs per segment and from about 20 to 300 legs in total.
+			 2 - A many-oared Chinese smuggling boat.
+3486
+----------------------------------
+23 3488 		 antecedent 			 noun
+			 1 - Any thing that precedes another thing, especially the cause of the second thing.
+			 2 - An ancestor.
+			 3 - A word, phrase or clause referred to by a pronoun or other pro-form.
+			 4 - The conditional part of a hypothetical proposition, i.e. p→q, where p is the antecedent, and q is the consequent.
+			 5 - The first of two subsets of a sequent, consisting of all the sequent's formulae which are valuated as true.
+			 6 - The first term of a ratio, i.e. the term a in the ratio a:b, the other being the consequent.
+			 7 - Previous principles, conduct, history, etc.
+3488
+----------------------------------
+24 3490 		 adjunct 			 noun
+			 1 - An appendage; something attached to something else in a subordinate capacity.
+			 2 - A person associated with another, usually in a subordinate position; a colleague.
+			 3 - An unmalted grain or grain product that supplements the main mash ingredient.
+			 4 - A quality or property of the body or mind, whether natural or acquired, such as colour in the body or judgement in the mind.
+			 5 - A key or scale closely related to another as principal; a relative or attendant key.
+			 6 - A phrase within a clause or sentence that is grammatically dispensable but not semantically so, modifying its meaning.
+			 7 - A graphic element that modifies another, such as (in Linear B script) a small syllabogram that is attached to a logogram as an abbreviation of an adjective that modifies that logogram (rather than as a phonetic complement that disambiguates the logogram).
+			 8 - A constituent which is both the daughter and the sister of an X-bar.
+			 9 - Symploce.
+			 10 - One of a pair of morphisms which relate to each other through a pair of adjoint functors.
+3490
+----------------------------------
+25 3495 		 affirmative 			 noun
+			 1 - Yes; an answer that shows agreement or acceptance.
+			 2 - An answer that shows agreement or acceptance.
+			 3 - An assertion.
+3495
+----------------------------------
+26 3502 		 his 			 noun
+			 1 - plural of hi
+3502
+----------------------------------
+27 3505 		 her 			 noun
+			 1 - A female person or animal.
+3505
+----------------------------------
+28 3507 		 our 			 verb
+			 1 - Misspelling of are.
+3507
+----------------------------------
+29 3513 		 genitive 			 noun, countable, uncountable
+			 1 - Short for genitive case (“a grammatical case used to express a relationship of origin or possession”).
+			 2 - A word inflected in the genitive case, and which thus indicates origin or possession.
+3513
+----------------------------------
+30 3514 		 action 			 noun, countable, uncountable
+			 1 - The effort of performing or doing something.
+			 2 - Something done, often so as to accomplish a purpose.
+			 3 - A way of motion or functioning.
+			 4 - Fast-paced activity.
+			 5 - The way in which a mechanical device acts when used; especially a firearm.
+			 6 - The way in which a mechanical device acts when used; especially a firearm., The way in which cartridges are loaded, locked, and extracted from the mechanism.
+			 7 - The mechanism, that is the set of moving mechanical parts, of a keyboard instrument, like a piano, which transfers the motion of the key to the sound-making device.
+			 8 - The distance separating the strings and the fingerboard on a string instrument.
+			 9 - Sexual intercourse.
+			 10 - Combat.
+			 11 - A charge or other process in a law court (also called lawsuit and actio).
+			 12 - A way in which each element of some algebraic structure transforms some other structure or set, in a way which respects the structure of the first. Formally, this may be seen as a morphism from the first structure into some structure of endomorphisms of the second; for example, a group action of a group G on a set S can be seen as a group homomorphism from G into the set of bijections on S (which form a group under function composition), while a module M over a ring R can be defined as an abelian group together with a ring homomorphism from R into the ring of group endomorphisms of M (which is also called the action of R on M).
+			 13 - The product of energy and time, especially the product of the Lagrangian and time.
+			 14 - The event or connected series of events, either real or imaginary, forming the subject of a play, poem, or other composition; the unfolding of the drama of events.
+			 15 - The attitude or position of the several parts of the body as expressive of the sentiment or passion depicted.
+			 16 - spin put on the bowling ball.
+			 17 - A share in the capital stock of a joint-stock company, or in the public funds.
+			 18 - A religious performance or solemn function, i.e. action sermon, a sacramental sermon in the Scots Presbyterian Church.
+			 19 - A process existing in or produced by nature (rather than by the intent of human beings).
+			 20 - Purposeful behavior.
+			 21 - A demonstration by activists.
+3514
+----------------------------------
+31 3520 		 concrete 			 noun, countable, uncountable
+			 1 - A building material created by mixing cement, water, and aggregate such as gravel and sand.
+			 2 - A term designating both a quality and the subject in which it exists; a concrete term.
+			 3 - A dessert of frozen custard with various toppings.
+			 4 - An extract of herbal materials that has a semi-solid consistency, especially when such materials are partly aromatic.
+			 5 - Sugar boiled down from cane juice to a solid mass.
+			 6 - Any solid mass formed by the coalescence of separate particles; a compound substance, a concretion.
+3520
+----------------------------------
+32 3523 		 dative 			 noun
+			 1 - The dative case.
+			 2 - A word inflected in the dative case.
+3523
+----------------------------------
+33 3526 		 imperative 			 noun, uncountable, countable
+			 1 - The grammatical mood expressing an order (see jussive). In English, the imperative form of a verb is the same as that of the bare infinitive.
+			 2 - A verb in the imperative mood.
+			 3 - An essential action, a must: something which is imperative.
+3526
+----------------------------------
+34 3529 		 infinitive 			 noun
+			 1 - The infinitive mood or mode (a grammatical mood).
+			 2 - A non-finite verb form considered neutral with respect to inflection; depending on language variously found used with auxiliary verbs, in subordinate clauses, or acting as a gerund, and often as the dictionary form.
+			 3 - A verbal noun formed from the infinitive of a verb.
+3529
+----------------------------------
+35 3531 		 vowel 			 noun
+			 1 - A sound produced by the vocal cords with relatively little restriction of the oral cavity, forming the prominent sound of a syllable.
+			 2 - A letter representing the sound of a vowel; in English, the vowels are a, e, i, o, u, w (sometimes), y (sometimes) .
+3531
+----------------------------------
+36 3532 		 vowel 			 verb
+			 1 - To add vowel points to a consonantal script (e.g. niqqud in Hebrew or harakat in Arabic).
+3532
+----------------------------------
+37 3533 		 copula 			 noun
+			 1 - A word, usually a verb, used to link the subject of a sentence with a predicate (usually a subject complement or an adverbial), that unites or associates the subject with the predicate.
+			 2 - The bond or relationship by which two things are combined into a unity.
+			 3 - A function that represents the association between two or more variables, independent of the individual marginal distributions of the variables.
+			 4 - A device that connects two or more keyboards of an organ.
+			 5 - The act of copulation; mating.
+3533
+----------------------------------
+38 3535 		 article 			 noun
+			 1 - A piece of nonfiction writing such as a story, report, opinion piece, or entry in a newspaper, magazine, journal, encyclopedia, etc.
+			 2 - An object, a member of a group or class.
+			 3 - A part of speech that indicates, specifies and limits a noun (a, an, or the in English). In some languages the article may appear as an ending (e.g. definite article in Swedish) or there may be none (e.g. Russian, Pashto).
+			 4 - A section of a legal document, bylaws, etc. or, in the plural, the entire document seen as a collection of these.
+			 5 - Short for genuine article.
+			 6 - A part or segment of something joined to other parts, or, in combination, forming a structured set.
+			 7 - A person; an individual.
+			 8 - A wench.
+			 9 - Subject matter; concern.
+			 10 - A distinct part.
+			 11 - A precise point in time; a moment.
+3535
+----------------------------------
+39 3541 		 masculine 			 noun
+			 1 - The masculine gender.
+			 2 - A word of the masculine gender.
+			 3 - That which is masculine.
+			 4 - A man.
+3541
+----------------------------------
+40 3542 		 consonant 			 noun
+			 1 - A sound that results from the passage of air through restrictions of the oral cavity; any sound that is not the dominant sound of a syllable, the dominant sound generally being a vowel.
+			 2 - A letter representing the sound of a consonant.
+3542
+----------------------------------
+41 3545 		 case 			 noun, uncountable
+			 1 - An actual event, situation, or fact.
+			 2 - A given condition or state.
+			 3 - A piece of work, specifically defined within a profession; the set of tasks involved in addressing the situation of a specific person or event.
+			 4 - An instance or event as a topic of study.
+			 5 - A legal proceeding; a lawsuit or prosecution.
+			 6 - A specific inflection of a word (particularly a noun, pronoun, or adjective) depending on its function in the sentence.
+			 7 - Grammatical cases and their meanings taken either as a topic in general or within a specific language.
+			 8 - An instance of a specific condition or set of symptoms.
+			 9 - A section of code representing one of the actions of a conditional switch.
+			 10 - A love affair.
+3545
+----------------------------------
+42 3547 		 case 			 noun
+			 1 - A box that contains or can contain a number of identical items of manufacture.
+			 2 - A box, sheath, or covering generally.
+			 3 - A piece of luggage that can be used to transport an apparatus such as a sewing machine.
+			 4 - An enclosing frame or casing.
+			 5 - A suitcase.
+			 6 - A piece of furniture, constructed partially of transparent glass or plastic, within which items can be displayed.
+			 7 - The outer covering or framework of a piece of apparatus such as a computer.
+			 8 - A shallow tray divided into compartments or "boxes" for holding type, traditionally arranged in sets of two, the "upper case" (containing capitals, small capitals, accented) and "lower case" (small letters, figures, punctuation marks, quadrats, and spaces).
+			 9 - The nature of a piece of alphabetic type, whether a “capital” (upper case) or “small” (lower case) letter.
+			 10 - Four of a kind.
+			 11 - A unit of liquid measure used to measure sales in the beverage industry, equivalent to 192 fluid ounces.
+			 12 - A small fissure which admits water into the workings.
+			 13 - A thin layer of harder metal on the surface of an object whose deeper metal is allowed to remain soft.
+			 14 - A cardboard box that holds (usually 24) beer bottles or cans.
+			 15 - A counterfeit crown (five-shilling coin).
+3547
+----------------------------------
+43 3557 		 nominative 			 noun
+			 1 - The nominative case.
+			 2 - A noun in the nominative case.
+3557
+----------------------------------
+44 3562 		 subject 			 noun
+			 1 - The noun, pronoun or noun phrase about whom the statement is made. In active clauses with verbs denoting an action, the subject is the actor. In clauses in the passive voice the subject is the target of the action.
+			 2 - By faulty generalisation from a clause's grammatical subject often being coinstantiated with one: an actor or agent; one who takes action.
+			 3 - The main topic of a paper, work of art, discussion, field of study, etc.
+			 4 - A particular area of study.
+			 5 - A citizen in a monarchy.
+			 6 - A person ruled over by another, especially a monarch or state authority.
+			 7 - The main theme or melody, especially in a fugue.
+			 8 - A human, animal or an inanimate object that is being examined, treated, analysed, etc.
+			 9 - A being that has subjective experiences, subjective consciousness, or a relationship with another entity.
+			 10 - That of which something is stated.
+			 11 - The variable in terms of which an expression is defined.
+3562
+----------------------------------
+45 3567 		 irregular 			 noun
+			 1 - A soldier who is not a member of an official military force and who may not use regular army tactics.
+			 2 - One who does not regularly attend a venue.
+3567
+----------------------------------
+46 3571 		 future 			 noun, countable, uncountable
+			 1 - The time ahead; those moments yet to be experienced.
+			 2 - Something that will happen in moments yet to come.
+			 3 - Goodness in what is yet to come. Something to look forward to.
+			 4 - The likely prospects for or fate of someone or something in time to come.
+			 5 - Verb tense used to talk about events that will happen in the future; future tense.
+			 6 - Alternative form of futures
+			 7 - An object that retrieves the value of a promise.
+			 8 - A minor-league prospect.
+3571
+----------------------------------
+47 3574 		 conditional 			 noun
+			 1 - A conditional sentence; a statement that depends on a condition being true or false.
+			 2 - The conditional mood.
+			 3 - A statement that one sentence is true if another is.
+			 4 - An instruction that branches depending on the truth of a condition at that point.
+			 5 - A condition (a limitation or restriction).
+3574
+----------------------------------
+48 3576 		 superlative 			 noun
+			 1 - The extreme (e.g. highest, lowest, deepest, farthest, etc) extent or degree of something.
+			 2 - The degree of comparison of an adjective or adverb used when comparing three or more entities in terms of a certain property or a certain way of doing something. In English, the superlative of superiority is formed by adding the suffix -est or the word most (e.g. biggest, most fully); the superlative of inferiority, by adding the word least (e.g. least big, least fully).
+			 3 - An adjective or adverb in the superlative degree.
+3576
+----------------------------------
+49 3578 		 neuter 			 noun
+			 1 - An organism, either vegetable or animal, which at its maturity has no generative organs, or but imperfectly developed ones, as a plant without stamens or pistils, as the garden Hydrangea; especially, one of the imperfectly developed females of certain social insects, as of the ant and the common honeybee, which perform the labors of the community, and are called workers.
+			 2 - One who has been neutered; eunuch.
+			 3 - The act of neutering (typically an animal)
+			 4 - A person who takes no part in a contest; someone remaining neutral.
+			 5 - The neuter gender.
+			 6 - A noun of the neuter gender; any one of those words which have the terminations usually found in neuter words.
+			 7 - An intransitive verb or state-of-being verb.
+3578
+----------------------------------
+50 3585 		 regular 			 noun
+			 1 - A member of the British Army (as opposed to a member of the Territorial Army or Reserve).
+			 2 - A frequent, routine visitor to an establishment.
+			 3 - A member of an armed forces or police force.
+			 4 - A frequent customer, client or business partner.
+			 5 - A coffee with one cream and one sugar.
+			 6 - Anything that is normal or standard.
+			 7 - A member of a religious order who has taken the three ordinary vows.
+			 8 - A number for each year, giving, added to the concurrents, the number of the day of the week on which the Paschal full moon falls.
+			 9 - A fixed number for each month serving to ascertain the day of the week, or the age of the moon, on the first day of any month.
+			 10 - Synonym of regular serviceman; a soldier in the Singapore Armed Forces who has chosen to work full-time beyond their required length of service in the army.
+3585
+----------------------------------
+51 3587 		 stem 			 noun
+			 1 - The stock of a family; a race or generation of progenitors.
+			 2 - A branch of a family.
+			 3 - A branch of a family., A branch, or group of branches, located outside a family or other cladistic group, but which is more closely related to that group than to any other taxon of the same rank.
+			 4 - An advanced or leading position; the lookout.
+			 5 - The above-ground stalk (technically axis) of a vascular plant, and certain anatomically similar, below-ground organs such as rhizomes, bulbs, tubers, and corms.
+			 6 - A slender supporting member of an individual part of a plant such as a flower or a leaf; also, by analogy, the shaft of a feather.
+			 7 - A narrow part on certain man-made objects, such as a wine glass, a tobacco pipe, a spoon.
+			 8 - The main part of an uninflected word to which affixes may be added to form inflections of the word. A stem often has a more fundamental root. Systematic conjugations and declensions derive from their stems.
+			 9 - A person's leg.
+			 10 - The penis.
+			 11 - A vertical stroke of a letter.
+			 12 - A vertical stroke marking the length of a note in written music.
+			 13 - A premixed portion of a track for use in audio mastering and remixing.
+			 14 - The vertical or nearly vertical forward extension of the keel, to which the forward ends of the planks or strakes are attached.
+			 15 - A component on a bicycle that connects the handlebars to the bicycle fork.
+			 16 - A part of an anatomic structure considered without its possible branches or ramifications.
+			 17 - A crack pipe; or the long, hollow portion of a similar pipe (i.e. meth pipe) resembling a crack pipe.
+			 18 - A winder on a clock, watch, or similar mechanism.
+3587
+----------------------------------
+52 3588 		 stem 			 verb
+			 1 - To remove the stem from.
+			 2 - To be caused or derived; to originate.
+			 3 - To descend in a family line.
+			 4 - To direct the stem (of a ship) against; to make headway against.
+			 5 - To hit with the stem of a ship; to ram.
+			 6 - To ram (clay, etc.) into a blasting hole.
+3588
+----------------------------------
+53 3590 		 stem 			 noun
+			 1 - Alternative form of steem
+3590
+----------------------------------
+54 3591 		 stem 			 noun
+			 1 - Alternative form of STEM
+3591
+----------------------------------
+55 3592 		 stem 			 noun
+			 1 - Alternative spelling of stemme (“lesbian who combines stud and femme traits”)
+3592
+----------------------------------
+56 3593 		 tense 			 noun, uncountable, countable
+			 1 - The property of indicating the point in time at which an action or state of being occurs or exists.
+			 2 - An inflected form of a verb that indicates tense.
+			 3 - A grammatical aspect.
+			 4 - A verb form or construction indicating a combination of tense, aspect, and mood.
+3593
+----------------------------------

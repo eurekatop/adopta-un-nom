@@ -78,3 +78,38 @@ const paraula: Entry = {
 
 # greps utiles
 grep -I "\"word\": \"bolo\", \"pos" /home/rfranr/source/github.com/eurekatop/adopta-un-nom/scripts/scrapping/data/kaikki.org-dictionary-Español.jsonl > temp.jsonl
+
+
+
+# download directories
+wget -r -np -nH --cut-dirs=1 http://kaikki.org/dictionary/Euskara/
+wget https://kaikki.org/dictionary/English/kaikki.org-dictionary-English.jsonl
+
+
+
+
+
+
+
+# documentacion
+LLista de propietats Wikidata: https://www.wikidata.org/wiki/Wikidata:List_of_properties
+https://johnsamuel.info/wdprop/properties.html
+Propietat en particular: https://www.wikidata.org/wiki/Property:P580
+Wikidata Property Documentation Tool: https://tools.wmflabs.org/wdpdoc/
+
+
+
+
+# scripts
+# wikidata-similar.js ca
+Intenta extraer les entrades similars a una determinada entrada de Wikidata mediante la API SparkSQL.
+```
+  node wikidata-similar.js caballo
+```
+
+# wikidata-parse-dump-latest-all.js
+Parseja el dump de Wikidata 
+El dump es descarrega de: https://dumps.wikimedia.org/wikidatawiki/entities/
+Afagarem aques dump: 
+https://dumps.wikimedia.org/wikidatawiki/entities/latest-all.json.bz2
+

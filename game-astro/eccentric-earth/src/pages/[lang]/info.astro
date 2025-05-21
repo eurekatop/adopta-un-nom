@@ -1,0 +1,78 @@
+---
+import Layout from '../../layouts/baseLayout.astro';
+const { lang } = Astro.params;
+
+const translations = {
+  ca: {
+    title: 'Informació del joc',
+    about: 'Sobre el joc',
+    desc1: '**Endevina la definició?** és un joc de preguntes lingüístiques on has d\'encertar la paraula correcta a partir d\'una definició.',
+    desc2: 'Les definicions provenen de fonts obertes com el Wiktionary i el joc admet diversos idiomes. Les respostes s\'avaluen al moment i pots veure la teva puntuació acumulada mentre jugues.',
+    languages: 'Idiomes disponibles',
+    langs: ['Castellà (Español)', 'Anglès (English)', '(Més idiomes pròximament)'],
+    how: 'Com funciona?',
+    steps: [
+      'Per cada ronda, rebràs una definició.',
+      'Tria entre diverses opcions quina paraula hi correspon.',
+      'Un cop responguis, veuràs si has encertat i passaràs a la següent.',
+    ],
+    ranking: 'Rànquing',
+    rankingDesc: 'Estàs competint contra tothom! Les teves puntuacions s’acumulen de forma anònima. Aviat podràs veure com quedes cada dia o setmana.',
+  },
+  es: {
+    title: 'Información del juego',
+    about: 'Sobre el juego',
+    desc1: '**¿Adivina la definición?** es un juego de preguntas lingüísticas donde debes acertar la palabra correcta a partir de una definición.',
+    desc2: 'Las definiciones provienen de fuentes abiertas como Wiktionary y el juego admite varios idiomas. Las respuestas se evalúan al instante y puedes ver tu puntuación acumulada mientras juegas.',
+    languages: 'Idiomas disponibles',
+    langs: ['Español', 'Inglés (English)', '(Más idiomas próximamente)'],
+    how: '¿Cómo funciona?',
+    steps: [
+      'En cada ronda, recibirás una definición.',
+      'Elige entre varias opciones cuál es la palabra correcta.',
+      'Una vez respondas, verás si acertaste y pasarás a la siguiente.',
+    ],
+    ranking: 'Ranking',
+    rankingDesc: '¡Estás compitiendo con todos! Tus puntuaciones se acumulan de forma anónima. Pronto podrás ver cómo quedas cada día o semana.',
+  },
+  en: {
+    title: 'Game Information',
+    about: 'About the Game',
+    desc1: '**Guess the definition?** is a word quiz game where you must guess the correct word from a definition.',
+    desc2: 'Definitions come from open sources like Wiktionary, and the game supports multiple languages. Answers are evaluated instantly and your score accumulates as you play.',
+    languages: 'Available Languages',
+    langs: ['English',  'Spanish', '(More languages coming soon)'],
+    how: 'How does it work?',
+    steps: [
+      'Each round, you’ll get a definition.',
+      'Choose the correct word from multiple options.',
+      'After you answer, you’ll see if you got it right and move on.',
+    ],
+    ranking: 'Ranking',
+    rankingDesc: 'You’re competing with everyone! Your scores are collected anonymously. Soon you’ll be able to see daily and weekly results.',
+  },
+};
+
+const t = translations[lang] ?? translations['ca'];
+---
+
+<Layout title={t.title} lang={lang}>
+  <main class="info-container">
+    <h2>{t.about}</h2>
+    <p>{t.desc1}</p>
+    <p>{t.desc2}</p>
+
+    <h3>{t.languages}</h3>
+    <ul>
+      {t.langs.map(item => <li>{item}</li>)}
+    </ul>
+
+    <h3>{t.how}</h3>
+    <ul>
+      {t.steps.map(step => <li>{step}</li>)}
+    </ul>
+
+    <h3>{t.ranking}</h3>
+    <p>{t.rankingDesc}</p>
+  </main>
+</Layout>

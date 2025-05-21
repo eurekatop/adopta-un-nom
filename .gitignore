@@ -40,3 +40,6 @@ venv/
 scripts/common-crawl/cd*
 scripts/common-crawl/cc-*
 scripts/common-crawl/test.txt
+
+#doc
+notes.md

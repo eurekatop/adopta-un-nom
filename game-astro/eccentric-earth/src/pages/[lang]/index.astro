@@ -1,0 +1,17 @@
+---
+// src/pages/index.astro
+import Layout from '../../layouts/baseLayout.astro';
+
+const {lang} = Astro.params;
+const rand = Math.floor(Math.random() * 10000) + 1;
+---
+
+<Layout title="Benvingut al Portal" lang={lang}>
+  <h1>Endevina el mot 🎮</h1>
+  <p>Escull una secció:</p>
+  <ul>
+    <li><a href=`/${lang}/game/${rand}`>Joc de definicions</a></li>
+    <li><a href="/ranking">Ranking</a></li>
+    <li><a href="/info">Informació</a></li>
+  </ul>
+</Layout>

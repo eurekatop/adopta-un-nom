@@ -52,9 +52,16 @@ CREATE TABLE blacklisted_words (
         ON DELETE CASCADE
 ) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
 
+CREATE TABLE game_sessions (
+  session_id VARCHAR(36) PRIMARY KEY,
+  score INT DEFAULT 0,
+  total INT DEFAULT 0,
+  language_id INT NOT NULL,                         
+  updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+);
 
 
-generate_quiz
+
 
 INSERT INTO languages (code, name) VALUES 
   ('es', 'Español'),

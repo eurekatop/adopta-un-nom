@@ -5,7 +5,7 @@ export const pool = mysql.createPool({
      user:'root', 
      password: process.env.DB_PASSWORD || '',
      database: 'adopta_un_nom',
-     connectionLimit: 5
+     connectionLimit: 20
 });
 
 pool.on('acquire', (connection) => {
