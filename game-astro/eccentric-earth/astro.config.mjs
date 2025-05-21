@@ -12,5 +12,9 @@ export default defineConfig({
       mode: 'standalone' 
   }),
 
+  server: {
+    host: true, // listen on all available network interfaces
+  },
+
   integrations: [preact()],
 });
