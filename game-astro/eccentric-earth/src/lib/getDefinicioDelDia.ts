@@ -2,7 +2,11 @@ import { pool } from './db.ts';
 import {generateSimilarTerms} from './getWikiData.ts';
 
 
-async function getDefinition(seed:string, lang:number) {
+async function getDefinition(seed:string, lang:number) : Promise<{
+  question: string,
+  correct: string,
+  options: string[],
+}> {
   // sanitize seed to remove any non-alphanumeric characters and convert it to lowercase
   seed = seed.replace(/[^a-zA-Z0-9]/g, '').toLowerCase() + lang;
 
@@ -10,8 +14,8 @@ async function getDefinition(seed:string, lang:number) {
   const [rows] = await conn.query(`CALL generate_quiz_2(7, ${lang}, '${seed}')`);
   conn.release();
 
-   const quizStr = rows[0][0].quiz_json; // això és la cadena JSON
-   const _quiz = JSON.parse(quizStr);     // ara sí, parsegem
+   const quizStr = rows[0][0].quiz_json; 
+   const _quiz = JSON.parse(quizStr);    
 
    const quiz = {
       ..._quiz,
@@ -22,11 +26,13 @@ async function getDefinition(seed:string, lang:number) {
 }
 
 
-export async function getQuizHandler(id: string, lang: string) {
+export async function getQuizHandler(seed: string, lang: string) {
   const attempts = 5;
   let attemptCount = 1;
   let quiz;
+  let _seed = seed;
   do {
+
     try {
       const mapLanguageToInt = {
         'ca': 3,
@@ -34,11 +40,13 @@ export async function getQuizHandler(id: string, lang: string) {
         'en': 2,
       };
 
-      quiz = await getDefinition(id, mapLanguageToInt[lang]);
+      quiz = await getDefinition(_seed, mapLanguageToInt[lang]);
       if ( quiz.question )
         break; 
-      else
-         throw new Error('No s\'ha pogut generar el quizz');
+      else {
+         _seed = `${seed}#${attemptCount}`
+         throw new Error('Invalid definition');
+      }
     } catch (error) {
       console.error(`Intent ${attemptCount} fallat. Intentant de nou...`);
       if (attemptCount === attempts) throw error; // Si hem arribat al número màxim d'intents, llançem l'error.

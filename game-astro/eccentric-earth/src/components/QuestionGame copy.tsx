@@ -15,14 +15,11 @@ export default function QuestionGame({ question, options, answerId, onNext }: Pr
   const [correctAnswer, setCorrectAnswer] = useState<string | null>(null);
 
   async function handleClick(option: string) {
-    //if (selected) return;
-    //setSelected(option);
-    //setStatus(option === correct ? 'correcte' : 'incorrecte');
 
     if (selected) return;
     setSelected(option);
 
-    const res = await fetch("/api/verify", {
+    const res = await fetch(`${import.meta.env.BASE_URL}api/verify`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ 

@@ -31,7 +31,7 @@ export function ScoreProvider({ children }: { children: any }) {
   useEffect(() => {
     if (!sessionId) return;
 
-    fetch(`/api/get-score?session=${sessionId}`)
+    fetch(`${import.meta.env.BASE_URL}api/get-score?session=${sessionId}`)
       .then((res) => res.json())
       .then((data) => {
         setScore(data.score || 0);

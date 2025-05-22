@@ -4,15 +4,20 @@ import GameContainer from './GameContainer'; // component real del joc
 
 
 interface Props {
-	id?: string; // identificador de la pregunta
-  lang?: string; // idioma en el que es mostra el joc
+	id?: string; 
+  lang?: string; 
+  quiz:{
+    question: string;
+    options: string[];
+    answerId: string;
+  } | undefined;
 }
 
 
-export default function GameApp({ id , lang }: Props) {
+export default function GameApp({ id , lang, quiz }: Props) {
   return (
     <ScoreProvider>
-      <GameContainer id={id} lang={lang} />
+      <GameContainer id={id} lang={lang} quiz={quiz} />
     </ScoreProvider>
   );
 }

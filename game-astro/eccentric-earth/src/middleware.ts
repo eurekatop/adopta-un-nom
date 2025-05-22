@@ -7,7 +7,7 @@ export const onRequest: MiddlewareHandler = async (context, next) => {
   const path = url.pathname;
 
   // Si l'usuari accedeix a l'arrel ("/"), redirigeix segons navegador
-  if (path === "/") {
+  if (path === import.meta.env.BASE_URL) {
     const header = context.request.headers.get("accept-language") || "";
     const lang = SUPPORTED_LANGS.includes(header.slice(0, 2))
       ? header.slice(0, 2)
@@ -19,7 +19,7 @@ export const onRequest: MiddlewareHandler = async (context, next) => {
     return new Response(null, {
       status: 302,
       headers: {
-        Location: `/${lang}/`,
+        Location: `${import.meta.env.BASE_URL}${lang}/`,
       },
     });
   }

@@ -36,7 +36,7 @@ export default function Ranking({ lang = 'ca' }: Props) {
   const t = translations[lang as keyof typeof translations] ?? translations.ca;
 
   useEffect(() => {
-    fetch('/api/ranking')
+    fetch(`${import.meta.env.BASE_URL}api/ranking`)
       .then(res => res.json())
       .then(data => {
         setRanking(data);

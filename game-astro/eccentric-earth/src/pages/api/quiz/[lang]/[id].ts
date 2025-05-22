@@ -1,36 +1,15 @@
 import type { APIRoute } from 'astro';
-import {  getQuizHandler } from '../../../../lib/getDefinicioDelDia';
-import { saveCorrectAnswer } from '../../../../lib/answers';
-
-function shuffle<T>(array: T[]): T[] {
-  const a = [...array];
-  for (let i = a.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [a[i], a[j]] = [a[j], a[i]];
-  }
-  return a;
-}
+import { getQuestionData } from '../../../../lib/apiHandlers/getQuestionById';
 
 export const GET: APIRoute = async ({ params }) => {
-  const id = params.id;
-  const lang = params.lang;
+  const id = params.id || '';
+  const lang = params.lang || 'ca';
+
   try {
+    const data = await getQuestionData(id, lang);
 
-    console.log("LANG **************** ", lang);
-
-    const question = await getQuizHandler(id || '', lang || 'ca');
-
-    const answerId = crypto.randomUUID();
-    await saveCorrectAnswer(answerId, question.correct);
-
-    if (!question) {
+    if (!data) {
       return new Response('Not found', { status: 404 });
-    }
-
-    const data = {
-      question: question.question,
-      options: shuffle([...question.options]),
-      answerId
     }
 
     return new Response(JSON.stringify(data), {

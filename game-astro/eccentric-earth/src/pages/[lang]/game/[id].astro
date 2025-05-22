@@ -1,27 +1,43 @@
 ---
 import Layout from '../../../layouts/baseLayout.astro';
 import GameApp from '../../../components/GameApp';
+import { getQuestionData } from '../../../lib/apiHandlers/getQuestionById';
 
-
-const { id, lang} = Astro.params;
-
+const { id, lang } = Astro.params;
 
 const translations = {
-  ca: {
-    title: 'Endevina la definició?',
-  },
-  es: {
+  ca: { 
+      title: 'Endevina la definició?',
+      errorMsg : 'Error carregant la pregunta. Torna-ho a intentar.'
+    },
+  es: { 
     title: '¿Adivina la definición?',
+    errorMsg : 'Error cargando la pregunta. Vuelve a intentarlo.'
   },
-  en: {
+  en: { 
     title: 'Guess the definition?',
+    errorMsg : 'Error loading the question. Try again...'
   },
 };
 
 const t = translations[lang as keyof typeof translations] ?? translations.ca;
 
----
+let result = null;
+let error = null;
 
-<Layout title={`${t.title}`} lang={lang}>
-  <GameApp id={id} lang={lang} client:only="preact" />  
+try {
+  result = await getQuestionData( id || Math.floor(Math.random() * (100000 - 1) + 1).toString(), lang);
+} catch (err) {
+  error = err;
+  console.error("Error loading question:", err);
+}
+
+const url = `${import.meta.env.BASE_URL}${lang}/game/${id}`;
+---
+<Layout title={t.title} description={result?.question || ''} lang={lang} url={url} seed={id}>
+  {error ? (
+    <p>{t.errorMsg}</p>
+  ) : (
+    <GameApp id={id} lang={lang} quiz={result} client:only="preact" />
+  )}
 </Layout>

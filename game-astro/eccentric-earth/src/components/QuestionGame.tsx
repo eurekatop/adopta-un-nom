@@ -19,7 +19,7 @@ export default function QuestionGame({ question, options, answerId, onNext }: Pr
     if (selected) return;
     setSelected(option);
 
-    const res = await fetch("/api/verify", {
+    const res = await fetch(`${import.meta.env.BASE_URL}api/verify`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ 

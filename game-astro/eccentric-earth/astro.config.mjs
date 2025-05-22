@@ -8,6 +8,8 @@ import preact from '@astrojs/preact';
 export default defineConfig({
   output: "server",
 
+  base: '/wordguardian/', 
+
   adapter: nodejs({
       mode: 'standalone' 
   }),

@@ -20,7 +20,7 @@ export default function GameContainer({ id, lang }: Props) {
 
   const carregar = async () => {
     try {
-      const url = id ? `/api/quiz/${lang}/${id}` : `/api/quiz/${lang}`;
+      const url = id ? `${import.meta.env.BASE_URL}api/quiz/${lang}/${id}` : `${import.meta.env.BASE_URL}/api/quiz/${lang}`;
       const res = await fetch(url);
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const nova = await res.json();

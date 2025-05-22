@@ -6,6 +6,10 @@ import { useScore } from "../context/ScoreContext";
 interface Props {
   id?: string;
   lang?: string;
+  quiz:{
+    question:string;
+    options:string[];
+  } | undefined;
 }
 
 interface Question {
@@ -41,7 +45,7 @@ const translations = {
   },
 };
 
-export default function GameContainer({ id, lang = "ca" }: Props) {
+export default function GameContainer({ id, lang = "ca", quiz }: Props) {
   const { score, total, resetSession, sessionId, status } = useScore();
   const [question, setQuestion] = useState<Question | null>(null);
 
@@ -49,7 +53,7 @@ export default function GameContainer({ id, lang = "ca" }: Props) {
 
   const carregar = async () => {
     try {
-      const url = id ? `/api/quiz/${lang}/${id}` : `/api/quiz/${lang}`;
+      const url = id ? `${import.meta.env.BASE_URL}api/quiz/${lang}/${id}` : `${import.meta.env.BASE_URL}api/quiz/${lang}`;
       const res = await fetch(url);
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const nova = await res.json();
@@ -60,7 +64,12 @@ export default function GameContainer({ id, lang = "ca" }: Props) {
   };
 
   useEffect(() => {
-    carregar();
+    if (!quiz && question) {
+      carregar();
+    }
+    else {
+      setQuestion(quiz);
+    }
   }, [id]);
 
   const handleNext = (result: "correcte" | "incorrecte") => {
@@ -71,7 +80,7 @@ export default function GameContainer({ id, lang = "ca" }: Props) {
     const _sessionId = sessionId || "anon";
     const nextSeed = `${Date.now()}-${_seed}-${_sessionId.slice(-4)}`;
 
-    window.location.href = `/${lang}/game/${nextSeed}`;
+    window.location.href = `${import.meta.env.BASE_URL}${lang}/game/${nextSeed}`;
   };
 
   if (!question) return <p>{t.loading}</p>;
