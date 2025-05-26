@@ -1,6 +1,78 @@
 #!/usr/bin/env node
 
+import { error } from 'console';
+import { read } from 'fs';
 import readline from 'readline';
+
+
+const linesProcessed = 0;
+const properties = {}
+const queueTaks = []
+const queueTaksIds = []
+
+const addTaskToQueue = (id, task) => {
+  if (queueTaksIds.includes(id)) return;
+  queueTaksIds.push(id);
+  queueTaks.push(task);
+}
+
+const runNextTaskInQueue = () => {
+  if (queueTaks.length === 0) return; 
+
+  const task = queueTaks.shift();
+  task.then(() => runNextTaskInQueue());
+}
+const globalTimer = setInterval(() => {
+  process.stdout.write(`\rTasks left: ${queueTaks.length}, Lines processed: ${linesProcessed}`);
+}, 1 * 1000)
+
+
+
+
+
+const getPropertyLabel = async (pid = 'P31', lang = 'es') => {
+  const id = `${pid}-${lang}`;
+  if (properties[id]) {
+    return properties[id];
+  } else {
+    const res = await fetch(`https://www.wikidata.org/wiki/Special:EntityData/${pid}.json`);
+    const data = res.ok ? await res.json() : new Error(`Failed to fetch data for PID ${pid} in language ${lang}`);
+    
+    if ( data instanceof Error) {
+      properties[id] = {
+        error: data.message
+      }
+    }
+    else {
+      properties[id] = {
+        label: data.entities[pid]?.labels[lang]?.value,
+        description: data.entities[pid]?.descriptions[lang]?.value,
+        data: data
+      };
+    }
+    
+    return properties[id];
+  }
+  
+};
+
+
+// FOR DEBUG
+// cat  /media/rfranr/HD320/wikidata/latest-all.json.bz2 | bunzip2  | node --inspect wikidata-parse-dump-latest-all.js
+// wait keyprees to start
+process.stdin.once('data', async () => {
+  // wait 1 second before starting the loop
+  //await new Promise(resolve => setTimeout(resolve, 10000));
+  main();
+
+  //const property = getPropertyLabel("P31", 'es').then(property => {
+  //    console.log(`Property P31 Label (es): ${property.label}`);
+  //    console.log(`Property P31 Description (es): ${property.description}`);
+  //});
+});
+
+
+function main() {
 
 const rl = readline.createInterface({
   input: process.stdin,
@@ -8,6 +80,8 @@ const rl = readline.createInterface({
 });
 
 rl.on('line', (line) => {
+  linesProcessed++;
+
   if (!line.trim().startsWith('{')) return;
 
   let item;
@@ -55,7 +129,7 @@ rl.on('line', (line) => {
   // return;
   //}
 
-  if (id && label) {
+  if (id && label && item?.type !== "item" ) {
     console.log(`ID: ${id}`);
     console.log(`Etiqueta (es): ${label}`);
     console.log(`Description (es): ${description}`);
@@ -84,6 +158,21 @@ rl.on('line', (line) => {
     }
 
 
+    // Iterate over claims an extract the labels of the properties
+    const propertiesLabel = [];
+    for (const propertyId of Object.keys(item.claims)) {
+      
+      addTaskToQueue( propertyId,  () => {
+        const property = getPropertyLabel(propertyId, 'es');
+        if ( property.label !== undefined )
+          propertiesLabel.push(property.label);
+      });
+      
+    }
+    console.log(`Properties Labels (es): ${propertiesLabel.join(', ')}`);
+
+
     console.log('---');
   }
 });
+}

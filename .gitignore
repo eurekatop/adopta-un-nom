@@ -43,3 +43,6 @@ scripts/common-crawl/test.txt
 
 #doc
 notes.md
+
+#rust
+**/wikidata-parser-rust/target/

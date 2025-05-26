@@ -4,7 +4,7 @@ import fs from 'fs/promises'
 import path from 'path'
 
 export async function GET({ url }) {
-  const quizTitle = '¿Adivina la definición?'
+  const quizTitle = 'WordGuardian - ¿Adivina la definición?'
   const text = url.searchParams.get('text') ?? 'Hogaza de pan plano, típica de la región mediterránea de España, además de Andorra y la Cataluña francesa, que se usa asimismo como base para otras preparaciones dulces y saladas.'
 
   const fontPath = path.resolve('./assets/fonts/Inter-Thin.ttf')

@@ -113,3 +113,35 @@ El dump es descarrega de: https://dumps.wikimedia.org/wikidatawiki/entities/
 Afagarem aques dump: 
 https://dumps.wikimedia.org/wikidatawiki/entities/latest-all.json.bz2
 
+cp latest-all.json.bz2 latest-all.json.TEMP-00.bz2 
+cat  /media/rfranr/HD320/latest-all.json.TEMP-00.bz2 | bunzip2  | node wikidata-parse-dump-latest-all.js  
+cat  /media/rfranr/HD320/wikidata/latest-all.json.TEMP.bz2 | bunzip2  | node wikidata-parse-dump-latest-all.js  
+cat  /media/rfranr/HD320/wikidata/latest-all.json.bz2 | bunzip2  | node wikidata-parse-dump-latest-all.js 
+cat  /media/rfranr/HD320/wikidata/latest-all.json.bz2 | bunzip2  | node wikidata-parse-dump-latest-all-v01.js 
+
+
+curl https://dumps.wikimedia.org/wikidatawiki/entities/latest-all.json.bz2 | bunzip2  | node wikidata-parse-dump-latest-all.js 
+
+curl https://dumps.wikimedia.org/wikidatawiki/entities/latest-all.json.bz2 | bunzip2  | node --inspect wikidata-parse-dump-latest-all.js 
+
+# paralleizable
+1. 🔥 Usa pbzip2 (paral·lel)
+bash
+worker
+pbzip2 -dc /media/rfranr/HD320/wikidata/latest-all.json.bz2 | node main.js
+
+# extreure properties
+bzcat /media/rfranr/HD320/wikidata/latest-all.json.bz2 | jq '
+  select(.id == "P31")
+  | {
+      id: .id,
+      label: .labels.ca.value,
+      description: .descriptions.ca.value
+    }
+'
+
+# rust
+convert to more fastest format
+pbzip2 -kdc latest-all.json.TEMP.bz2 | zstd -v -T6 -o test.zst
+then parsex with rust
+pzstd -dck -p10  /media/rfranr/HD320/wikidata/test.zst | stdbuf -oL ./target/release/wikidata_parser
