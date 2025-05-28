@@ -1,0 +1,69 @@
+---
+const { appId = "EL_TEU_APP_ID" } = Astro.props;
+---
+
+<!-- SDK Facebook -->
+<script async defer crossorigin="anonymous"
+  src="https://connect.facebook.net/en_US/sdk.js"></script>
+
+<!-- Script per inicialitzar i exposar la funció -->
+<script>
+  if (!window.fbInitialized) {
+    window.fbAsyncInit = function () {
+      FB.init({
+        appId: '1391693305369500',
+        cookie: true,
+        xfbml: true,
+        version: 'v19.0'
+      });
+      window.fbInitialized = true;
+      console.log('✅ Facebook SDK initialized');
+    };
+
+    // Carrega el SDK només si no està carregat
+    if (!document.getElementById('facebook-jssdk')) {
+      const js = document.createElement('script');
+      js.id = 'facebook-jssdk';
+      js.src = 'https://connect.facebook.net/en_US/sdk.js';
+      document.head.appendChild(js);
+    }
+  }
+
+  // Crida de login segura
+  window.iniciarSessioAmbFacebook = function () {
+    if (!window.fbInitialized) {
+      alert('Facebook SDK not ready yet');
+      return;
+    }
+
+    FB.getLoginStatus(function(response) {
+      if (response.status === 'connected') {
+        FB.api('/me', { fields: 'name' }, function(user) {
+          alert(`Hola ${user.name} (ja estàs loguejat)!`);
+        });
+      } else {
+        FB.login(function(response) {
+          if (response.authResponse) {
+            FB.api('/me', { fields: 'name' }, function(user) {
+              alert(`Benvingut/da ${user.name}!`);
+            });
+          } else {
+            alert('Login cancel·lat');
+          }
+        });
+      }
+    });
+  };
+</script>
+
+<!-- Botó de login -->
+<button onclick="iniciarSessioAmbFacebook()">🔐 Inicia sessió amb Facebook</button>
+
+<!-- Inline script per injectar appId -->
+<script is:inline>
+  document.querySelectorAll("script").forEach(script => {
+    if (script.innerHTML.includes("{{appId}}")) {
+      script.innerHTML = script.innerHTML.replace("{{appId}}", "{{appId}}");
+    }
+  });
+</script>

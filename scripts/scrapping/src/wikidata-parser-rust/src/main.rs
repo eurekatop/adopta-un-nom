@@ -62,15 +62,24 @@ fn process_batch(lines: Vec<String>) {
             let cleaned = trimmed.trim_end_matches(',');
 
             if let Ok(json) = serde_json::from_str::<Value>(cleaned) {
-                let id = json["id"].as_str().unwrap_or("(sense id)");
-                let _type = json["type"].as_str().unwrap_or("(sense type)");
-                let label = json["labels"]["es"]["value"].as_str().unwrap_or("(sense etiqueta)");
-                let description = json["descriptions"]["es"]["value"].as_str().unwrap_or("(sense descripció)");
+              if json["type"] == "property" {
+                    let id = json["id"].as_str().unwrap_or("");
+                    let label_en = json["labels"]["en"]["value"].as_str().unwrap_or("");
+                    let label_cat = json["labels"]["ca"]["value"].as_str().unwrap_or("");
+                    let label_es = json["labels"]["es"]["value"].as_str().unwrap_or("");
+                    let description_en = json["descriptions"]["en"]["value"].as_str().unwrap_or("");
+                    let description_cat = json["descriptions"]["ca"]["value"].as_str().unwrap_or("");
+                    let description_es = json["descriptions"]["es"]["value"].as_str().unwrap_or("");
 
-                // Si vols filtrar, descomenta:
-                // if _type != "item" {
-                writeln!(file, "{}\t{}\t{}\t{}", id, _type, label, description).ok();
-                // }
+                    writeln!(
+                        file,
+                        "{}\t{}\t{}\t{}\t{}\t{}\t{}\t{}",
+                        id, "property",
+                        label_en, description_en,
+                        label_es, description_es,
+                        label_cat, description_cat
+                    ).ok();
+                }
             }
         }
     });

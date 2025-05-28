@@ -1,5 +1,8 @@
 ---
 import { sanitizeJsonLd } from "../lib/sanitizeJsonLd";
+import FacebookLogin from '../components/FacebookLogin.astro';
+import GTM from "../components/layout/GTM.astro";
+
 
 /*
 <!-- HTML Meta Tags -->
@@ -141,6 +144,8 @@ const safeJsonLd = sanitizeJsonLd(jsonLd);
     ></script>
   </head>
   <body>
+    <GTM gtmId={import.meta.env.GOOGLE_GTM_ID || ""} gaId={import.meta.env.GOOGLE_GA_ID || ""} />
+
     <header>
       <h2>{title}</h2>
       <nav>
@@ -154,6 +159,8 @@ const safeJsonLd = sanitizeJsonLd(jsonLd);
           <option value="es" selected={lang === "es"}>{t.lang.es}</option>
           <option value="en" selected={lang === "en"}>{t.lang.en}</option>
         </select>
+
+         <FacebookLogin appId="123456789012345" />
       </nav>
     </header>
 
