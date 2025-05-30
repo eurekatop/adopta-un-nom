@@ -4,6 +4,7 @@ import { defineConfig } from 'astro/config';
 import nodejs from '@astrojs/node';
 import preact from '@astrojs/preact';
 import { vanillaExtractPlugin } from '@vanilla-extract/vite-plugin';
+import shoelace from '@astrojs/shoelace';
 //import copy from 'rollup-plugin-copy';
 
 const isDev = process.env.NODE_ENV !== 'production';
