@@ -1,7 +1,8 @@
 /** @jsxImportSource preact */
 import { useState, useEffect } from "preact/hooks";
+import { useScore } from "../../../context/ScoreContext";
+import { buttonPrimary } from './GameContainer.css';
 import QuestionGame from "./QuestionGame";
-import { useScore } from "../context/ScoreContext";
 
 interface Props {
   id?: string;

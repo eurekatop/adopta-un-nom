@@ -1,6 +1,6 @@
 /** @jsxImportSource preact */
 import { ScoreProvider } from '../context/ScoreContext';
-import GameContainer from './GameContainer'; // component real del joc
+import GameContainer from './games/madQuestion/GameContainer'; // component real del joc
 
 
 interface Props {

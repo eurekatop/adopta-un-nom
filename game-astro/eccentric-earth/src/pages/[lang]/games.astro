@@ -1,0 +1,135 @@
+---
+import Card from "../../base-components/card";
+import Layout from "../../layouts/baseLayout.astro";
+import {
+  stackBase,
+  stackGap,
+  row,
+  gridColumns,
+  grid,
+  justify,
+  align
+} from "../../styles/layout.css.ts";
+
+const { lang = "ca", title, url, description, seed = "" } = Astro.props;
+
+const translations = {
+  ca: {
+    title: "WordGuardian - Endevina la definició?",
+    description:
+      "Et presentarem una definició, i hauràs d’escollir la paraula correcta entre diverses opcions. Aconsegueix la millor puntuació possible!",
+    start: "Comença a jugar",
+  },
+  es: {
+    title: "WordGuardian -  Adivina la definición",
+    description:
+      "Te mostraremos una definición, y deberás escoger la palabra correcta entre varias opciones. ¡Consigue la mejor puntuación posible!",
+    start: "Empezar a jugar",
+  },
+  en: {
+    title: "WordGuardian - Guess the definition",
+    description:
+      "We’ll show you a definition, and you’ll have to choose the correct word among several options. Try to get the best score!",
+    start: "Start playing",
+  },
+};
+
+const t = translations[lang as keyof typeof translations] ?? translations.ca;
+---
+
+<Layout title={t.title} lang={lang}>
+
+
+
+  <div class=`${grid} ${gridColumns[2]}`>
+
+
+
+    <!-- Card --> 
+    <Card
+      title="Joc Aleatori"
+      description="Preguntes boges i aleatòries"
+      image=`${import.meta.env.BASE_URL}logos/sm/time-game.png`
+    />     
+
+
+
+    <!-- Card -->
+    <div>
+      <sl-card class="card-overview">
+        <img
+          slot="image"
+          src=`${import.meta.env.BASE_URL}logos/sm/random-game.png`
+          alt="Image or a random game."
+        />
+
+        <strong>Joc Aleatori</strong><br />
+        Preguntes bojes i aleatòries<br />
+        <small>6 weeks old</small>
+
+        <div slot="footer" class=`${align.center}`>
+            <sl-button variant="primary" size="large" style="width: 100%;" >Jugar</sl-button>
+        </div>
+      </sl-card>
+    </div>
+
+    <!-- Card -->
+    <div>
+      <sl-card class="card-overview">
+        <img
+          slot="image"
+          src=`${import.meta.env.BASE_URL}logos/sm/ia-game.png`
+          alt="Image for the ia game."
+        />
+
+        <strong>Joc Intel·ligent</strong><br />
+        Opcions seleccinades amb IA<br />
+        <small>6 weeks old</small>
+
+        <div slot="footer" class=`${align.center}`>
+            <sl-button variant="primary" size="large" style="width: 100%;" >Jugar</sl-button>
+        </div>
+      </sl-card>
+    </div>
+
+    <!-- Card -->
+    <div>
+      <sl-card class="card-overview">
+        <img
+          slot="image"
+          src=`${import.meta.env.BASE_URL}logos/sm/mountain-game.png`
+          alt="Image for the mountain game."
+        />
+
+        <strong>Joc de Muntanyes</strong><br />
+        Paraules relacionades amb llocs alts<br />
+        <small>6 weeks old</small>
+
+        <div slot="footer" class=`${align.center}`>
+            <sl-button variant="primary" size="large" style="width: 100%;" >Jugar</sl-button>
+        </div>
+      </sl-card>
+    </div>
+
+    <!-- Card -->
+    <div>
+      <sl-card class="card-overview">
+        <img
+          slot="image"
+          src=`${import.meta.env.BASE_URL}logos/sm/time-game.png`
+          alt="Image for the time game."
+        />
+
+        <strong>Joc de Exprés</strong><br />
+        Respòn en menys de 10 segons!<br />
+        <small>6 weeks old</small>
+
+        <div slot="footer" class=`${align.center}`>
+            <sl-button variant="primary" size="large" style="width: 100%;" >Jugar</sl-button>
+        </div>
+      </sl-card>
+    </div>
+
+
+  </div>
+</Layout>

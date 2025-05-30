@@ -2,7 +2,8 @@
 import { sanitizeJsonLd } from "../lib/sanitizeJsonLd";
 import FacebookLogin from '../components/FacebookLogin.astro';
 import GTM from "../components/layout/GTM.astro";
-
+import "../styles/globalStyles.css";
+import "@shoelace-style/shoelace/dist/themes/light.css";
 
 /*
 <!-- HTML Meta Tags -->
@@ -128,7 +129,20 @@ const safeJsonLd = sanitizeJsonLd(jsonLd);
     <meta property="og:url" content={ t.meta.url + ( url || "") } />
     <meta property="og:type" content="website" />
     
+    
+    {/* JSON-LD for Google's structured data */}  
     <script type="application/ld+json" set:html={safeJsonLd}></script>
+
+    {/* Shoelace */} 
+    <script>
+      // setBasePath to tell Shoelace where to load icons from.
+      import { setBasePath } from '@shoelace-style/shoelace/dist/utilities/base-path.js';
+      setBasePath('/shoelace-assets/');
+
+      // Load all components.
+      import '@shoelace-style/shoelace';
+    </script>
+
 
 
     <link rel="stylesheet" href=`${import.meta.env.BASE_URL}styles/global.css` />
@@ -143,7 +157,7 @@ const safeJsonLd = sanitizeJsonLd(jsonLd);
       src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
     ></script>
   </head>
-  <body>
+  <body class="light-theme">
     <GTM gtmId={import.meta.env.GOOGLE_GTM_ID || ""} gaId={import.meta.env.GOOGLE_GA_ID || ""} />
 
     <header>

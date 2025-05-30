@@ -54,3 +54,7 @@ footer {
   text-align: center;
   min-height: 200px;
 }
+
+sl-card:not(:defined) {
+  display: none;
+}
