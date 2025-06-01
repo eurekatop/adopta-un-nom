@@ -7,11 +7,13 @@ async function getDefinition(seed:string, lang:number) : Promise<{
   correct: string,
   options: string[],
 }> {
+  const numDistractors = 3;
+
   // sanitize seed to remove any non-alphanumeric characters and convert it to lowercase
   seed = seed.replace(/[^a-zA-Z0-9]/g, '').toLowerCase() + lang;
 
   const conn = await pool.getConnection();
-  const [rows] = await conn.query(`CALL generate_quiz_2(7, ${lang}, '${seed}')`);
+  const [rows] = await conn.query(`CALL generate_quiz_2(${numDistractors}, ${lang}, '${seed}')`);
   conn.release();
 
    const quizStr = rows[0][0].quiz_json; 
@@ -27,7 +29,7 @@ async function getDefinition(seed:string, lang:number) : Promise<{
 
 
 export async function getQuizHandler(seed: string, lang: string) {
-  const attempts = 5;
+  const attempts = 3;
   let attemptCount = 1;
   let quiz;
   let _seed = seed;

@@ -1,5 +1,6 @@
 import { getQuizHandler } from '../getDefinicioDelDia';
 import { saveCorrectAnswer } from '../answers';
+import { getDistractors } from '../../domain/services/lllmgroq';
 
 function shuffle<T>(array: T[]): T[] {
   const a = [...array];
@@ -11,18 +12,35 @@ function shuffle<T>(array: T[]): T[] {
 }
 
 export async function getQuestionData(id: string, lang: string) {
+  
   const question = await getQuizHandler(id, lang);
 
-  if (!question) {
-    return undefined;
+
+
+  const distractors = await getDistractors( question.correct, question.question, lang );
+
+  const filteredDistractors = new Set( [
+    ...question.options,
+    ...distractors
+  ]
+  );
+
+
+  const _question = {
+    ...question,
+    options: [
+      ...filteredDistractors
+    ]
   }
 
+
+
   const answerId : string = crypto.randomUUID();
-  await saveCorrectAnswer(answerId, question.correct);
+  await saveCorrectAnswer(answerId, _question.correct);
 
   return {
-    question: question.question,
-    options: shuffle([...question.options]),
+    question: _question.question,
+    options: shuffle([..._question.options]),
     answerId
   };
 }
