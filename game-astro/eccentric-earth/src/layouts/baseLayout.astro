@@ -4,6 +4,7 @@ import FacebookLogin from '../components/FacebookLogin.astro';
 import GTM from "../components/layout/GTM.astro";
 import "../styles/globalStyles.css";
 import "@shoelace-style/shoelace/dist/themes/light.css";
+import { undefined } from "astro:schema";
 
 /*
 <!-- HTML Meta Tags -->
@@ -29,7 +30,7 @@ import "@shoelace-style/shoelace/dist/themes/light.css";
 */
 
 
-const { lang = "ca", title, url, description, seed = "" } = Astro.props;
+const { lang = "ca", title, url, description, seed = "", image } = Astro.props;
 
 const translations = {
   ca: {
@@ -125,7 +126,17 @@ const safeJsonLd = sanitizeJsonLd(jsonLd);
     <meta name="robots" content="index,follow" />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={t.meta.description + (description ? ` - ${description}` : "")}  />
-    <meta property="og:image" content=`${t.meta.url}${import.meta.env.BASE_URL}api/img/og/${lang}/${seed}` />
+    
+    {image !== undefined && (
+      <>
+        <meta property="og:image" content={`${t.meta.url}${import.meta.env.BASE_URL}api/img/og/${lang}/${seed}`} />
+      </>
+     )}
+    {image == undefined && (
+      <>
+        <meta property="og:image" content={`${t.meta.url}${import.meta.env.BASE_URL}logo_white.png`} />
+      </>
+     )}
     <meta property="og:url" content={ t.meta.url + ( url || "") } />
     <meta property="og:type" content="website" />
     

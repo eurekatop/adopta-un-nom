@@ -9,3 +9,9 @@ services:
     environment:
       - DB_HOST=${DB_HOST}
       - DB_PASSWORD=${DB_PASSWORD}
+      - GOOGLE_GTM_ID=${GOOGLE_GTM_ID}
+      - GOOGLE_GA_ID=${GOOGLE_GA_ID}
+      - WG_HTTPS=${WG_HTTPS}
+      - GROQ_API_KEY=${GROQ_API_KEY}
+      - GROQ_BASE_URL=${GROQ_BASE_URL}
+
