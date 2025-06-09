@@ -4,33 +4,15 @@ import FacebookLogin from '../components/FacebookLogin.astro';
 import GTM from "../components/layout/GTM.astro";
 import "../styles/globalStyles.css";
 import "@shoelace-style/shoelace/dist/themes/light.css";
-import { undefined } from "astro:schema";
-
-/*
-<!-- HTML Meta Tags -->
-<title>¿Adivina la definición?</title>
-<meta name="description" content="Juegos de palabras, para poner a prueba tus conocimientos. - Sistema cuasiestable formado por un electrón y su antipartícula, el positrón, unidos formando un átomo exótico. La órbita de ambas partículas y los niveles energéticos son similares a los del átomo de hidrógeno (formado por un protón y un electrón) pero debido a la diferente masa reducida del sistema, las frecuencias asociadas a las líneas espectrales son menos de la mitad que en el hidrógeno.">
-
-<!-- Facebook Meta Tags -->
-<meta property="og:url" content="https://www.eurekatop.com/wordguardian/es/game/1747937657998-857691-0755">
-<meta property="og:type" content="website">
-<meta property="og:title" content="¿Adivina la definición?">
-<meta property="og:description" content="Juegos de palabras, para poner a prueba tus conocimientos. - Sistema cuasiestable formado por un electrón y su antipartícula, el positrón, unidos formando un átomo exótico. La órbita de ambas partículas y los niveles energéticos son similares a los del átomo de hidrógeno (formado por un protón y un electrón) pero debido a la diferente masa reducida del sistema, las frecuencias asociadas a las líneas espectrales son menos de la mitad que en el hidrógeno.">
-<meta property="og:image" content="https://eurekatop.com/images/logo.png">
-
-<!-- Twitter Meta Tags -->
-<meta name="twitter:card" content="summary_large_image">
-<meta property="twitter:domain" content="eurekatop.com">
-<meta property="twitter:url" content="https://www.eurekatop.com/wordguardian/es/game/1747937657998-857691-0755">
-<meta name="twitter:title" content="¿Adivina la definición?">
-<meta name="twitter:description" content="Juegos de palabras, para poner a prueba tus conocimientos. - Sistema cuasiestable formado por un electrón y su antipartícula, el positrón, unidos formando un átomo exótico. La órbita de ambas partículas y los niveles energéticos son similares a los del átomo de hidrógeno (formado por un protón y un electrón) pero debido a la diferente masa reducida del sistema, las frecuencias asociadas a las líneas espectrales son menos de la mitad que en el hidrógeno.">
-<meta name="twitter:image" content="https://eurekatop.com/images/logo.png">
-
-<!-- Meta Tags Generated via https://www.opengraph.xyz -->
-*/
+//import { undefined } from "astro:schema";
 
 
 const { lang = "ca", title, url, description, seed = "", image } = Astro.props;
+
+const locale = new Intl.Locale(lang);
+if (!["ca", "es", "en"].includes(locale.language)) {
+  throw new Error(`Invalid language code: ${locale.language}`);
+}
 
 const translations = {
   ca: {
@@ -124,23 +106,35 @@ const safeJsonLd = sanitizeJsonLd(jsonLd);
     <meta name="keywords" content="joc, jocs, paraula, paraules, wordgames, words, juego, juegos, wordguardian" />
     <meta name="author" content="Francesc López Marió" />
     <meta name="robots" content="index,follow" />
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:locale" content={locale.language} />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={t.meta.description + (description ? ` - ${description}` : "")}  />
-    
     {image !== undefined && (
-      <>
         <meta property="og:image" content={`${t.meta.url}${import.meta.env.BASE_URL}api/img/og/${lang}/${seed}`} />
-      </>
      )}
     {image == undefined && (
-      <>
         <meta property="og:image" content={`${t.meta.url}${import.meta.env.BASE_URL}logo_white.png`} />
-      </>
      )}
     <meta property="og:url" content={ t.meta.url + ( url || "") } />
     <meta property="og:type" content="website" />
     
+ 
+    <!-- Twitter Meta Tags -->
+    {image !== undefined && (
+      <meta name="twitter:image" content={`${t.meta.url}${import.meta.env.BASE_URL}api/img/og/${lang}/${seed}`} >
+    )}
+    {image == undefined && (
+      <meta name="twitter:image" content={`${t.meta.url}${import.meta.env.BASE_URL}logo_white.png`}>
+    )}
+    <meta property="twitter:domain" content="eurekatop.com">
+    <meta property="twitter:url" content={ t.meta.url + ( url || "") }>
+    <meta name="twitter:title" content={title}>
+    <meta name="twitter:description" content={t.meta.description + (description ? ` - ${description}` : "")}  />
+    <meta name="twitter:card" content="summary_large_image">
     
+
     {/* JSON-LD for Google's structured data */}  
     <script type="application/ld+json" set:html={safeJsonLd}></script>
 
