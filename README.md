@@ -4,7 +4,7 @@ This repository contains the source code of [**WordGuardian**](https://eurekatop
 a web game to guess word definitions.
 
 ## Demo
-[Play online](https://eurekatop.com/wordguardian)
+[Play online](https://eurekatop.com/wordguardian/en/game)
 
 ## Run locally
 Follow the instructions in  
